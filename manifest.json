@@ -5,8 +5,32 @@
     "author": "amaiko",
     "website": "https://amaiko.ai/blog",
     "artwork": "artwork/show-cover.webp",
-    "categories": ["Technology", "Business"],
-    "baseUrl": ""
+    "categories": [
+      "Technology",
+      "Business"
+    ],
+    "baseUrl": "https://github.com/amaiko-ai/amaiko-podcast/releases/download/episodes"
   },
-  "episodes": []
+  "episodes": [
+    {
+      "slug": "agent-sprawl.",
+      "locale": "de",
+      "title": "Du brauchst keine 100 KI-Agenten — du brauchst einen, der funktioniert",
+      "description": "Enterprise-KI wiederholt den Fragmentierungsfehler der 2000er. Josh Bersins Studie 2026 warnt vor der Agenten-Flut — die Unternehmen, die gewinnen, werden nicht die meisten Agenten haben, sondern die, deren Agenten tatsächlich zusammenarbeiten.",
+      "date": "2026-03-17",
+      "duration": 356,
+      "fileSize": 8535168,
+      "file": "episodes/agent-sprawl.de.mp3"
+    },
+    {
+      "slug": "agent-sprawl.",
+      "locale": "en",
+      "title": "You Don't Need 100 AI Agents — You Need One That Works",
+      "description": "Enterprise AI is repeating the fragmentation mistake of the 2000s. Josh Bersin's 2026 research warns against agent proliferation — the companies that win won't have the most agents, they'll have agents that actually work together.",
+      "date": "2026-03-17",
+      "duration": 434,
+      "fileSize": 10426176,
+      "file": "episodes/agent-sprawl.en.mp3"
+    }
+  ]
 }
