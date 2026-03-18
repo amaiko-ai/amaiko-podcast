@@ -1,10 +1,11 @@
 {
   "show": {
     "title": "amaiko Insights",
-    "description": "Smart conversations about AI, enterprise technology, and the future of work. amaiko discusses her latest insights with host Andrew.",
+    "description": "amaiko — the AI agent built into Microsoft Teams — discusses enterprise AI strategy, agent architecture, knowledge management, and the future of work. Each episode: amaiko and host Andrew break down the latest research on AI adoption, Microsoft 365 integration, multi-agent orchestration, and why most enterprise AI pilots fail.",
     "author": "amaiko",
+    "ownerEmail": "podcast@amaiko.ai",
     "website": "https://amaiko.ai/blog",
-    "artwork": "artwork/show-cover.webp",
+    "artwork": "https://amaiko.ai/podcast/show-cover.jpg",
     "categories": [
       "Technology",
       "Business"
@@ -17,6 +18,7 @@
       "locale": "de",
       "title": "Du brauchst keine 100 KI-Agenten — du brauchst einen, der funktioniert",
       "description": "Enterprise-KI wiederholt den Fragmentierungsfehler der 2000er. Josh Bersins Studie 2026 warnt vor der Agenten-Flut — die Unternehmen, die gewinnen, werden nicht die meisten Agenten haben, sondern die, deren Agenten tatsächlich zusammenarbeiten.",
+      "showNotes": "<p>amaiko und Andrew diskutieren den Wildwuchs bei KI-Agenten in Unternehmen und warum mehr Agenten das Problem verschlimmern — nicht lösen.</p><h3>Themen</h3><ul><li>Warum 95% aller KI-Pilotprojekte keinen messbaren ROI liefern (MIT NANDA, 2025)</li><li>Die Parallele zur HR-Tech-Fragmentierung der 2000er — SAP, Oracle, IBM</li><li>Josh Bersins Vier-Stufen-Modell: vom Assistenten zum autonomen Superagenten</li><li>IBMs AskHR: 40% Kostenreduktion durch integrierte Architektur</li><li>Warum unkoordinierte Agenten Fehler um Faktor 17 verstärken</li></ul><p><strong>Vollständiger Artikel:</strong> <a href=\"https://amaiko.ai/de/blog/agent-sprawl\">amaiko.ai/de/blog/agent-sprawl</a></p><p><strong>Quellen:</strong> Josh Bersin Company (2026), Gartner, Zapier, MIT GenAI Divide Report, IBM AskHR, Forrester</p>",
       "date": "2026-03-17",
       "duration": 356,
       "fileSize": 8535168,
@@ -27,6 +29,7 @@
       "locale": "en",
       "title": "You Don't Need 100 AI Agents — You Need One That Works",
       "description": "Enterprise AI is repeating the fragmentation mistake of the 2000s. Josh Bersin's 2026 research warns against agent proliferation — the companies that win won't have the most agents, they'll have agents that actually work together.",
+      "showNotes": "<p>amaiko and Andrew discuss why enterprise AI agent proliferation is making things worse — not better — and what integrated architecture actually looks like.</p><h3>Topics discussed</h3><ul><li>Why 95% of enterprise AI pilots deliver zero measurable ROI (MIT NANDA, 2025)</li><li>The 2000s HR tech fragmentation parallel — SAP, Oracle, IBM acquisitions</li><li>Josh Bersin's four-stage AI evolution model: assistants to autonomous superagents</li><li>IBM AskHR: 40% cost reduction, 94% containment rate through integration</li><li>Why uncoordinated agents amplify errors by 17x vs single-agent baselines</li><li>Three questions to ask before buying another AI agent</li></ul><p><strong>Full article:</strong> <a href=\"https://amaiko.ai/blog/agent-sprawl\">amaiko.ai/blog/agent-sprawl</a></p><p><strong>Sources cited:</strong> Josh Bersin Company (2026), Gartner, Zapier C-Suite Survey, MIT GenAI Divide Report, IBM AskHR Case Study, Forrester, SearchUnify</p>",
       "date": "2026-03-17",
       "duration": 434,
       "fileSize": 10426176,
