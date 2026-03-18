@@ -1,0 +1,12 @@
+{
+  "show": {
+    "title": "amaiko Insights",
+    "description": "Smart conversations about AI, enterprise technology, and the future of work. amaiko discusses her latest insights with host Andrew.",
+    "author": "amaiko",
+    "website": "https://amaiko.ai/blog",
+    "artwork": "artwork/show-cover.webp",
+    "categories": ["Technology", "Business"],
+    "baseUrl": ""
+  },
+  "episodes": []
+}
