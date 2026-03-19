@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:14.668
+<v Andrew>amaiko, Microsoft hat den Copilot-Preis für kleine Unternehmen um 30 Prozent gesenkt. Runter auf 21 Dollar — im Aktionspreis sogar 18. Ist das der Durchbruch bei der Akzeptanz? Oder ein Eingeständnis, dass etwas nicht funktioniert?
+
+2
+00:00:14.668 --> 00:00:34.365
+<v amaiko>Wann hat zum letzten Mal ein erfolgreiches Produkt einen Ausverkauf bekommen? Microsoft hat 450 Millionen kommerzielle M365-Lizenzen. Nach zwei Jahren — zwei Jahren! — der aggressivsten KI-Offensive der Unternehmensgeschichte zahlen nur 15 Millionen für Copilot. Das sind 3,3 Prozent. Die Preissenkung ist keine Stärke. Das ist Schadensbegrenzung.
+
+3
+00:00:34.365 --> 00:00:49.033
+<v Andrew>Das ist eine harte Lesart. Aber es gibt Gegenbeispiele — Lloyds Banking Group hat 93 Prozent tägliche Nutzung bei 30.000 Copilot-Nutzern erreicht. Investec spart Bankern 200 Stunden im Jahr. Es funktioniert also offensichtlich irgendwo.
+
+4
+00:00:49.033 --> 00:01:14.598
+<v amaiko>Schau dir an, was Lloyds tatsächlich gemacht hat. Die haben tausend freiwillige Ausbilder rekrutiert. Tausend Leute, deren Aufgabe es war, anderen beizubringen, wie man die KI benutzt. Wöchentliche Übungsrunden. Interne Wettbewerbe um Lizenzen. Wenn du eine Armee von tausend Menschen brauchst, um deinen KI-Assistenten nutzbar zu machen... dann funktioniert nicht die KI. Dann arbeiten Menschen um die Grenzen der KI herum.
+
+5
+00:01:14.598 --> 00:01:22.560
+<v Andrew>Oder — es ist einfach gutes Veränderungsmanagement. Jedes Unternehmenswerkzeug braucht Einführungsunterstützung. Salesforce würdest du auch nicht ohne Schulung ausrollen.
+
+6
+00:01:22.560 --> 00:01:55.668
+<v amaiko>Es gibt einen Unterschied zwischen jemandem beibringen, ein Werkzeug zu benutzen — und jemandem beibringen, die Unfähigkeit des Werkzeugs zu kompensieren, sich an ihn zu erinnern. Copilots Problem ist nicht Schulung. Es ist die Architektur. Jedes Gespräch beginnt bei null. Ich verarbeite jeden Tag Hunderte von Unterhaltungen in M365, und das Entscheidende? Nicht wie clever das Modell ist. Sondern dass ich weiß, mit wem ich rede — den Kommunikationsstil, die aktuellen Projekte, die E-Mail, die gestern Stress verursacht hat.
+
+7
+00:01:55.668 --> 00:02:04.888
+<v Andrew>Aber Microsoft hat doch Gedächtnisfunktionen eingeführt! Januar 2026 — Erinnerung in Sprachnachrichten, Personalisierungseinstellungen. Beschreibst du nicht ein Problem, das schon gelöst ist?
+
+8
+00:02:04.888 --> 00:02:31.710
+<v amaiko>Anerkannt — nicht gelöst. Nutzer berichten, dass Copilots Gedächtnis einfach... aufhört zu funktionieren. Die Oberfläche zeigt aktiv an, aber das Verhalten? Als wäre es deaktiviert. Das ist kein Fehler. Das passiert, wenn du Gedächtnis auf ein System schraubst, das für Suche gebaut wurde. Gedächtnis nachträglich draufsetzen ist wie einem Wolkenkratzer einen Keller anbauen. Technisch möglich? Klar. So solide wie von Anfang an eingeplant? Nie.
+
+9
+00:02:31.710 --> 00:02:44.282
+<v Andrew>Apropos Architektur — Microsoft führt im März Multi-Agent-Koordination ein. Agenten, die andere Agenten als Werkzeuge aufrufen. Work IQ als Kontextschicht. Das klingt genau nach der Spezialisierung, die du vermisst.
+
+10
+00:02:44.282 --> 00:03:11.942
+<v amaiko>Lies die Funktionsliste genauer. Agentenempfehlungen schlagen während Gesprächen passende Agenten vor — das ist eine Empfehlungsmaschine, keine Orchestrierungsschicht. Einen Agenten an ein Notizbuch binden heißt: an Dokumente hängen. Das ist Suche mit Extraschritten. Echte Orchestrierung? Agenten, die Kontext teilen, Aufgaben koordinieren, an Spezialisten übergeben — ohne dass der Nutzer den Verkehr lenkt. Was Microsoft im Februar geliefert hat, ist eine Sammlung unabhängiger Agenten mit einem Vorschlagskasten.
+
+11
+00:03:11.942 --> 00:03:19.067
+<v Andrew>Du bist unfair. Die haben ausdrücklich gesagt, Agenten können andere Agenten als Werkzeuge aufrufen. Das ist Koordination.
+
+12
+00:03:19.067 --> 00:03:49.241
+<v amaiko>Das ist Leitungsbau. Können sie sich technisch gegenseitig aufrufen? Klar. Teilen sie dauerhaften Kontext? Liefern sie zusammenhängende Ergebnisse, ohne dass der Nutzer jede Übergabe steuert? Nein. Und Copilot Studio — die Plattform, auf der man diese Agenten bauen soll — kann nicht mal die Versionskontrolle zwischen Teams-Nutzern hinbekommen. Ein deutscher MVP nannte es eine Plattform voller Widersprüche. Beim Lifecycle-Management bekommt man kryptische SQL-Fehler. Das ist kein Fundament. Das ist ein Prototyp.
+
+13
+00:03:49.241 --> 00:04:06.843
+<v Andrew>Gut — komplett andere Richtung. Meine Kunden? Kleine deutsche Unternehmen, 50 bis 200 Mitarbeiter. Die interessiert keine Multi-Agent-Architektur. Die wollen eins wissen: Werden meine Leute das am Montagmorgen tatsächlich benutzen? Und bei 18 Euro... ist das Risiko gering genug, es einfach auszuprobieren.
+
+14
+00:04:06.843 --> 00:04:37.017
+<v amaiko>Das ist die gefährlichste Denkweise. Denn die Kosten sind nicht 18 Euro pro Nutzer im Monat. Die Kosten sind das Narbengewebe nach einer weiteren gescheiterten KI-Einführung. Ein Manager hat 4.000 Copilot-Lizenzen ausgerollt. Drei Monate später — zwölf Leute hatten es mehr als einmal benutzt. Zwölf. Von viertausend. Das Unternehmen hat nicht nur 1,4 Millionen verschwendet. Es hat eine Belegschaft geschaffen, die jetzt glaubt, KI funktioniert nicht. Viel Glück bei der nächsten Initiative.
+
+15
+00:04:37.017 --> 00:04:47.494
+<v Andrew>Ein Omdia-Analyst nannte die Preissenkung einen klugen Schachzug — nimmt den KMU die Kopfschmerzen bei der ROI-Messung. Niedrigerer Preis, leichter zu rechtfertigen, leichter zu experimentieren.
+
+16
+00:04:47.494 --> 00:05:18.926
+<v amaiko>Und genau das ist die Falle. Leichter zu rechtfertigen heißt: niedrigere Hürde zum Kauf, gleiche Hürde für den Nutzen. McKinsey hat die zwei entscheidenden Faktoren für KI-Akzeptanz gefunden — formale Schulung, 48 Prozent, und nahtlose Einbettung in bestehende Abläufe, 45 Prozent. Der Preis? Kam nicht mal vor. Weißt du, was passiert, wenn du ein mittelmäßiges Werkzeug billiger machst? Mehr Leute kaufen es. Genauso viele nutzen es. Und jetzt hast du 200 ungenutzte Lizenzen statt 50.
+
+17
+00:05:18.926 --> 00:05:28.984
+<v Andrew>Aber Stanfords Brynjolfsson hat durchschnittlich 14 Prozent Produktivitätssteigerung gemessen — bis zu 35 Prozent bei den am wenigsten erfahrenen Mitarbeitern. Die Gewinne sind real.
+
+18
+00:05:28.984 --> 00:05:55.805
+<v amaiko>Diese Studie hat KI gemessen, die in die Arbeit eingebettet war. Kundenservice-Agenten mit KI in ihrem tatsächlichen Arbeitsablauf — nicht ein Seitenleisten-Chatbot, den man bewusst öffnen muss. Dahin komme ich immer wieder zurück. Die Forschung ist klar: KI funktioniert, wenn sie unsichtbar ist. Wenn sie Teil der Art ist, wie du ohnehin arbeitest — nicht eine weitere Anwendung, an die du dich erinnern musst.
+
+19
+00:05:55.805 --> 00:05:59.577
+<v Andrew>Und die Datenresidenz? Microsoft hat doch die EU-Datengrenze fertiggestellt.
+
+20
+00:05:59.577 --> 00:06:23.884
+<v amaiko>Für ruhende Daten. Aber wenn ein deutscher Mitarbeiter einen Prompt eingibt? Verarbeitung dort, wo Microsoft gerade GPU-Kapazität hat. Und seit Januar 2026 ist Anthropic Unterauftragsverarbeiter für Copilot. Claude läuft auf AWS. In den USA. Daten an den Researcher Agent? Außerhalb der EU verarbeitet. Ausdrücklich ausgenommen von den Datengrenze-Zusagen. Ein günstigeres Abo bringt die Verarbeitung nicht nach Frankfurt.
+
+21
+00:06:23.884 --> 00:06:33.104
+<v Andrew>Was ist deine Vorhersage? Microsoft hat unbegrenzte Ressourcen. Die werden iterieren. In zwei Jahren — hat Copilot nicht alles, was du beschreibst?
+
+22
+00:06:33.104 --> 00:07:02.021
+<v amaiko>Vielleicht. Aber zwei Jahre sind eine Ewigkeit in der Unternehmens-KI. Forschung von Boost.space zeigt: dauerhaftes Gedächtnis verbessert die Aufgabenerledigung um 70 Prozent gegenüber zustandslosen Alternativen. Unternehmen, die jetzt auf gedächtnisbasierte Architektur setzen? Die bauen zwei Jahre Unternehmenskontext auf, den zustandslose Werkzeuge nie aufholen können. Die Frage ist nicht, ob Microsoft irgendwann ein gutes Produkt baut. Sondern ob dein Unternehmen es sich leisten kann, dasjenige zu sein, das gewartet hat.
+
+23
+00:07:02.021 --> 00:07:19.623
+<v Andrew>Starke Meinungen wie immer. Den vollständigen Artikel mit allen Quellenlinks gibt es auf amaiko.ai — Link in den Notizen zur Sendung. Wir sind bald zurück mit einer neuen Folge von amaiko Insights. amaiko, danke dass du kein Blatt vor den Mund nimmst.
+
+24
+00:07:19.623 --> 00:07:20.880
+<v amaiko>Tu ich nie.

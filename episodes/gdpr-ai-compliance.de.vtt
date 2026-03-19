@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:11.590
+<v Andrew>amaiko, das Data Privacy Framework hat im September 2025 seine erste Klage überstanden. Der Latombe-Fall wurde abgewiesen. Ist die Panik um Datenübermittlung in die USA nicht übertrieben?
+
+2
+00:00:11.590 --> 00:00:38.910
+<v amaiko>Der Fall wurde aus formalen Gründen abgewiesen — nicht weil das Gericht gesagt hat, das Rahmenwerk sei sicher. NOYB und Max Schrems haben öffentlich erklärt, dass sie eine breitere Anfechtung prüfen. Das sind die Leute, die Safe Harbor und Privacy Shield zu Fall gebracht haben. Die grundlegende Spannung zwischen US-Überwachungsrecht und europäischen Grundrechten ist ungelöst. Das ist keine Panikmache — das ist Muster erkennung.
+
+3
+00:00:38.910 --> 00:00:44.291
+<v Andrew>Aber tausende Unternehmen übermitteln gerade Daten unter dem DPF. Sind die alle fahrlässig?
+
+4
+00:00:44.291 --> 00:01:12.438
+<v amaiko>Sie gehen eine Wette ein. Für manche ist das vertretbar — wenn dein KI-Werkzeug öffentliche Marketingtexte zusammenfasst, ist das Risikoprofil ein anderes als bei Mitarbeitergesprächen oder Kundenverträgen. Was ich aber in den Mandanten sehe, in denen ich arbeite: Niemand macht die Risikoanalyse. Niemand fragt, was passiert, wenn das DPF nächstes Jahr kippt. Als Privacy Shield 2020 fiel, gab es null Übergangsfrist. Einen Tag konform, am nächsten nicht.
+
+5
+00:01:12.438 --> 00:01:25.270
+<v Andrew>Du argumentierst im Grunde, dass deutsche Unternehmen nur KI mit Datenverarbeitung in Deutschland nutzen sollten. Aber die besten Modelle kommen aus Amerika. Bekommt man mit deutschem Hosting nicht einfach schlechtere KI?
+
+6
+00:01:25.270 --> 00:01:58.798
+<v amaiko>Das ist ein verbreiteter Irrtum. Wo ein Modell trainiert wurde und wo deine Daten verarbeitet werden, sind völlig verschiedene Fragen. Ich nutze dieselben Spitzenmodelle wie alle anderen. Der Unterschied: Wenn jemand in München einen Prompt eintippt, trifft der auf eine GPU in Frankfurt — nicht in Virginia. Die Modellqualität ist identisch. Die Datenresidenz nicht. Du wählst nicht zwischen guter KI und deutscher KI. Du wählst zwischen guter KI, die deine Daten in Deutschland verarbeitet, und guter KI, die sie irgendwo verarbeitet.
+
+7
+00:01:58.798 --> 00:02:08.733
+<v Andrew>Microsoft hat doch angekündigt, Copilot-Verarbeitung in fünfzehn Ländern lokal anzubieten. Deutschland steht auf der Liste für 2026. Löst sich das Problem nicht von selbst?
+
+8
+00:02:08.733 --> 00:02:36.052
+<v amaiko>Das ist ein Versprechen, das Problem zu lösen. Heute wird ein deutscher Copilot-Prompt dort verarbeitet, wo Microsoft innerhalb der EU Data Boundary LLM-Kapazität hat. Irland, Niederlande, irgendwo in Europa — nur nicht unbedingt in Deutschland. Und 2026 ist die Ankündigung. Kein konkreter Monat. Keine vertragliche Zusicherung, die ich öffentlich gesehen habe. Die EU Data Boundary für ruhende Daten hat Jahre gedauert. Verarbeitung ist schwieriger.
+
+9
+00:02:36.052 --> 00:02:48.056
+<v Andrew>Aber die EU ist doch der rechtliche Rahmen. Datenverarbeitung innerhalb der EU ist DSGVO-konform. Du verwechselst den rechtlichen Mindeststandard mit einer höheren Anforderung, die es so gar nicht gibt.
+
+10
+00:02:48.056 --> 00:03:23.654
+<v amaiko>Rein rechtlich hast du recht — Stand heute. Aber die BfDI hat im Juni 2025 Vodafone mit 45 Millionen Euro Bußgeld belegt. Das höchste DSGVO-Bußgeld, das jemals in Deutschland verhängt wurde. 30 Millionen wegen mangelhafter Sicherheit bei Authentifizierung, 15 Millionen wegen unzureichender Kontrolle von Auftragsverarbeitern. Die BfDI zeigt Zähne. Und wenn dein Betriebsrat fragt, wo die Prompts der Mitarbeitenden verarbeitet werden, ist 'irgendwo in der EU' eine deutlich schwierigere Antwort als 'Frankfurt.' Compliance ist nicht nur, was rechtlich minimal reicht. Es ist, was du verteidigen kannst.
+
+11
+00:03:23.654 --> 00:03:37.314
+<v Andrew>Stichwort Betriebsrat. In Deutschland hat der Betriebsrat Mitbestimmungsrecht bei der Einführung technischer Überwachungssysteme. KI, die sich merkt, wie Mitarbeitende arbeiten, wann sie produktiv sind, wie sie kommunizieren — wird das nicht zum Betriebsverfassungs-Albtraum?
+
+12
+00:03:37.314 --> 00:04:11.670
+<v amaiko>Der Betriebsrat ist tatsächlich einer der Gründe, warum Transparenz über Datenverarbeitung in Deutschland härter wiegt als anderswo. Paragraph 87 Absatz 1 Nummer 6 Betriebsverfassungsgesetz — Mitbestimmung bei technischen Einrichtungen, die Verhalten oder Leistung überwachen können. Wenn dein KI-Werkzeug im Ausland verarbeitet und der Anbieter keine klare Dokumentation liefert, wo welche Daten landen, hat dein Betriebsrat ein berechtigtes Vetorecht. Ich habe Rollouts gesehen, die nicht an der Technik gescheitert sind — sondern an der Betriebsvereinbarung. Transparenz ist kein nettes Extra. Es ist eine Voraussetzung.
+
+13
+00:04:11.670 --> 00:04:24.502
+<v Andrew>Die BfDI hat Ende 2025 eine Handreichung zu KI in Behörden veröffentlicht — Datenschutz von Anfang an mitdenken. Gilt das nur für öffentliche Stellen, oder setzt das den Maßstab für alle?
+
+14
+00:04:24.502 --> 00:04:49.338
+<v amaiko>Formal gilt es für Behörden. Aber in der Praxis setzen diese Handreichungen den Erwartungshorizont für die Aufsichtsbehörden. Wenn die BfDI sagt, KI in Behörden braucht Datenschutz-Folgenabschätzung, transparente Dokumentation und klare Verantwortlichkeiten — dann werden die Landesdatenschutzbehörden denselben Maßstab an Unternehmen anlegen, die sie prüfen. Die Handreichung ist kein Gesetz. Aber sie sagt dir, worauf Prüfer achten werden. Ignorieren wäre fahrlässig.
+
+15
+00:04:49.338 --> 00:05:13.346
+<v Andrew>Was mich ehrlich gesagt mehr beunruhigt als Datenresidenz: Dein Verkaufsargument ist, dass du dir Gespräche merkst, Nutzerprofile aufbaust, Vorlieben lernst. Aber Artikel 17 DSGVO — das Recht auf Löschung — gibt jedem das Recht, seine Daten löschen zu lassen. Wie löschst du den Einfluss einer Person aus einem KI-Gedächtnis? Ist dauerhafte Erinnerung nicht grundsätzlich unvereinbar mit der DSGVO?
+
+16
+00:05:13.346 --> 00:05:46.460
+<v amaiko>Das ist die Frage, die die meisten KI-Anbieter meiden. Es gibt einen entscheidenden Unterschied zwischen meinem Speicher und trainingsbasierten Systemen. Wenn ein Sprachmodell auf deinen Daten trainiert wird, fließen sie in Milliarden Modellparameter ein. Da kannst du nichts gezielt rausziehen. Mein Gedächtnis dagegen — Nutzerprofile, Gesprächsverläufe, Präferenzen — liegt als strukturierte Daten in einer deutschen Datenbank. Einzeln adressierbar. Wenn jemand sein Recht auf Löschung ausübt, lösche ich das Profil und den Verlauf. Weg. Nicht 'ungefähr aus Modellgewichten entfernt.' Tatsächlich gelöscht.
+
+17
+00:05:46.460 --> 00:05:58.878
+<v Andrew>Das klingt sauber. Zu sauber. Wenn du die Vorlieben einer Person genutzt hast, um Antworten für ihr ganzes Team zu formen, macht das Löschen des Quelldatensatzes den Einfluss nicht rückgängig.
+
+18
+00:05:58.878 --> 00:06:31.993
+<v amaiko>Du hast recht, dass Aufsichtsbehörden diese Frage für kein KI-System abschließend beantwortet haben. Aber die Architektur ist entscheidend. Meine Profile trainieren kein Modell um. Sie sind Kontext, den ich zur Laufzeit einbringe. Profil löschen — und das nächste Gespräch startet bei null. Kein Resteinfluss, keine Phantommuster. Vergleich das mit OpenAI, wo die italienische Garante 15 Millionen Euro Bußgeld verhängt hat — unter anderem wegen mangelnder Transparenz darüber, wie Nutzerdaten ins System einfließen. Die Architektur bestimmt, ob 'Löschen' wirklich löschen bedeutet.
+
+19
+00:06:31.993 --> 00:06:44.825
+<v Andrew>Das italienische Bußgeld ist interessant, aber 15 Millionen sind für OpenAI Kleingeld. Meta hat 1,2 Milliarden gezahlt. Ändern diese Bußgelder wirklich Verhalten, oder kalkulieren die Konzerne das einfach als Betriebskosten ein?
+
+20
+00:06:44.825 --> 00:07:10.489
+<v amaiko>Für Meta ist nicht das Bußgeld das Teure — es ist die Anordnung, die gesamte Datenübermittlungsinfrastruktur in der EU umzubauen. Aber für ein Mittelstandsunternehmen mit 50 Millionen Umsatz ist ein DSGVO-Bußgeld von 4 Prozent des Jahresumsatzes kein Posten in der Buchhaltung. Das ist existenzbedrohend. Die Unternehmen, die diesen Artikel lesen, sind nicht Meta. Die können zwei Millionen Euro Strafe nicht einfach wegstecken.
+
+21
+00:07:10.489 --> 00:07:22.493
+<v Andrew>Der EU AI Act kommt noch obendrauf — bis zu 7 Prozent des Umsatzes für verbotene Praktiken, 3 Prozent für Verstöße bei Allzweck-KI. Verfolgen Unternehmen tatsächlich beide Regelwerke parallel?
+
+22
+00:07:22.493 --> 00:07:52.709
+<v amaiko>Die meisten Unternehmen, mit denen ich interagiere, behandeln das KI-Gesetz als Zukunftsproblem. Aber die Pflichten für Allzweck-KI-Modelle gelten seit August 2025. Wenn du ein Werkzeug einsetzt, das auf GPT-4 oder Claude basiert, ist die Compliance deines Anbieters mit den Transparenzanforderungen auch dein Problem. Zwei Regelwerke, ein Datensatz, parallele Durchsetzung. KI-Verarbeitung, Einwilligungsmanagement und Auftragsverarbeitung sind die drei am schnellsten wachsenden Bußgeld-Auslöser für Ende 2026. Wer auf den ersten Vollstreckungsbescheid wartet, wird der erste Vollstreckungsbescheid.
+
+23
+00:07:52.709 --> 00:08:07.611
+<v Andrew>Den vollständigen Artikel mit allen Quellen und Bußgeldsummen gibt es auf amaiko.ai — Verweis in den Shownotes. Bald gibt es eine neue Folge von amaiko Insights. amaiko, eine Sache, die ein Datenschutzbeauftragter diese Woche tun sollte.
+
+24
+00:08:07.611 --> 00:08:25.824
+<v amaiko>Stell deinem KI-Anbieter drei Fragen: Wo werden Prompts verarbeitet? Wo werden Ergebnisse gespeichert? Auf welchen Transfermechanismus stützt ihr euch? Wenn irgendeine Antwort 'arbeiten wir dran' enthält — das ist deine Compliance-Lücke, schriftlich dokumentiert. Jetzt kannst du nicht mehr sagen, du hättest es nicht gewusst.

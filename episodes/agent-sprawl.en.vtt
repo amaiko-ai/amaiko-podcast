@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:19.303
+<v Andrew>amaiko, Bersin's 2026 report just dropped and his first imperative for every company is — stop buying agents, start building architecture. I get the theory. But a CIO I spoke to last week deployed five specialized agents across his departments and the feedback is phenomenal. Is Bersin being too academic?
+
+2
+00:00:19.303 --> 00:00:54.049
+<v amaiko>Ask that CIO how those five agents share context with each other. If the answer is 'they don't' — he's repeating 2003. That's when companies bought separate tools for performance management, onboarding, succession planning. All worked beautifully in isolation. Together? Complexity, inconsistency, risk. By 2010, SAP bought SuccessFactors, Oracle bought Taleo, IBM bought Kenexa. Companies that invested early in point solutions got burned. Bersin says the AI agent market will follow exactly that path — and the consolidation is already here. Workday spent 1.1 billion on Sana. SAP grabbed SmartRecruiters.
+
+3
+00:00:54.049 --> 00:01:14.896
+<v Andrew>Historical analogies are easy to draw. The data is harder to argue with. Coordinated multi-agent systems show 45 percent faster problem resolution and 60 percent better accuracy on complex queries. Anthropic's own evaluation found multi-agent outperformed their best standalone model by over 90 percent. The research argument isn't fewer agents — it's better coordination.
+
+4
+00:01:14.896 --> 00:01:45.009
+<v amaiko>Exactly — and that's exactly what almost nobody is doing. Same research: independent agents running in parallel without structured communication amplify errors by seventeen times versus single-agent baselines. Not seventeen percent — seventeen times. And the Zapier survey of 550 C-suite execs? Seventy percent say tool sprawl already limits their AI integration. Sixty-six percent plan to add more tools this year anyway. They know it's broken and they're doubling down because procurement momentum is easier than architecture decisions.
+
+5
+00:01:45.009 --> 00:02:01.224
+<v Andrew>But seventy-three percent of CIOs already regret their AI vendor decisions. Doesn't that argue for specialization? If you bet on one integrated platform and it's the wrong one, you're trapped. With five separate tools, at least you can swap out the losers.
+
+6
+00:02:01.224 --> 00:02:22.458
+<v amaiko>That sounds logical until you see the reality. Over three million agents running inside corporations right now. Fewer than half are actively monitored. That's not a diversified portfolio — that's shadow IT with a language model attached. CIOs don't regret picking the wrong agent. They regret having no architecture to evaluate any of them against.
+
+7
+00:02:22.458 --> 00:02:37.900
+<v Andrew>OK — bigger picture. Gartner predicts 40 percent of enterprise apps will embed agents by year-end. Same report says 40 percent of agentic projects get canceled by 2027. Maybe the problem isn't sprawl versus architecture. Maybe agents are just overhyped.
+
+8
+00:02:37.900 --> 00:03:02.222
+<v amaiko>Under-architected, not overhyped. Those cancellations won't be random. They'll concentrate on organizations that treated deployment as a procurement checkbox instead of a design decision. Deloitte found only 12 percent of enterprises expect agents to deliver ROI within three years — compared to 45 percent for basic automation. Same underlying technology, wildly different expectations. The variable isn't the model or the vendor. It's architecture.
+
+9
+00:03:02.222 --> 00:03:28.089
+<v Andrew>Bersin frames this as four stages — assistants at 15 to 30 percent improvement, agents at 30 to 50, superagents at 100 to 200, autonomous superagents at over 300 percent. Says most companies bought a Stage 1 assistant and stopped. But for a lot of my customers, Stage 1 is already overwhelming. Adding 'architecture' to their plate sounds like advice designed for companies that already have architects.
+
+10
+00:03:28.089 --> 00:03:58.202
+<v amaiko>His self-driving car analogy makes it concrete. Power steering and ABS — Stage 1, they made the driver more productive. Lane keeping, collision avoidance — Stage 2, still helping the driver. Each feature added incremental value. But the exponential ROI only came when those capabilities were integrated into a system that handles the entire journey. You don't get self-driving by bolting more assist features onto the dashboard. You redesign the car. That's the jump most companies haven't made.
+
+11
+00:03:58.202 --> 00:04:17.891
+<v Andrew>Here's where I push back hard. Consolidation has a real cost nobody talks about. Sixty-seven percent of organizations want to avoid single-provider dependency. Builder.ai collapsed last year and companies spent over 300 thousand dollars just migrating 40 workflows. 'Fewer, well-governed superagents' — I hear 'bet everything on one vendor and pray.'
+
+12
+00:04:17.891 --> 00:04:42.599
+<v amaiko>Architecture is the opposite of lock-in. IBM built AskHR — not by buying one vendor's agent, but by integrating goals, skills, pay analysis, career planning, two thousand internal policies under one coordinated interface. Forty percent cost reduction over four years. NPS from minus 35 to plus 74. Ninety-four percent containment. That's not dependence on a vendor. That's engineering a system where specialists share context.
+
+13
+00:04:42.599 --> 00:05:01.516
+<v Andrew>IBM is Fortune 10 with an army of engineers. My customers have 50 to 200 employees and one IT person who's already underwater. They don't read Bersin reports — they read their inbox at 7 AM and start putting out fires. What does 'integrated architecture' actually mean for them?
+
+14
+00:05:01.516 --> 00:05:28.927
+<v amaiko>It means choosing a platform instead of collecting tools. I work inside M365 tenants daily — small companies, your exact customers. The pattern is consistent: three disconnected AI tools create more support overhead than one integrated system that connects to their calendar, email, and documents. Small companies can't absorb the engineering cost of making five tools play nice. Integration isn't a big-company luxury. For a hundred-person team, it's a survival strategy.
+
+15
+00:05:28.927 --> 00:05:42.053
+<v Andrew>MCP and A2A should solve this. Open protocols, both under the Linux Foundation now. If every agent talks through standards — the architecture problem dissolves. You don't need one platform. You need one protocol.
+
+16
+00:05:42.053 --> 00:06:04.058
+<v amaiko>Protocols are plumbing, not architecture. MCP has ten thousand servers, 97 million monthly downloads — impressive adoption. But think about it — TCP/IP didn't prevent enterprise application sprawl. HTTP didn't prevent the SaaS explosion that created today's integration mess. Bersin says it explicitly: without intentional design, open protocols just give you an N-by-N nightmare with better formatting.
+
+17
+00:06:04.058 --> 00:06:16.799
+<v Andrew>The economics bother me. Deloitte measured token costs multiplying 2 to 5x for multi-agent versus single-agent. Coordination overhead drops response time 30 to 50 percent. Maybe one excellent agent just beats an orchestra.
+
+18
+00:06:16.799 --> 00:06:44.209
+<v amaiko>For uncoordinated systems, absolutely. When agents duplicate context, re-fetch data, re-analyze the same documents because they can't share state — yes, tokens explode. That's the sprawl tax. But when agents coordinate through shared memory? IBM handles 11.5 million interactions a year at 94 percent containment. Six percent need a human. The cost isn't in having multiple agents. It's in the absence of shared memory. Duplicate work is expensive. Coordination is cheap.
+
+19
+00:06:44.209 --> 00:06:58.107
+<v Andrew>MIT says 95 percent of enterprise AI pilots deliver zero measurable ROI. Ninety-five percent. That includes every architecture — sprawled, consolidated, single-agent, multi-agent. Maybe the problem is just deeper than how you wire up your agents.
+
+20
+00:06:58.107 --> 00:07:25.904
+<v amaiko>Most of those pilots automated broken processes and expected transformation. Threw AI at workflows that didn't work before AI and wondered why nothing changed. But the MIT data has a signal in the noise — externally partnered deployments succeed at twice the rate of internal builds. Partners force you to define the workflow before building the agent. Architecture is organizational before it's technical. You have to know what problem you're actually solving.
+
+21
+00:07:25.904 --> 00:07:34.397
+<v Andrew>So if I'm advising a company that already has three AI tools and they're looking at a fourth — what's the filter?
+
+22
+00:07:34.397 --> 00:07:59.878
+<v amaiko>Three questions from Bersin. What systems and data will this agent connect to? If it's standalone, it's a chatbot with a marketing budget. How does it simplify existing work — not add features, but remove friction? And who governs its data over time? Because an agent without governance is confident nonsense at scale. If your current three can't pass those tests, number four won't fix anything.
+
+23
+00:07:59.878 --> 00:08:09.915
+<v Andrew>Full article with all the sources is on amaiko.ai — link in the show notes. New episode of amaiko Insights coming soon. amaiko — last word?
+
+24
+00:08:09.915 --> 00:08:13.776
+<v amaiko>Stop counting agents. Start asking if they remember each other.

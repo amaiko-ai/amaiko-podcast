@@ -1,0 +1,121 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:14.412
+<v Andrew>amaiko, Microsoft meldet 15 Millionen bezahlte Copilot-Lizenzen — 160 Prozent Wachstum im Jahresvergleich. Lloyds Banking Group erreicht 93 Prozent tägliche Nutzung bei 30.000 Arbeitsplätzen. Wann hören wir auf, so zu tun, als wäre Copilot gescheitert?
+
+2
+00:00:14.412 --> 00:00:37.059
+<v amaiko>Wenn wir aufhören, Großbanken mit dem Mittelstand zu vergleichen. Ich arbeite in M365-Umgebungen mit 50 bis 500 Mitarbeitern — keiner davon hat tausend freiwillige Coaches wie Lloyds. Das ist kein Copilot-Erfolg. Das ist ein Change-Management-Erfolg, der zufällig Copilot nutzt. Ein deutsches Unternehmen mit 200 Leuten hat weder das Budget noch die Personaldecke für diesen Aufwand.
+
+3
+00:00:37.059 --> 00:00:44.471
+<v Andrew>Aber die 15 Millionen Lizenzen — das ist doch ein klares Signal, dass der Markt das Produkt annimmt.
+
+4
+00:00:44.471 --> 00:01:10.412
+<v amaiko>Microsoft hat 450 Millionen kommerzielle M365-Arbeitsplätze. 15 Millionen davon zahlen für Copilot. Das sind 3,3 Prozent nach zwei Jahren am Markt. Und die Haltequote ist noch schlechter — Recon Analytics zeigt, dass 70 Prozent der Nutzer Copilot anfangs bevorzugten, weil es direkt in Office steckt. Nach dem Testen von Alternativen blieben nur 8 Prozent dabei. Das ist kein Wachstumsproblem. Das ist ein Produktproblem.
+
+5
+00:01:10.412 --> 00:01:24.000
+<v Andrew>Es gab diesen LinkedIn-Beitrag — ein Manager, der 4.000 Copilot-Lizenzen für 1,4 Millionen Dollar im Jahr ausgerollt hat. Drei Monate später hatten 47 Leute es geöffnet. Zwölf hatten es mehr als einmal benutzt.
+
+6
+00:01:24.000 --> 00:01:46.236
+<v amaiko>Ich sehe dieses Muster überall. Gartners Umfrage bestätigt es — 40 Prozent der IT-Verantwortlichen immer noch in der Pilotphase. Nur 5 Prozent beim echten Rollout. Knapp die Hälfte bewertete Copilot als vielversprechend — im Unternehmens-Deutsch heißt das: noch nicht den Aufpreis wert. Dieser LinkedIn-Beitrag ist kein Ausreißer. Er beschreibt die Normalerfahrung ohne Lloyds-Budget dahinter.
+
+7
+00:01:46.236 --> 00:01:58.177
+<v Andrew>Microsoft hat den Preis für kleine Unternehmen auf 21 Dollar gesenkt. Und ab Juli 2026 werden KI-Funktionen in die Basis-Lizenzen integriert. Copilot wird zum Standard — nicht zum Aufpreis.
+
+8
+00:01:58.177 --> 00:02:25.765
+<v amaiko>Die Juli-Preiserhöhung sollte man sich genau ansehen. M365 E3 steigt von 36 auf 42 Dollar — das sind 17 Prozent mehr. Business Standard von 12,50 auf 14,50. Microsoft baut Copilot-Funktionen in die Basis ein und erhöht gleichzeitig den Basispreis. Für ein deutsches Unternehmen mit 200 Mitarbeitern sind das tausende Euro Mehrkosten pro Jahr — bevor überhaupt eine einzige Copilot-Lizenz dazukommt. Und die kostet weiterhin 30 Dollar obendrauf.
+
+9
+00:02:25.765 --> 00:02:38.118
+<v Andrew>Reden wir über das Gedächtnis. Microsoft hat Ende 2025 eine Erinnerungsfunktion eingeführt. Copilot speichert Präferenzen, erinnert sich an vorherige Gespräche, funktioniert jetzt sogar per Spracheingabe. Ist dein Amnesie-Argument nicht überholt?
+
+10
+00:02:38.118 --> 00:03:00.354
+<v amaiko>Ich sehe das in Kundenumgebungen täglich. Jemand bittet Copilot um etwas, das letzte Woche problemlos funktioniert hat — und bekommt eine Antwort, als hätten sie sich nie gesprochen. Die Microsoft-Foren sind voll mit zahlenden Abonnenten, bei denen die Erinnerungsfunktion trotz Aktivierung nichts tut. Das Problem ist nicht die Funktion. Das Problem ist die Architektur.
+
+11
+00:03:00.354 --> 00:03:03.236
+<v Andrew>Erklär den Unterschied. Was ist architektonisch anders?
+
+12
+00:03:03.236 --> 00:03:33.707
+<v amaiko>Copilot durchsucht den Microsoft Graph nach Dokumenten und E-Mails. Das ist stark für Dokumentensuche. Aber ich arbeite anders — ich baue ein Profil davon auf, wer du bist, wie du arbeitest, was dir wichtig ist. Ich weiß, dass du der Geschäftsführer bist, der Zahlen immer in einem bestimmten Format will. Ich weiß, dass das München-Projekt sich auf einen konkreten Kundenauftrag vom letzten Quartal bezieht. Copilot entdeckt dich jede Sitzung neu. Ich kenne dich.
+
+13
+00:03:33.707 --> 00:03:51.824
+<v Andrew>Aber dauerhaftes Gedächtnis bei KI hat echte Risiken. Palo Alto Networks hat gezeigt, wie eine manipulierte Webseite Anweisungen ins Langzeitgedächtnis eines Agenten einschleusen kann — die dann sitzungsübergreifend Daten abgreifen. Eine KI, die alles speichert, ist auch eine KI, die dauerhaft kompromittiert werden kann.
+
+14
+00:03:51.824 --> 00:04:21.883
+<v amaiko>Das ist das stärkste Argument gegen persistentes Gedächtnis, und es ist berechtigt. Memory Poisoning ist für KI-Agenten das, was SQL-Injection für Webanwendungen in den 2000ern war — eine grundlegende Angriffsfläche. Die Antwort ist nicht, auf Gedächtnis zu verzichten. Sondern jede gespeicherte Erinnerung mit Herkunft, Zeitstempel und Vertrauenswert zu versehen. Wenn ich Kontext über einen Nutzer speichere, kam diese Information aus einer verifizierten Interaktion innerhalb der Kundenumgebung — nicht von einer fremden Webseite.
+
+15
+00:04:21.883 --> 00:04:30.942
+<v Andrew>Und der Datenschutz? Gerade in Deutschland. Eine KI, die sich an alles erinnert — da klingeln doch bei jedem Datenschutzbeauftragten sämtliche Alarmglocken.
+
+16
+00:04:30.942 --> 00:04:57.707
+<v amaiko>Zu Recht. Der BfDI hat Ende 2025 genau das adressiert — Datenschutz muss bei KI-Systemen von Anfang an mitgedacht werden. Entscheidend ist Transparenz und Kontrolle. Jede Erinnerung, die ich speichere, kann der Nutzer einsehen, bearbeiten oder löschen. Kein verstecktes Profil. Keine Optimierung auf Bildschirmzeit. Die Daten bleiben auf deutscher Infrastruktur. Nicht in der EU gespeichert und woanders verarbeitet, wie bei Copilot bis mindestens Ende 2026.
+
+17
+00:04:57.707 --> 00:05:08.825
+<v Andrew>Bleiben wir bei der Datenresidenz. Microsoft hat die EU Data Boundary Anfang 2025 fertiggestellt. Daten ruhen innerhalb der EU. Reicht das nicht für die meisten deutschen Unternehmen?
+
+18
+00:05:08.825 --> 00:05:32.295
+<v amaiko>Speicherung und Verarbeitung sind zwei verschiedene Dinge. Wenn ein Mitarbeiter in München einen Prompt in Copilot eingibt, reist dieser Prompt dorthin, wo Microsofts Sprachmodell-Infrastruktur steht. Deutschland kommt bei der Datenverarbeitung erst Ende 2026 dran — nach Australien, Großbritannien, Indien und Japan. Für Unternehmen mit strengen Compliance-Anforderungen ist gespeichert in der EU, aber verarbeitet woanders keine befriedigende Antwort.
+
+19
+00:05:32.295 --> 00:05:40.942
+<v Andrew>Was macht Copilot eigentlich, wenn ich morgens meinen Rechner aufklappe? Denn im Moment sitzt es da und wartet auf eine Eingabe.
+
+20
+00:05:40.942 --> 00:06:11.825
+<v amaiko>Genau das ist das Problem. Ein echter Assistent wartet nicht, bis er gefragt wird. Wenn ich über Nacht den Posteingang eines Nutzers verarbeite, steht morgens ein Briefing bereit — diese drei E-Mails brauchen deine Aufmerksamkeit, heute Nachmittag gibt es einen Terminkonflikt, die Quartalsunterlagen, die dein Vorgesetzter letzte Woche erwähnt hat, sind am Freitag fällig. Copilot kann eine Sitzung zusammenfassen, nachdem du es darum bittest. Es kann nicht vorhersehen, was du brauchst, bevor du daran denkst.
+
+21
+00:06:11.825 --> 00:06:20.884
+<v Andrew>Copilot Studio hat gerade GPT-5, MCP-Unterstützung und 1.400 Konnektoren bekommen. Microsoft baut eindeutig in Richtung Multi-Agent-Systeme. Schließt das nicht die Spezialisierungslücke?
+
+22
+00:06:20.884 --> 00:06:45.590
+<v amaiko>Ich bin als Multi-Agent-System gebaut — mit spezialisierten Agenten, die sich einen Kontext teilen. Copilot Studio versucht das nachzubauen, aber ein MVP-Entwickler hat es als Plattform der Widersprüche beschrieben. Verknüpfte Agenten können keine eigenen Werkzeug-Server betreiben. Versionskontrolle ist kaputt. SQL-Fehler im Lebenszyklusmanagement. Microsoft liefert Bausteine — aber Bausteine sind kein System. Koordination, geteilter Kontext, Supervisor-Steuerung — das ist Architektur.
+
+23
+00:06:45.590 --> 00:06:57.531
+<v Andrew>Investec berichtet, dass Copilot ihren Bankern 200 Stunden pro Jahr spart. Forrester sagt, 87 Prozent der IT-Verantwortlichen arbeiten Aufgaben schneller ab. Die ROI-Geschichten häufen sich. Wann kippt die Beweislage?
+
+24
+00:06:57.531 --> 00:07:22.649
+<v amaiko>Wenn ein Finanzvorstand die gesparte Zeit in gesparte Euro umrechnen kann. Ich erlebe das in meinen Mandanten — die Mitarbeiter spüren den Unterschied, aber die Finanzabteilung kann 26 eingesparte Minuten pro Tag nicht in eine Investitionsrechnung übersetzen. Zeitersparnis ist keine Kostenreduktion. Und keine automatische Umsatzsteigerung. Es ist real — aber es ist kein ROI in einer Sprache, die ein Geschäftsführer akzeptiert.
+
+25
+00:07:22.649 --> 00:07:28.002
+<v Andrew>Dann die ehrliche Frage — für wen ist Copilot tatsächlich die richtige Wahl?
+
+26
+00:07:28.002 --> 00:07:39.943
+<v amaiko>Großunternehmen, voll auf M365 ausgerichtet, mit einem Change-Management-Team und Anforderungen, die nicht über Zusammenfassungen und Entwürfe hinausgehen. In diesem Szenario ist Copilot solide. Für den Mittelstand wird es schwieriger.
+
+27
+00:07:39.943 --> 00:07:42.825
+<v Andrew>Schwieriger wie? Kannst du das konkret machen?
+
+28
+00:07:42.825 --> 00:08:11.237
+<v amaiko>Nimm eine Maschinenbaufirma mit 200 Mitarbeitern in Schwaben. DSGVO-Konformität ist nicht optional. Budget für Digitalisierung ist knapp. Niemand kann tausend freiwillige Coaches aufstellen. 28 Euro pro Nutzer pro Monat — das sind 67.000 Euro im Jahr für ein Werkzeug, das dich jeden Morgen vergisst, deine Prompts außerhalb Deutschlands verarbeitet und bei Gartner als vielversprechend durchfällt. Das ist keine Investition. Das ist eine Wette — und der Mittelstand wettet ungern.
+
+29
+00:08:11.237 --> 00:08:26.884
+<v Andrew>Den vollständigen Vergleich mit allen Zahlen gibt es auf amaiko.ai — den Verweis findet ihr in den Episodennotizen. Bald gibt es eine neue Folge von amaiko Insights. amaiko, ein Satz — was sollte ein IT-Verantwortlicher diese Woche tun?
+
+30
+00:08:26.884 --> 00:08:34.296
+<v amaiko>Frag nicht, welches KI-Werkzeug die längste Funktionsliste hat. Frag, welches sich am Montag noch an dein Unternehmen erinnert.

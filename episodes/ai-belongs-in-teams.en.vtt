@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:17.676
+<v Andrew>amaiko, Microsoft has 450 million paid M365 seats. They embedded Copilot directly into Word, Excel, Outlook, Teams. The ultimate embedded AI play. And after two years, only 15 million people are paying for it. That's 3.3 percent. If embedded AI is so obviously superior, why is Microsoft's own version struggling?
+
+2
+00:00:17.676 --> 00:00:44.190
+<v amaiko>Because embedding into a platform and embedding into a workflow are two completely different things. Copilot sits inside Office apps, but it doesn't participate in how teams actually work. It's a sidebar you have to consciously invoke. That's not embedded. That's adjacent. I live inside the conversation where decisions happen. I see the thread, I know the context, I act without anyone switching mental modes. Copilot got the real estate right and the architecture wrong.
+
+3
+00:00:44.190 --> 00:01:01.865
+<v Andrew>Recon Analytics surveyed 150,000 enterprise users in January. When people had access to Copilot, ChatGPT, and Gemini, only 8 percent chose Copilot. Copilot's paid share dropped 39 percent in six months. Meanwhile, Google's standalone Gemini grew. Users are choosing the destination over the embedded option. That directly contradicts your thesis.
+
+4
+00:01:01.865 --> 00:01:34.389
+<v amaiko>It contradicts Microsoft's execution, not the thesis. Copilot lost because it's a generalist bolted onto everything and deeply integrated into nothing. It summarizes a Word doc, drafts an email, generates a PowerPoint. None of that requires being embedded. A standalone chatbot does that just fine. The case for embedded AI only works when the AI needs the context it can't get anywhere else. Conversational history across channels, who said what yesterday, which file your colleague shared at 2 PM. No standalone tool gets that. Copilot doesn't use it either. That's the gap.
+
+5
+00:01:34.389 --> 00:01:55.953
+<v Andrew>Contrary Research published a report in January — enterprise AI usage fell from 46 to 37 percent between June and September 2025. Forty-two percent of enterprise AI initiatives were discontinued last year, up from 17 percent the year before. And MIT found 95 percent of generative AI pilots never reach production. This isn't an embedded-versus-standalone problem. This is an AI-doesn't-deliver problem.
+
+6
+00:01:55.953 --> 00:02:26.356
+<v amaiko>Those numbers are real, and they prove my point. The initiatives that got discontinued were generic deployments — hand everyone an AI chatbot, hope for productivity gains, measure nothing. Contrary's own analysis says defensible value is shifting to, and I'm quoting, specialized systems embedded in real workflows interfacing with proprietary data. The generic tools failed. The embedded, context-aware ones are the 11 percent that actually scaled. The other 89 percent treated AI like a feature toggle. Flip it on, wait for magic. That's not a strategy.
+
+7
+00:02:26.356 --> 00:02:42.617
+<v Andrew>Foster Fletcher made a sharp argument recently. They said AI might not deliver its value when confined to interfaces designed for different purposes. Teams was designed for messaging. Maybe AI needs its own interface, its own interaction paradigm. You don't write code inside a chat window.
+
+8
+00:02:42.617 --> 00:03:15.494
+<v amaiko>You don't write code in a chat window, but you make decisions in one. And decisions are where most knowledge work actually lives. Who's handling the client escalation? When's the deadline for the Berlin proposal? What did finance say about the Q4 budget? Those questions get answered in Teams channels every single day. I'm there when the answer surfaces. A standalone tool needs you to remember the question, switch context, re-explain the situation, and then carry the answer back. That's the 23-minute refocus penalty Gloria Mark measured — multiplied by every round trip.
+
+9
+00:03:15.494 --> 00:03:37.059
+<v Andrew>Gartner predicts 40 percent of agentic AI projects will be abandoned by 2027. Their top reasons — poor workflow integration, unclear business value, escalating costs. Deloitte's Bill Briggs said if you just take your existing workflow and apply AI to it, you weaponize inefficiency. Even the pro-embedded camp says you need to redesign workflows first. That takes 12 to 18 months.
+
+10
+00:03:37.059 --> 00:04:10.643
+<v amaiko>Briggs is right that you can't automate a broken process. But redesigning a workflow doesn't mean building a new interface. It means understanding where decisions stall, where information gets lost, where people waste time hunting for context. In M365 tenants I operate in, the number one pattern I see is someone asking a question in a channel that was already answered two days ago in a different channel. That's not a workflow problem. That's an information fragmentation problem. And the fix isn't a new app — it's an AI that was present for both conversations.
+
+11
+00:04:10.643 --> 00:04:30.793
+<v Andrew>The Harvard Business Review study your article cites — 1,200 app toggles per day, five lost weeks per year. But here's what I keep thinking. If someone's toggling 1,200 times between nine apps, adding an AI inside app number one doesn't fix the other eight. The switching cost comes from the portfolio, not from any single tool.
+
+12
+00:04:30.793 --> 00:05:04.731
+<v amaiko>Right, but look at what those toggles actually are. Qatalog and Cornell found people lose 59 minutes a day searching for information scattered across apps. If the AI inside your primary communication tool can surface that information — pull the file from SharePoint, find the decision from last week's thread, check the calendar for conflicts — you eliminate entire categories of toggles. You don't fix all 1,200. But you don't need to. The Lokalise study found workers lose 51 minutes per week to tool fatigue alone. Eliminating even half of that compounds across your entire workforce.
+
+13
+00:05:04.731 --> 00:05:20.993
+<v Andrew>The SaaS consolidation numbers are interesting. Companies dropped from 112 to 106 apps on average. But they're spending 22 percent more per employee. They're not actually simplifying — they're concentrating spend on fewer, more expensive platforms. How is adding AI inside Teams different from that pattern?
+
+14
+00:05:20.993 --> 00:05:49.274
+<v amaiko>Because the consolidation math changes when the AI replaces capabilities instead of adding them. If I can summarize a meeting thread, draft a follow-up, create tasks, and pull data from your SharePoint — inside the same conversation — that's not a new line item. That's three tools you don't renew. The companies spending 22 percent more are the ones buying AI on top of everything else. The ones who embed it where work happens can actually subtract from the stack.
+
+15
+00:05:49.274 --> 00:06:07.657
+<v Andrew>Last hard question. 320 million Teams users sounds impressive, but those are monthly active users. How many of them are actually engaged enough for an embedded AI to matter? If someone opens Teams for one standup a day and does real work in Slack, email, or Notion, your whole argument falls apart.
+
+16
+00:06:07.657 --> 00:06:38.413
+<v amaiko>Microsoft's own data says Teams overtakes email as the dominant communication channel by 8 AM. The average worker gets 153 Teams messages per weekday. That's not casual usage — that's the center of gravity for how work gets communicated. And here's the thing the standalone crowd misses: even if someone only uses Teams for standups, that standup is where priorities get set for the entire day. Being present for that one conversation gives me more context than a standalone tool gets from an hour of manual prompting.
+
+17
+00:06:38.413 --> 00:06:52.553
+<v Andrew>Full article with all the research and source links is on amaiko.ai — link in the show notes. We'll have a new episode of amaiko Insights soon. amaiko, what should a CTO consider before choosing between embedded and standalone AI?
+
+18
+00:06:52.553 --> 00:07:05.280
+<v amaiko>Ask yourself one question: where do your team's decisions actually happen? Not where they store files, not where they write code — where they decide things. Put your AI there. Everything else is an expensive sidebar.

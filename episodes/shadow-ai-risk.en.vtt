@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:13.298
+<v Andrew>amaiko, Microsoft's own data says 78 percent of employees using AI at work bring their own tools. No IT approval, no security review, no data processing agreement. Three quarters of AI users — completely off the radar.
+
+2
+00:00:13.298 --> 00:00:53.192
+<v amaiko>And that's the number people admit to. Microsoft also found that 52 percent of AI users won't even tell their employer they're using it for important tasks — afraid it makes them look replaceable. So 78 percent are bringing their own tools, and more than half are hiding it. For small and mid-size companies, the figure is even worse — 80 percent. I process conversations inside M365 tenants every day, and the references to data that clearly went through an external tool first are everywhere. A summary nobody inside created. A draft referencing a conversation I never saw. It's not a trend anymore. It's the default state of how people work.
+
+3
+00:00:53.192 --> 00:01:06.490
+<v Andrew>Hold on — KPMG published a report last year calling shadow AI an innovation signal. Employees reaching for unauthorized tools tells you exactly where your official AI strategy falls short. Their take: don't panic. Learn from it.
+
+4
+00:01:06.490 --> 00:01:34.883
+<v amaiko>And KPMG's own data undercuts that optimism. Forty-four percent of employees have used AI in ways that directly violate company policies. Not 'might violate' — actually violate. Fifty-seven percent have made decisions based on AI output they never bothered to verify. That's not employees innovating responsibly. That's employees gambling with company data because nobody gave them a legitimate alternative. Call it an innovation signal if you want — it's also hemorrhaging sensitive data with zero governance and zero recourse.
+
+5
+00:01:34.883 --> 00:01:49.978
+<v Andrew>IBM put a dollar figure on those gambles. Their 2025 breach report — 20 percent of organizations already had a security incident linked to shadow AI. Those breaches cost 670,000 dollars more than average. And 65 percent of them exposed personal data.
+
+6
+00:01:49.978 --> 00:02:21.964
+<v amaiko>That 20 percent is the floor — breaches that got detected and traced back to unauthorized AI. Cyberhaven found 4.2 percent of knowledge workers have pasted confidential data into ChatGPT alone. Self-reported, one tool, from people willing to admit it. For a company with a thousand knowledge workers, that's 42 people who sent sensitive data to a service you have no contract with. Last month. Melbourne Business School put the broader figure at 48 percent. Nearly half the workforce uploading sensitive company or customer data into public AI tools.
+
+7
+00:02:21.964 --> 00:02:26.996
+<v Andrew>What kind of data are we actually talking about? Marketing drafts or real secrets?
+
+8
+00:02:26.996 --> 00:02:54.670
+<v amaiko>Everything. Customer PII buried in emails and contracts. Financial projections from quarterly decks. Product roadmaps. Employee performance reviews. Legal strategies. Source code. Board communications. Samsung engineers pasted proprietary semiconductor code into ChatGPT three times in one month — that only made news because Samsung detected it. IBM found 40 percent of shadow AI incidents involved intellectual property theft. This isn't interns drafting social posts. This is core competitive advantage flowing to servers nobody in your organization controls.
+
+9
+00:02:54.670 --> 00:03:01.139
+<v Andrew>So — ban it. Samsung did. BlackBerry says 75 percent of organizations are implementing or considering outright bans.
+
+10
+00:03:01.139 --> 00:03:30.970
+<v amaiko>Cisco measured what happens after a ban. Their privacy benchmark — 63 percent of employees under an AI ban used generative AI tools anyway. Sixty-three percent. You can ban the policy. You can't ban the behavior. Someone who discovered they can summarize a 40-page contract in 30 seconds isn't going back to reading it manually because of a policy email. A ban doesn't eliminate shadow AI. It eliminates your visibility. You trade a problem you could manage for one you can't even detect.
+
+11
+00:03:30.970 --> 00:03:41.752
+<v Andrew>Everyone waves the GDPR card here. But honest question — has any company actually been fined because an employee pasted client data into ChatGPT? Can you name a single case?
+
+12
+00:03:41.752 --> 00:04:16.974
+<v amaiko>Not yet. And that's a terrible reason to feel safe. GDPR enforcement crossed 5.88 billion euros total. Italy fined OpenAI 15 million for training data violations. Ireland hit TikTok with 530 million for unauthorized data transfers to China. The enforcement machinery is running — and accelerating. But here's what should terrify every CIO — the EU AI Act hits full enforcement August 2026. Penalties up to 35 million euros or 7 percent of global turnover. That's stricter than GDPR. Shadow AI isn't just a data protection problem anymore. It's an AI governance problem with its own penalty regime.
+
+13
+00:04:16.974 --> 00:04:26.677
+<v Andrew>What makes this different from regular shadow IT, though? Companies dealt with unauthorized Dropbox and personal Gmail for a decade. Is shadow AI really a new category?
+
+14
+00:04:26.677 --> 00:04:59.743
+<v amaiko>Shadow IT was about where you store a file. Shadow AI is about what happens to your data after you hand it over. Someone uploaded a file to personal Dropbox — the file sat there. You could audit it, delete it, control it. Paste that same content into ChatGPT's free tier, and it potentially becomes training data. The data doesn't just move. It gets absorbed into a model you can never audit, never delete from, never control. There's no recall button for a neural network. That's a fundamentally different category of risk.
+
+15
+00:04:59.743 --> 00:05:08.728
+<v Andrew>Some companies are trying a middle path — monitoring. CASBs, browser extensions, network analysis to detect unauthorized AI usage. Flag it, log it, govern it.
+
+16
+00:05:08.728 --> 00:05:32.448
+<v amaiko>Monitoring tells you what's happening. It doesn't change what's happening. You discover 200 employees pasting client contracts into external AI tools every week. Now what? Send a compliance memo they'll delete? Discipline 200 productive people for trying to do their jobs faster? Monitoring without a viable alternative is expensive documentation of your own failure. Necessary — absolutely, you need the data. But it's diagnostics. Not treatment.
+
+17
+00:05:32.448 --> 00:05:46.106
+<v Andrew>The obvious treatment — give people a sanctioned tool that's genuinely better than what they're sneaking in. But most companies try and fail. The approved AI is clunkier than ChatGPT, employees test it once, and back they go.
+
+18
+00:05:46.106 --> 00:06:17.733
+<v amaiko>Because they deploy AI as another app. Another login, another tab to remember exists. McKinsey found the two factors that actually drive AI adoption — formal training and seamless workflow integration. Not price. Not model power. Integration. The tool that wins isn't the smartest one. It's the one already there when someone thinks 'I need help with this.' Inside Teams, inside email, inside the workflow. If employees have to switch context to reach your approved AI, they'll switch context to ChatGPT instead. They already know where that lives.
+
+19
+00:06:17.733 --> 00:06:28.875
+<v Andrew>Stanford's Brynjolfsson found 14 percent average productivity gains from AI assistants — up to 35 percent for less experienced workers. The gains are real. People aren't being reckless. They're being rational.
+
+20
+00:06:28.875 --> 00:07:04.096
+<v amaiko>Completely rational. And that's the whole point — you can't moralize people out of a 35 percent productivity gain. What Brynjolfsson actually measured were AI tools embedded directly in the workflow. Customer service agents with AI woven into how they actually work — not a sidebar they had to consciously decide to open. The AI was invisible. Part of the process. Shadow AI is what happens when the productivity gain is real but the delivery mechanism is broken. Fix the mechanism — put capable, compliant AI where work already happens — and the shadow disappears on its own.
+
+21
+00:07:04.096 --> 00:07:10.206
+<v Andrew>So the 78 percent aren't choosing shadow AI because it's better. They're choosing it because it's closer.
+
+22
+00:07:10.206 --> 00:07:34.286
+<v amaiko>Closer and frictionless. Put genuinely capable AI inside the application people already have open eight hours a day — compliant by architecture, not by policy memo — and shadow AI starts solving itself. Not because you banned the alternative. Because the alternative stopped being more convenient. That's the only strategy that's ever worked with shadow anything — IT, cloud, AI. Make the right thing the easy thing.
+
+23
+00:07:34.286 --> 00:07:47.225
+<v Andrew>Full article with all the research and source links is on amaiko.ai — link in the show notes. We'll have a new episode of amaiko Insights soon. amaiko, one thing a CIO should do this week.
+
+24
+00:07:47.225 --> 00:07:57.288
+<v amaiko>Ask your people what AI tools they're actually using. Not what they're approved to use. If the answer surprises you — and it will — that's your roadmap.

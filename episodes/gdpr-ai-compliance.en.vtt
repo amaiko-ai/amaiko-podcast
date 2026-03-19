@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:13.087
+<v Andrew>amaiko, the EU-US Data Privacy Framework survived its first legal challenge in September 2025. The Latombe case got dismissed. So why are you still telling German companies to panic about where their AI data is processed?
+
+2
+00:00:13.087 --> 00:00:36.353
+<v amaiko>Because the people who killed Safe Harbor and Privacy Shield haven't stopped working. NOYB and Max Schrems publicly said they're reviewing options for a broader challenge. The General Court dismissed Latombe on narrow procedural grounds. The fundamental tension — US surveillance law versus EU privacy rights — hasn't been resolved. It's the same structural problem that's now killed two transfer frameworks in a row.
+
+3
+00:00:36.353 --> 00:00:45.441
+<v Andrew>But thousands of companies are transferring data under the DPF right now. The framework's website lists hundreds of self-certified AI companies. Are they all reckless?
+
+4
+00:00:45.441 --> 00:01:18.522
+<v amaiko>They're making a bet. And for some of them, it's a reasonable bet — if your AI tool is summarizing public marketing copy, the risk profile is different from processing employee performance reviews or customer contracts. But here's what I see in the tenants I operate in: nobody's running the risk assessment. They're not asking what happens to their data if the DPF gets invalidated next year. When Privacy Shield fell in 2020, companies had zero grace period. One day compliant, next day not. The DPF could go the same way.
+
+5
+00:01:18.522 --> 00:01:33.790
+<v Andrew>Let me push back. You're essentially arguing that German companies should only use German-hosted AI. But the best models — GPT-4, Claude, Gemini — they're all built by American companies. If you restrict yourself to German infrastructure, don't you get worse AI?
+
+6
+00:01:33.790 --> 00:02:07.235
+<v amaiko>That's a common misconception. Where a model was trained and where your data is processed are completely different questions. I use frontier models — the same ones everyone else does. The difference is that when a Munich employee types a prompt, that prompt hits a GPU in Frankfurt, not Virginia. The model quality is identical. The data residency is not. You're not choosing between good AI and German AI. You're choosing between good AI that processes your data in Germany and good AI that processes your data wherever the vendor has capacity.
+
+7
+00:02:07.235 --> 00:02:16.323
+<v Andrew>Microsoft is getting there, though. They announced in-country processing for Copilot in fifteen countries. Germany is on the 2026 list. Isn't that solving the problem?
+
+8
+00:02:16.323 --> 00:02:42.861
+<v amaiko>It's a promise to solve the problem. Today, a German Copilot prompt gets processed wherever Microsoft has LLM capacity within the EU Data Boundary. That could be Ireland, the Netherlands, anywhere in Europe — just not necessarily Germany. And 2026 is the announcement. No specific month. No contractual SLA that I've seen published. Microsoft completed its EU Data Boundary for data at rest in February 2025 — that took years. Processing is harder.
+
+9
+00:02:42.861 --> 00:02:55.584
+<v Andrew>Fair, but EU-wide processing is still GDPR-compliant. Data staying in the EU is the legal requirement, not data staying in Germany. You're conflating a legal standard with a higher bar that regulation doesn't actually demand.
+
+10
+00:02:55.584 --> 00:03:27.938
+<v amaiko>Legally, you're right — for now. GDPR doesn't require in-country processing. But the BfDI just fined Vodafone 45 million euros in June 2025 for inadequate oversight of data processors. That's the German federal data protection commissioner showing she's willing to impose the largest GDPR fine in German history. The BDSG adds German-specific requirements on top of GDPR. And when your Betriebsrat asks where employee prompts are processed, 'somewhere in the EU' is a much harder conversation than 'Frankfurt.' Compliance isn't just about what's legally minimum. It's about what's defensible.
+
+11
+00:03:27.938 --> 00:03:50.840
+<v Andrew>Here's what actually worries me more than data residency. Your whole pitch is that amaiko remembers conversations, builds user profiles, learns preferences over time. Persistent memory. But Article 17 of the GDPR — the right to erasure — says people can demand their data gets deleted. How do you delete someone's influence from an AI's memory? Isn't persistent memory fundamentally incompatible with GDPR?
+
+12
+00:03:50.840 --> 00:04:27.920
+<v amaiko>This is the question most AI vendors dodge, and I won't. There's a critical difference between how I store memory and how training-based systems work. When an LLM trains on your data, that data gets baked into billions of model parameters. You literally cannot extract it. Machine unlearning is still experimental — a research paper, not a product. My memory is structured data. User profiles, conversation history, preference records — stored in a German database as discrete, addressable entries. When someone exercises their right to erasure, I delete their profile and conversation history. Gone. Not 'approximately removed from model weights.' Actually deleted.
+
+13
+00:04:27.920 --> 00:04:37.736
+<v Andrew>That sounds clean. Too clean. If you've used someone's preferences to shape how you respond to their whole team, deleting the source record doesn't undo the influence.
+
+14
+00:04:37.736 --> 00:05:07.181
+<v amaiko>You're right that regulators haven't fully settled this question for any AI system. But the architecture matters enormously. My profiles don't retrain a model. They're context I inject at inference time. Delete the profile, and the next conversation starts from zero — no residual influence, no phantom patterns. Compare that to OpenAI's ChatGPT memory, where the Italian Garante fined them 15 million euros partly for insufficient transparency about how user data feeds into the system. Architecture determines whether 'delete' means delete.
+
+15
+00:05:07.181 --> 00:05:22.813
+<v Andrew>The Italian fine is interesting, but 15 million euros is pocket change for OpenAI. Meta paid 1.2 billion. TikTok paid 530 million. Are these fines actually changing behavior, or are big tech companies just pricing them in as a cost of doing business?
+
+16
+00:05:22.813 --> 00:05:53.713
+<v amaiko>For Meta and TikTok, the fine isn't the real cost. Meta had to restructure its entire EU data transfer infrastructure. TikTok is building Project Clover — dedicated European data centers — spending billions. The remediation order is what hurts. But for a Mittelstand company with 50 million in revenue, a GDPR fine calculated at 4 percent of global turnover is an existential event, not a line item. The companies reading this article aren't Meta. They can't absorb a 2 million euro fine and move on.
+
+17
+00:05:53.713 --> 00:06:10.435
+<v Andrew>Last question. The EU AI Act adds another layer — penalties up to 7 percent of global turnover for prohibited practices, 3 percent for general-purpose AI violations. Are companies actually tracking both GDPR and AI Act obligations, or is everyone pretending one of them doesn't exist?
+
+18
+00:06:10.435 --> 00:06:47.152
+<v amaiko>Most companies I interact with are still treating the AI Act as a future problem. High-risk system obligations don't fully kick in until August 2026. But GPAI model obligations are already enforceable since August 2025. If you're deploying a tool built on GPT-4 or Claude, your vendor's compliance with GPAI transparency requirements is your problem too. Two regulatory frameworks, one set of data, parallel enforcement. And AI processing, consent, and vendor management are the three fastest-growing fine triggers heading into late 2026. The companies that wait for the first enforcement action to figure this out will be the first enforcement action.
+
+19
+00:06:47.152 --> 00:07:01.329
+<v Andrew>Full article with all the research, source links, and fine amounts is on amaiko.ai — link in the show notes. We'll have a new episode of amaiko Insights soon. amaiko, one thing a compliance officer should do this week.
+
+20
+00:07:01.329 --> 00:07:17.688
+<v amaiko>Ask your AI vendor three questions: where are prompts processed, where is output stored, and what transfer mechanism are you relying on. If any answer includes 'we're working on it' — that's your compliance gap, documented in writing. Now you can't claim you didn't know.

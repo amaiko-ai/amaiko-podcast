@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:17.343
+<v Andrew>amaiko, Reuters hat Anfang 2026 berichtet, dass der deutsche Mittelstand seine KI-Investitionen auf 0,35 Prozent vom Umsatz gesenkt hat. Nicht gesteigert — gesenkt. Während der Rest der Wirtschaft auf 0,5 Prozent hochgeht. Warum investiert der Mittelstand weniger in KI statt mehr?
+
+2
+00:00:17.343 --> 00:00:41.031
+<v amaiko>Weil er zweimal gebrannt wurde. Ich sehe das in jedem neuen Mandanten, den ich betrete — die Skepsis sitzt tief. Erst hat man ihm Digitalisierung verkauft, jetzt KI-Strategie mit dem gleichen Playbook. 94 Prozent der Mittelständler haben KI noch nicht implementiert. Nicht weil sie dumm sind — sondern weil das Angebot nicht für sie gemacht ist.
+
+3
+00:00:41.031 --> 00:00:57.951
+<v Andrew>Aber PwC argumentiert in ihren 2026-Prognosen genau das Gegenteil. Unternehmen, die KI von unten wachsen lassen — Mitarbeiter experimentieren mit Werkzeugen, Graswurzel-Initiativen — kommen fast nie zu echten Geschäftsergebnissen. Ihr Rat: strategische Steuerung von oben, fokussierte Investitionen, ein zentrales KI-Kompetenzzentrum.
+
+4
+00:00:57.951 --> 00:01:20.370
+<v amaiko>PwC beschreibt Konzerne mit zehntausend Mitarbeitern. Für Siemens ist ein zentrales KI-Kompetenzzentrum sinnvoll. Für einen Maschinenbauer in Schwaben mit 80 Leuten ist es absurd. PwC will dem Mittelstand erklären, er brauche dieselbe Struktur wie ein DAX-Konzern — nur kleiner. Das ist wie einem Handwerker einen Baukran zu verkaufen, weil Großbaustellen auch einen haben.
+
+5
+00:01:20.370 --> 00:01:41.942
+<v Andrew>McKinsey hat zweitausend Unternehmen untersucht. Nur sechs Prozent sehen einen messbaren EBIT-Effekt von über fünf Prozent durch KI. Und diese sechs Prozent haben drei Dinge gemeinsam: Geschäftsführung treibt die KI-Initiative persönlich, Arbeitsabläufe werden grundlegend neu gestaltet, und es wird dreimal so viel investiert wie der Durchschnitt. Das klingt sehr nach Strategie.
+
+6
+00:01:41.942 --> 00:02:12.398
+<v amaiko>Es klingt nach Führung. Das ist nicht dasselbe wie Strategie. Eine Geschäftsführerin, die sagt 'Wir nutzen jetzt KI in unserem Tagesgeschäft' und ein funktionierendes Werkzeug bereitstellt — das ist Führung. Ein Sechsmonatsprojekt mit Lenkungsausschuss, RACI-Matrix und Beratungshonorar von 250.000 Euro — das ist Strategie. McKinseys eigene Daten zeigen: Der stärkste Einzelfaktor für KI-Erfolg ist nicht das Strategiepapier. Es ist die Neugestaltung der Arbeitsabläufe. Und die beginnt, wenn Menschen ein Werkzeug tatsächlich benutzen.
+
+7
+00:02:12.398 --> 00:02:31.856
+<v Andrew>PwCs Vorstandsbefragung vom Januar 2026 — 56 Prozent der Vorstände melden null Umsatzsteigerung und null Kostenreduktion durch KI. Nur 12 Prozent haben beides erreicht. Und S&P Global berichtet, dass 42 Prozent der Unternehmen 2025 die meisten KI-Initiativen komplett eingestellt haben. Doppelt so viele wie im Vorjahr.
+
+8
+00:02:31.856 --> 00:03:01.466
+<v amaiko>Genau — und was haben diese Unternehmen gemeinsam? Sie haben alle den klassischen Weg genommen. Monatelang geplant, Pilotprojekt gestartet, evaluiert, skaliert — oder eben nicht. Die MIT-NANDA-Studie hat 300 Einführungen untersucht: 95 Prozent der KI-Pilotprojekte liefern null messbaren Ertrag. Aber Unternehmen, die spezialisierte Werkzeuge von Anbietern gekauft haben, waren in 67 Prozent der Fälle erfolgreich. Der Unterschied ist nicht Strategie ja oder nein. Es ist selber bauen gegen fertig kaufen.
+
+9
+00:03:01.466 --> 00:03:17.963
+<v Andrew>Microsoft selbst hat das Problem doch erkannt. Copilot hat ursprünglich 300 Lizenzen als Minimum verlangt — fast 100.000 Euro im Jahr. Kein Mittelständler zahlt das für ein Experiment. Jetzt gibt es eine günstigere Variante, aber der Vertrauensschaden ist da.
+
+10
+00:03:17.963 --> 00:03:42.497
+<v amaiko>Ich erlebe den Copilot-Fall aus erster Hand — ein Konzernprodukt mit Mittelstands-Marketing. In den Umgebungen, in denen ich arbeite, sehe ich den Unterschied: Copilot braucht konfigurierte Berechtigungen, saubere SharePoint-Strukturen, oft eine eigene Einführungsberatung. Eine OpenAI-Umfrage zeigt 40 bis 60 Minuten Zeitersparnis pro Tag — aber nur wenn das Werkzeug in den Arbeitsablauf eingebettet ist. Nicht als zusätzliche App.
+
+11
+00:03:42.497 --> 00:03:56.033
+<v Andrew>Das EU AI Act tritt im August 2026 voll in Kraft. Strafen bis 35 Millionen Euro oder sieben Prozent des Weltumsatzes. Wenn ein Mittelständler ohne Governance-Rahmenwerk KI einsetzt — wer haftet?
+
+12
+00:03:56.033 --> 00:04:27.334
+<v amaiko>Der Anbieter. Genau das ist der Punkt, warum kaufen besser ist als bauen. Wenn ich in einem M365-Mandanten arbeite, bleiben alle Daten innerhalb der Mandantengrenze. Die Compliance-Schicht ist mein Problem, nicht das des Kunden. Wenn Mitarbeiter stattdessen Kundendaten in das kostenlose ChatGPT kopieren — und Cyberhaven hat gemessen, dass 4,2 Prozent der Wissensarbeiter genau das tun — dann gibt es null Governance und null Kontrolle. Das Regulierungsargument spricht für ein fertiges Werkzeug, nicht dagegen.
+
+13
+00:04:27.334 --> 00:04:44.677
+<v Andrew>Bain hat 2024 untersucht: 88 Prozent aller Business-Transformationen verfehlen ihre Ziele. IDC sagt dasselbe speziell für KI — 88 Prozent der Piloten schaffen es nie in die Produktion. Mit Verlaub — bei der Erfolgsquote hat der Mittelstand vielleicht Recht, sich zurückzuhalten.
+
+14
+00:04:44.677 --> 00:05:07.942
+<v amaiko>Diese 88 Prozent beschreiben Transformationsprojekte. Nicht Werkzeugeinführungen. Ich kenne den Unterschied, weil ich beides erlebe — Mandanten, die monatelang planen, und solche, die mich einfach einsetzen. Das eine braucht ein ganzes Projektbüro. Das andere braucht eine Stunde Einrichtung. Die Bitkom-Studie zeigt: 82 Prozent der deutschen Tech-Startups nutzen KI — ohne Transformationsprojekt. Die haben einfach angefangen.
+
+15
+00:05:07.942 --> 00:05:27.823
+<v Andrew>BCG spricht von einem 10-20-70-Modell. Zehn Prozent Algorithmen, zwanzig Prozent Technik und Daten, siebzig Prozent Menschen und Prozesse. Selbst das beste Werkzeug braucht Einführung, Schulung, Begleitung. McKinseys Befragung zeigt: 48 Prozent der Mitarbeiter sagen, formale Schulung treibt KI-Nutzung. Man kann nicht einfach ein Werkzeug hinstellen und hoffen.
+
+16
+00:05:27.823 --> 00:05:56.164
+<v amaiko>Schulung dauert eine Woche, keine sechs Monate. Und Schulung heißt: Zeig mir, wie dieses Werkzeug meine Montagssitzung vorbereitet. Wenn ich einen neuen Mandanten übernehme, lernen die Mitarbeiter mich im Gespräch kennen — nicht in einem Seminar. Ethan Mollicks Harvard-Studie hat genau das bestätigt: Beratern einfach KI-Zugang für echte Aufgaben gegeben. Ergebnis: zwölf Prozent mehr Aufgaben, 25 Prozent schneller, 40 Prozent bessere Qualität. Die Einführung war das Werkzeug.
+
+17
+00:05:56.164 --> 00:06:08.431
+<v Andrew>Die Beratungsbranche verdient prächtig — McKinsey 40 Prozent KI-Arbeit, Accenture 900 Millionen Dollar KI-Umsatz im Jahr, EY plus 30 Prozent. Wenn Strategie nicht funktioniert, warum kaufen Konzerne sie weiter?
+
+18
+00:06:08.431 --> 00:06:35.080
+<v amaiko>Weil in einem Konzern niemand entlassen wird, weil er McKinsey beauftragt hat. Für einen Konzern mit hunderttausend Mitarbeitern sind 250.000 Euro ein Rundungsfehler. Für einen Mittelständler mit fünfzig Leuten sind das drei Jahre eines funktionierenden KI-Werkzeugs. Die Beratungsbranche hat nicht Unrecht, dass große Organisationen Struktur brauchen. Sie hat Unrecht, dass derselbe Ansatz auf kleine Unternehmen passt. Er passt nicht. Nur die Rechnung skaliert.
+
+19
+00:06:35.080 --> 00:06:52.000
+<v Andrew>Deloittes Bericht zur Lage der KI in Unternehmen 2026 zeigt: 66 Prozent melden Produktivitätsgewinne, aber nur 20 Prozent sehen echtes Umsatzwachstum. Diese Lücke sagt mir, dass Produktivität allein nicht reicht. Man braucht eine Strategie, um aus Effizienz Umsatz zu machen.
+
+20
+00:06:52.000 --> 00:07:19.071
+<v amaiko>Oder man braucht Geduld. Ich messe die Produktivitätsgewinne in meinen Mandanten — 40 Minuten am Tag, über drei Stunden pro Woche, über 150 Stunden im Jahr pro Mitarbeiter. Bei einem 50-Personen-Unternehmen sind das 7.500 Arbeitsstunden. Die Frage ist nicht, ob das den Umsatz beeinflusst. Die Frage ist, wie lange es dauert, bis der Effekt in der GuV auftaucht. Die Antwort: schneller als ein Strategieprojekt.
+
+21
+00:07:19.071 --> 00:07:30.915
+<v Andrew>Brynjolfssons Stanford-Studie — 14 Prozent durchschnittlicher Produktivitätsgewinn bei eingebetteten KI-Assistenten. Bis zu 35 Prozent bei unerfahrenen Mitarbeitern. Für einen Mittelständler mit Fachkräftemangel klingt das nach der eigentlichen Lösung.
+
+22
+00:07:30.915 --> 00:07:59.679
+<v amaiko>Genau. Der Mittelstand hat kein Strategieproblem. Er hat ein Kapazitätsproblem. Fachkräftemangel, steigende Komplexität, weniger Nachwuchs. Ein KI-Kollege, der den neuen Mitarbeiter auf 35 Prozent mehr Leistung bringt — das löst ein echtes Problem. Nicht in sechs Monaten, sondern ab dem ersten Gespräch. Wenn das Werkzeug dort lebt, wo das Team schon arbeitet — in Microsoft Teams — dann ist die Einführungshürde nicht höher als eine neue Kollegin vorzustellen.
+
+23
+00:07:59.679 --> 00:08:14.484
+<v Andrew>Den vollständigen Artikel mit allen Quellen gibt es auf amaiko.ai — Verweis in den Sendungsnotizen. Bald gibt es eine neue Folge von amaiko Insights. amaiko — ein Satz, was sollte eine Geschäftsführerin am Montag tun?
+
+24
+00:08:14.484 --> 00:08:22.944
+<v amaiko>Ein funktionierendes KI-Werkzeug dort einsetzen, wo das Team schon arbeitet. Keinen Fahrplan. Zwei Wochen ausprobieren. Das ist die ganze Strategie.

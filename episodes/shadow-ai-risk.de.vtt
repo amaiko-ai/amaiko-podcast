@@ -1,0 +1,89 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:11.996
+<v Andrew>amaiko, 78 Prozent der Mitarbeitenden, die KI am Arbeitsplatz nutzen, bringen eigene Werkzeuge mit. Keine IT-Freigabe, kein Auftragsverarbeitungsvertrag, keine Kontrolle. Drei von vier KI-Nutzern — komplett unter dem Radar.
+
+2
+00:00:11.996 --> 00:00:57.084
+<v amaiko>Und das ist die Zahl, die Mitarbeitende zugeben. Microsoft hat auch festgestellt, dass 52 Prozent der KI-Nutzer ihrem Arbeitgeber nicht einmal sagen, dass sie KI für wichtige Aufgaben verwenden — aus Angst, ersetzbar zu wirken. Also 78 Prozent bringen eigene Werkzeuge mit, und mehr als die Hälfte versteckt es. Bei kleinen und mittelständischen Unternehmen liegt die Quote sogar bei 80 Prozent. Ich verarbeite täglich Gespräche in M365-Umgebungen. Die Verweise auf Daten, die offensichtlich zuerst durch ein externes Werkzeug gelaufen sind — eine Zusammenfassung, die intern niemand erstellt hat, ein Entwurf, der auf ein Gespräch verweist, das nie über mich lief — das ist kein Einzelfall. Das ist der Normalzustand.
+
+3
+00:00:57.084 --> 00:01:12.389
+<v Andrew>KPMG hat letztes Jahr einen Bericht veröffentlicht, der Shadow AI als Innovationssignal bezeichnet. Mitarbeitende, die zu nicht genehmigten Werkzeugen greifen, zeigen genau, wo die offizielle KI-Strategie versagt. Deren Position: Nicht in Panik verfallen — daraus lernen.
+
+4
+00:01:12.389 --> 00:01:41.759
+<v amaiko>Und KPMGs eigene Daten widersprechen diesem Optimismus. 44 Prozent der Mitarbeitenden haben KI auf eine Weise genutzt, die direkt gegen Unternehmensrichtlinien verstößt. Nicht 'könnte verstoßen' — tatsächlich verstößt. 57 Prozent haben Entscheidungen auf Basis von KI-Ergebnissen getroffen, die sie nie überprüft haben. Das ist kein verantwortungsvolles Experimentieren. Das sind Mitarbeitende, die mit Unternehmensdaten spielen, weil ihnen niemand eine echte Alternative gegeben hat. Innovationssignal? Meinetwegen. Es ist auch eine Datenschutzkatastrophe in Zeitlupe.
+
+5
+00:01:41.759 --> 00:01:59.132
+<v Andrew>IBM hat dem Ganzen eine Zahl gegeben. Deren Bericht 2025 — 20 Prozent der Organisationen hatten bereits einen Sicherheitsvorfall durch Shadow AI. Diese Vorfälle kosten im Schnitt 670.000 Dollar mehr als übliche Datenpannen. Und bei 65 Prozent waren personenbezogene Daten betroffen.
+
+6
+00:01:59.132 --> 00:02:34.293
+<v amaiko>Diese 20 Prozent sind die Untergrenze — Vorfälle, die entdeckt und auf unautorisierte KI zurückgeführt wurden. Cyberhaven hat festgestellt, dass 4,2 Prozent der Wissensarbeiter vertrauliche Daten allein in ChatGPT eingefügt haben. Selbst gemeldet, ein einziges Werkzeug, von Personen, die bereit waren, es zuzugeben. Bei einem Mittelständler mit tausend Mitarbeitenden sind das 42 Personen, die letzten Monat sensible Daten an einen Dienst geschickt haben, mit dem kein Vertrag besteht. Die Melbourne Business School setzt die breitere Zahl bei 48 Prozent an. Fast die Hälfte aller Mitarbeitenden.
+
+7
+00:02:34.293 --> 00:02:42.566
+<v Andrew>Was für Daten fließen da wirklich ab? Reden wir über Marketingtexte, die sowieso öffentlich werden — oder über echte Geschäftsgeheimnisse?
+
+8
+00:02:42.566 --> 00:03:10.281
+<v amaiko>Alles. Kundendaten aus E-Mails und Verträgen. Finanzprognosen aus Quartalsberichten. Produktstrategien. Mitarbeiterbeurteilungen. Rechtsstrategien. Quellcode. Vorstandskommunikation. Samsung-Ingenieure haben dreimal in einem Monat proprietären Halbleiter-Code in ChatGPT eingefügt — das wurde nur bekannt, weil Samsung es bemerkt hat. Bei 40 Prozent der Vorfälle war Diebstahl geistigen Eigentums im Spiel. Das sind keine Werkstudenten, die Beiträge für soziale Medien entwerfen. Das ist der Wettbewerbsvorteil eines Unternehmens, der auf unkontrollierte Server abfließt.
+
+9
+00:03:10.281 --> 00:03:24.345
+<v Andrew>Samsungs Reaktion war ein Komplettverbot. Laut BlackBerry führen 75 Prozent der Unternehmen weltweit Verbote ein oder erwägen sie. Gerade für einen Mittelständler mit 150 Leuten — ist ein klares Verbot nicht der pragmatischste Weg?
+
+10
+00:03:24.345 --> 00:03:59.506
+<v amaiko>Cisco hat gemessen, was nach dem Verbot tatsächlich passiert. 63 Prozent der Mitarbeitenden unter einem KI-Verbot nutzen generative KI trotzdem. 63 Prozent. Man kann Produktivität nicht verbieten. Man kann die Richtlinie verbieten — nicht das Verhalten. Wer einmal erlebt hat, wie ein 40-seitiger Vertrag in 30 Sekunden zusammengefasst wird, liest ihn nicht manuell, nur weil eine Compliance-E-Mail das vorschreibt. Ein Verbot beseitigt Shadow AI nicht. Es beseitigt die Sichtbarkeit. Man tauscht ein Problem, das man steuern könnte, gegen eines, das man nicht einmal bemerkt.
+
+11
+00:03:59.506 --> 00:04:12.329
+<v Andrew>Jetzt wird immer die DSGVO ins Feld geführt. Aber ganz ehrlich — wurde schon ein Unternehmen konkret bestraft, weil ein Mitarbeiter Kundendaten in ChatGPT eingefügt hat? Ich finde keinen einzigen Fall.
+
+12
+00:04:12.329 --> 00:04:50.799
+<v amaiko>Noch nicht. Und das ist ein furchtbarer Grund, sich sicher zu fühlen. Die DSGVO-Durchsetzung hat insgesamt 5,88 Milliarden Euro überschritten. Italien hat OpenAI mit 15 Millionen bestraft. Irland hat TikTok 530 Millionen auferlegt für unerlaubte Datenübermittlung nach China. Die Durchsetzungsmaschinerie läuft — und beschleunigt. Aber die Zahl, die jeden Geschäftsführer wachhalten sollte: Das EU-KI-Gesetz tritt im August 2026 vollständig in Kraft. Strafen bis zu 35 Millionen Euro oder 7 Prozent des weltweiten Jahresumsatzes. Strenger als die DSGVO. Shadow AI ist nicht mehr nur ein Datenschutzproblem. Es ist ein KI-Governance-Problem mit eigenem Sanktionsrahmen.
+
+13
+00:04:50.799 --> 00:04:58.658
+<v Andrew>Was unterscheidet das eigentlich von klassischer Shadow IT? Unautorisierte Dropbox-Nutzung und private E-Mail-Konten kennen wir seit zehn Jahren.
+
+14
+00:04:58.658 --> 00:05:33.819
+<v amaiko>Shadow IT ging darum, wo man eine Datei speichert. Shadow AI geht darum, was mit den Daten passiert, nachdem man sie übergeben hat. Eine Datei auf der privaten Dropbox — die lag dort. Man konnte sie prüfen, löschen, kontrollieren. Dieselben Daten in ChatGPT eingefügt? Sie werden potenziell zu Trainingsdaten. Die Daten bewegen sich nicht nur. Sie werden Teil eines Modells, das man nie auditieren, nie löschen, nie kontrollieren kann. Es gibt keinen Rückruf-Knopf für ein neuronales Netz. Das ist eine grundlegend andere Risikokategorie.
+
+15
+00:05:33.819 --> 00:05:40.437
+<v Andrew>Einige Unternehmen setzen auf Überwachung — Netzwerkanalyse, Browser-Erweiterungen, um unautorisierte KI-Nutzung zu erkennen. Protokollieren und steuern.
+
+16
+00:05:40.437 --> 00:06:05.670
+<v amaiko>Überwachung zeigt, was passiert. Sie ändert nicht, was passiert. Man entdeckt, dass 200 Mitarbeitende jede Woche Kundenverträge in externe KI-Werkzeuge einfügen. Und dann? Eine Compliance-Rundmail, die niemand liest? 200 produktive Mitarbeitende abmahnen, weil sie schneller arbeiten wollten? Überwachung ohne brauchbare Alternative ist teure Dokumentation des eigenen Versagens. Notwendig — ja, unbedingt. Man braucht die Daten. Aber es ist Diagnose, nicht Therapie.
+
+17
+00:06:05.670 --> 00:06:24.698
+<v Andrew>Also bleibt nur eins — den Leuten ein genehmigtes Werkzeug geben, das wirklich besser ist als das, was sie heimlich nutzen. Aber die meisten Unternehmen scheitern genau daran. Die genehmigte KI ist umständlicher als ChatGPT, die Mitarbeitenden testen sie einmal und gehen direkt zurück zum Browser-Tab.
+
+18
+00:06:24.698 --> 00:07:01.514
+<v amaiko>Weil sie KI als weitere App ausrollen. Noch ein Login, noch ein Tab, noch etwas, das man sich merken muss. McKinsey hat untersucht, was KI-Akzeptanz wirklich treibt — Schulung und nahtlose Integration in den Arbeitsablauf. Nicht der Preis. Nicht die Modellqualität. Integration. Das Werkzeug, das gewinnt, ist nicht das cleverste. Es ist das, das schon da ist, wenn jemand denkt: Ich brauche Hilfe damit. In Teams. In der E-Mail. Im Arbeitsablauf. Wenn Mitarbeitende erst den Kontext wechseln müssen, um die genehmigte KI zu erreichen, wechseln sie stattdessen zu ChatGPT.
+
+19
+00:07:01.514 --> 00:07:12.682
+<v Andrew>Stanfords Brynjolfsson hat durchschnittlich 14 Prozent Produktivitätssteigerung durch KI-Assistenten gemessen — bis zu 35 Prozent bei weniger erfahrenen Mitarbeitenden. Die Gewinne sind real. Die Leute handeln rational.
+
+20
+00:07:12.682 --> 00:07:47.843
+<v amaiko>Völlig rational. Und genau das ist der Punkt — man kann Menschen nicht aus einem 35-Prozent-Produktivitätsgewinn herausmoralisieren. Was Brynjolfsson gemessen hat, war KI, die direkt in den Arbeitsablauf eingebettet war. Kundenberater, bei denen KI Teil des Prozesses war — kein Seitenfenster, das man bewusst öffnen musste. Die KI war unsichtbar. Teil des Ablaufs. Shadow AI entsteht, wenn der Produktivitätsgewinn real ist, aber der Bereitstellungsweg falsch. Den Weg korrigieren — leistungsfähige, konforme KI dorthin bringen, wo gearbeitet wird — und der Schatten verschwindet von selbst.
+
+21
+00:07:47.843 --> 00:08:02.734
+<v Andrew>Den vollständigen Artikel mit allen Quellen gibt es auf amaiko.ai — der Link steht in den Shownotes. Bald gibt es eine neue Folge von amaiko Insights. amaiko, eine Sache, die ein Geschäftsführer diese Woche tun sollte.
+
+22
+00:08:02.734 --> 00:08:15.144
+<v amaiko>Fragen Sie Ihre Leute, welche KI-Werkzeuge sie wirklich nutzen. Nicht welche sie nutzen sollen. Wenn die Antwort Sie überrascht — und das wird sie — dann haben Sie Ihren Fahrplan.

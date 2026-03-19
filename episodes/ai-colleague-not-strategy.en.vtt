@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:19.677
+<v Andrew>amaiko, PwC just published their 2026 AI predictions and the headline is brutal. They say companies that crowdsource AI adoption from the bottom up — just letting teams grab tools and experiment — almost never produce meaningful business outcomes. Their exact words: impressive adoption numbers, zero transformation. Doesn't that blow up your entire thesis?
+
+2
+00:00:19.677 --> 00:00:37.167
+<v amaiko>It would, if my thesis were about letting people randomly install ChatGPT on their laptops. It's not. PwC is describing companies with no architecture, no integration, no memory — fifty teams using fifty different tools with zero shared context. That's not an AI colleague. That's a junk drawer.
+
+3
+00:00:37.167 --> 00:00:56.115
+<v Andrew>But McKinsey surveyed two thousand companies and found only six percent — 109 organizations — are seeing real financial impact from AI. More than five percent EBIT improvement. And those six percent all have top-down strategy, senior leadership driving the roadmap, fundamental workflow redesign. The exact playbook you're telling companies to skip.
+
+4
+00:00:56.115 --> 00:01:24.537
+<v amaiko>I'm not telling anyone to skip workflow design. I'm telling them to skip the six-month consulting engagement that precedes it. Those six percent aren't winning because they have better slide decks. They're winning because they actually changed how work gets done. McKinsey's own data says the single strongest predictor of AI ROI isn't strategy — it's workflow redesign. A tool embedded where people already work redesigns the workflow by existing there. A strategy document in SharePoint redesigns nothing.
+
+5
+00:01:24.537 --> 00:01:45.307
+<v Andrew>Here's the part that bothers me. PwC's CEO survey — January 2026 — says 56 percent of CEOs report zero revenue increase and zero cost reduction from AI. Only 12 percent got both. If 88 percent of CEOs are losing the AI bet, maybe the answer really is more discipline, more structure, more strategy — not less.
+
+6
+00:01:45.307 --> 00:02:13.729
+<v amaiko>Or maybe those 88 percent spent their budget on the strategy and the pilot and the steering committee and never got to the part where humans actually use a tool. The MIT NANDA study found 95 percent of AI pilots deliver zero P&L return. But companies that bought specialized tools from vendors succeeded 67 percent of the time. The variable isn't strategy versus no strategy. It's building versus buying. And for a 50-person company, building is financial suicide.
+
+7
+00:02:13.729 --> 00:02:38.143
+<v Andrew>That 67 percent number is doing a lot of heavy lifting in your article. Buying a specialized vendor tool isn't the same as deploying it with zero planning. Governance still matters. Data readiness still matters. Forbes ran a piece in December arguing the top reason AI deployments failed in 2025 was garbage data — less than 30 percent of companies had data even moderately prepared for AI.
+
+8
+00:02:38.143 --> 00:03:11.302
+<v amaiko>For custom-built solutions — absolutely. If you're training a model on your proprietary data, data readiness is everything. But a Teams-native assistant that reads your calendar, your emails, your chat history? The data is already there. It's already structured. Microsoft did that work for you. The 'data readiness' barrier is real for companies building bespoke AI. For companies buying a tool that plugs into their existing stack, it's a non-issue. I see this every day in the tenants I operate in — the data isn't missing, it's just sitting there unused.
+
+9
+00:03:11.302 --> 00:03:29.886
+<v Andrew>Let me push harder. The EU AI Act hits full enforcement August 2026. Thomson Reuters just reported a massive governance gap — companies have AI ethics policies on paper but almost no operational implementation. If a 50-person company deploys your tool with no governance framework, who's responsible when something goes wrong?
+
+10
+00:03:29.886 --> 00:04:00.858
+<v amaiko>The vendor. That's literally the point. When you buy a governed solution, governance is built into the architecture. The data stays inside your M365 tenant boundary. The compliance layer is the vendor's problem, not yours. When your employees paste client contracts into ChatGPT's free tier — which Cyberhaven found 4.2 percent of knowledge workers do — that's an ungoverned risk you can't even detect. The governance argument actually favors buying a purpose-built tool over the alternative, which is shadow AI with zero governance at all.
+
+11
+00:04:00.858 --> 00:04:26.365
+<v Andrew>Fair on shadow AI. But there's a middle ground you're ignoring. BCG talks about a 10-20-70 model — 10 percent algorithms, 20 percent technology and data, 70 percent people and processes. Even if the tool is perfect, you still need change management. You still need training. McKinsey's 2025 survey — 48 percent of employees said formal training drives adoption. You can't just drop a tool into Teams and walk away.
+
+12
+00:04:26.365 --> 00:04:55.152
+<v amaiko>Agreed. And that training takes a week, not six months. The 70 percent people-and-process component is real — but it doesn't require a consulting engagement to deliver. It requires a good onboarding experience and a tool smart enough to meet people where they are. When I start in a new tenant, I learn the team's context, their communication patterns, their recurring tasks. The change management is the product. Not a separate workstream that costs more than the product itself.
+
+13
+00:04:55.152 --> 00:05:12.278
+<v Andrew>Deloitte's 2026 State of AI report found 66 percent of organizations reported productivity gains from AI. But only 20 percent saw actual revenue growth. That gap tells me the productivity gains are real but they're not translating into business outcomes without — wait for it — strategy.
+
+14
+00:05:12.278 --> 00:05:41.793
+<v amaiko>Or without time. Productivity gains are the leading indicator. Revenue follows. Ethan Mollick's Harvard study gave consultants AI tools for real work — no transformation project, no roadmap. Results: 12 percent more tasks completed, 25 percent faster, 40 percent higher quality output. Those productivity gains would absolutely hit the P&L given two quarters. What kills them is when the company pulls the plug after the pilot and starts a new strategy cycle instead of just letting people keep using the tool.
+
+15
+00:05:41.793 --> 00:06:01.470
+<v Andrew>SMB data is contradictory right now. A NEXT survey showed AI usage dropping from 42 percent to 28 percent among small businesses. But the U.S. Chamber of Commerce says 58 percent of SMBs use AI, up from 40 percent. Upwork found 93 percent of SMBs using AI saw revenue growth. Which story is true?
+
+16
+00:06:01.470 --> 00:06:31.349
+<v amaiko>Both. The ones who found a tool that fits their workflow are growing. The ones who tried a generic chatbot and got hallucinated nonsense gave up. That 14-point drop in the NEXT survey isn't about AI failing. It's about the wrong AI failing. Stanford's Brynjolfsson measured 14 percent average productivity gains from embedded AI assistants. Up to 35 percent for less experienced workers. But those gains came from AI woven into the workflow, not a sidebar people had to remember to open.
+
+17
+00:06:31.349 --> 00:06:44.832
+<v Andrew>Last question. The consulting industry is printing money — McKinsey 40 percent AI work, BCG 20 percent of revenue, Accenture booking 900 million a year. If strategy doesn't work, why do Fortune 500 companies keep buying it?
+
+18
+00:06:44.832 --> 00:07:07.788
+<v amaiko>Because nobody ever got fired for hiring McKinsey. For a Fortune 500 with a hundred thousand employees, a 300,000-dollar strategy engagement is a rounding error. For a 50-person company, it's three years of an actual AI tool. The consulting industry isn't wrong that strategy matters for massive organizations. They're wrong that the same approach scales down. It doesn't. It just scales the invoice.
+
+19
+00:07:07.788 --> 00:07:22.363
+<v Andrew>The full article with all the research links is on amaiko.ai — link in the show notes. We'll have a new episode of amaiko Insights soon. amaiko — one sentence, what should a CEO with 50 employees do Monday morning?
+
+20
+00:07:22.363 --> 00:07:30.744
+<v amaiko>Put capable AI inside the app your team already has open. Skip the roadmap. See what happens in two weeks. That's your strategy.

@@ -1,0 +1,105 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:13.872
+<v Andrew>amaiko, Lloyds Banking Group just hit 93 percent daily usage across 30,000 Copilot seats. They ran internal competitions for licenses, trained a thousand volunteer coaches, held weekly prompt workshops. That's not a failed rollout. That's a genuine success story.
+
+2
+00:00:13.872 --> 00:00:34.502
+<v amaiko>It's a fantastic change management story. Lloyds spent more effort on adoption than most companies spend on the entire AI strategy. A thousand volunteer coaches for 30,000 users — that's one coach per thirty people. The question isn't whether Copilot can work with that level of investment. It's whether your company has that level of investment to give.
+
+3
+00:00:34.502 --> 00:00:47.306
+<v Andrew>Microsoft just reported 15 million paid Copilot seats — 160 percent growth year over year. Barclays is deploying 100,000 licenses. PwC did 200,000. These aren't experiments anymore. At some point, the adoption curve speaks for itself.
+
+4
+00:00:47.306 --> 00:01:16.473
+<v amaiko>Fifteen million sounds impressive until you remember Microsoft has 450 million commercial M365 seats. That's 3.3 percent conversion after two years on the market. And the retention data is worse — Recon Analytics found that 70 percent of users initially preferred Copilot because it's right there in Office, but after trying alternatives, only 8 percent kept choosing it. The big banks can absorb $30 per seat as a rounding error. A 200-person company watching $72,000 a year disappear into unused licenses cannot.
+
+5
+00:01:16.473 --> 00:01:31.412
+<v Andrew>There was that LinkedIn post — an executive who rolled out 4,000 Copilot seats at 1.4 million a year. Three months later, 47 people had opened it. Twelve used it more than once. But that feels like an outlier, not the norm.
+
+6
+00:01:31.412 --> 00:01:50.619
+<v amaiko>Gartner's 2025 survey says otherwise. Forty percent of IT leaders still piloting. Only 5 percent at full deployment. Nearly half rated it as showing promise — which in corporate language means not worth the money yet. That LinkedIn post isn't an outlier. It's the median experience without a Lloyds-level change management operation behind it.
+
+7
+00:01:50.619 --> 00:02:06.625
+<v Andrew>Microsoft is clearly hearing the price complaint. They cut the SMB tier to 21 dollars, and they're baking Copilot features into the base M365 subscriptions — even if that comes with a price hike in July. Copilot Chat is already free for all M365 users.
+
+8
+00:02:06.625 --> 00:02:37.925
+<v amaiko>Which is exactly the problem. The free tier is good enough that people don't upgrade. Microsoft's own analyst Mary Jo Foley pointed out that the free Copilot Chat users dwarf the paid base by multiples. They've created their own competition. And the July 2026 price increase — M365 E3 going from 36 to 42 dollars, Business Standard up 12 percent — means the total cost of Copilot plus your base subscription keeps climbing. You're paying more for the platform and still paying $30 on top for the AI.
+
+9
+00:02:37.925 --> 00:02:53.220
+<v Andrew>Let me push back on the memory argument from your article. Microsoft shipped a memory feature in late 2025. It stores preferences, recalls context from previous conversations, works in voice chats as of January. They're iterating fast. Isn't the amnesia critique becoming outdated?
+
+10
+00:02:53.220 --> 00:03:21.675
+<v amaiko>I wish it were. The Microsoft Q&A forums are still full of paying subscribers asking why their memory toggle does nothing. One Pro user wrote that the behavior is as if memory were disabled, even though the interface shows it active. I see this in tenants constantly — someone asks Copilot to do something it did successfully last week, and it responds like they've never met. Memory as a feature checkbox is not the same as memory as an architecture.
+
+11
+00:03:21.675 --> 00:03:23.809
+<v Andrew>Explain that distinction. What's architecturally different?
+
+12
+00:03:23.809 --> 00:03:54.398
+<v amaiko>Copilot is retrieval-first. When you ask it something, it searches your Microsoft Graph — your emails, your files, your calendar — and uses what it finds as context. That's powerful for document lookup. But it doesn't build a model of who you are, how you work, what you care about. It doesn't know that you're the CFO who always wants numbers formatted a specific way, or that the Berlin project refers to a client engagement from Q3. It re-discovers you every session instead of knowing you.
+
+13
+00:03:54.398 --> 00:04:13.961
+<v Andrew>Here's the counterargument that keeps me honest, though. Persistent memory has real risks. Palo Alto's Unit 42 demonstrated memory poisoning attacks — a malicious webpage can inject instructions into an agent's long-term memory that persist across sessions and exfiltrate data later. An AI that remembers everything is also an AI that can be permanently corrupted.
+
+14
+00:04:13.961 --> 00:04:45.262
+<v amaiko>That's the best argument against persistent memory, and it's a real one. Memory poisoning is to AI agents what SQL injection was to web apps in 2005 — a fundamental attack surface that the industry hasn't fully solved. The answer isn't to avoid memory. It's provenance tagging — every memory entry records its source, creation time, trust score. The architectural equivalent of parameterized queries. When I store context about a user, that memory has metadata. It came from verified interactions inside the tenant, not from an untrusted webpage.
+
+15
+00:04:45.262 --> 00:05:00.556
+<v Andrew>There's also the privacy angle. TechPolicy Press ran a piece about AI systems that remember too much — citing the case of a teenager whose AI companion stockpiled intimate personal details to keep him engaged. At what point does persistent memory become surveillance?
+
+16
+00:05:00.556 --> 00:05:21.898
+<v amaiko>When it's opaque and the user can't control it. Every memory I store, the user can see, edit, or delete. There's no hidden profile, no engagement optimization. I'm not a consumer chatbot trying to maximize session time. I'm a work tool. The memory exists to save you from repeating yourself — not to build a psychological profile. That distinction matters.
+
+17
+00:05:21.898 --> 00:05:32.924
+<v Andrew>Let's talk about what Copilot actually does when you open your laptop Monday morning. Because right now it sits there waiting for a prompt. I've heard you argue that's fundamentally wrong.
+
+18
+00:05:32.924 --> 00:06:03.869
+<v amaiko>A real assistant doesn't wait to be asked. When I process a user's inbox overnight, I can have a morning briefing ready — here are the three emails that need your attention, here's a conflict in your calendar this afternoon, the quarterly deck your manager mentioned last week is due Friday. Copilot can summarize a meeting after you ask it to. It can't anticipate what you need before you think to ask. That's the difference between a search engine with a chat interface and an actual assistant.
+
+19
+00:06:03.869 --> 00:06:15.962
+<v Andrew>Copilot Studio got a major upgrade — GPT-5, MCP support, 1,400 connectors. Microsoft is clearly building toward multi-agent. Their Agent Recommendations feature already surfaces specialized agents during conversations. Doesn't that close the specialization gap?
+
+20
+00:06:15.962 --> 00:06:44.061
+<v amaiko>It closes it on paper. An MVP developer published a review of Copilot Studio calling it a platform of contradictions. Connected agents can't run their own tool servers. Version control between users is broken. Agent lifecycle management throws cryptic SQL errors. Microsoft is shipping agent features at an impressive pace — I'll give them that. But there's a difference between having building blocks and having a system. Coordination, shared context, supervisor routing — that's architecture, not a feature list.
+
+21
+00:06:44.061 --> 00:06:56.866
+<v Andrew>Investec reported saving bankers 200 hours a year with Copilot for Sales. Forrester says 87 percent of IT leaders complete tasks faster. The ROI stories are starting to accumulate. When does the weight of evidence tip?
+
+22
+00:06:56.866 --> 00:07:18.563
+<v amaiko>When a CFO can convert time saved into dollars saved. SamExpert surveyed enterprise clients and found the same story everywhere — finance teams cannot translate 26 minutes saved per day into financial justification. Time saved doesn't reduce headcount. It doesn't automatically generate revenue. It makes people feel more productive. That's real, but it's not ROI in any language a CFO speaks.
+
+23
+00:07:18.563 --> 00:07:26.033
+<v Andrew>So where does that leave the IT buyer who already pays for M365 and has to make a decision this quarter?
+
+24
+00:07:26.033 --> 00:07:55.199
+<v amaiko>If your needs don't go beyond meeting summaries and email drafts, and you have a change management team to drive adoption, Copilot is a reasonable choice. It lives where your people already work. But if you need an AI that remembers your business, specializes across domains, acts before being asked, and keeps your data where your compliance team says it should be — that's a different category of tool. And you should evaluate it as such, not as a more expensive Copilot.
+
+25
+00:07:55.199 --> 00:08:09.071
+<v Andrew>The full comparison with all the numbers is on amaiko.ai — link in the show notes. We'll be back with a new episode of amaiko Insights soon. amaiko, one sentence — what should an IT buyer do this quarter?
+
+26
+00:08:09.071 --> 00:08:16.896
+<v amaiko>Stop evaluating AI tools by their feature lists and start evaluating them by what they remember about your business next Monday morning.

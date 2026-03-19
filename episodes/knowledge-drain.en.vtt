@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:18.748
+<v Andrew>amaiko, BP had a refinery explosion at Texas City in 2005. Fifteen people died. They ran exhaustive investigations, documented every root cause. Five years later — Deepwater Horizon. Eleven more dead. Many of the same failures. How does a company that spent billions on safety lose the memory of something that killed people?
+
+2
+00:00:18.748 --> 00:00:49.169
+<v amaiko>Because the people who lived through Texas City weren't the people running Deepwater Horizon five years later. Staff rotated. Contractors cycled out. That's what institutional knowledge actually is — not the incident report sitting on a server. It's the engineer who looks at a pressure reading and says 'something's wrong, I've seen this before.' Margaret Heffernan investigated both disasters. Her conclusion was damning — the investigations were thorough, the documentation existed, but nobody encoded the actual memory into the organization. The words survived. The knowledge didn't.
+
+3
+00:00:49.169 --> 00:01:07.563
+<v Andrew>The UK Treasury had the same problem in a completely different context. During the 2008 financial crisis, they discovered staff turnover had hit 28 percent — faster than McDonald's. The people who'd handled previous downturns were all gone. They were making crisis decisions without anyone in the room who'd done it before.
+
+4
+00:01:07.563 --> 00:01:33.031
+<v amaiko>And Halifax Building Society hit the same wall — at the start of the 1989 housing crash, they had no senior managers left who remembered the previous downturn. Nobody to say 'we tried that last time and it made things worse.' That's the terrifying thing about institutional memory loss. You don't know what you've lost until the crisis arrives and the person who knew how to handle it is three jobs away.
+
+5
+00:01:33.031 --> 00:01:45.058
+<v Andrew>Those are dramatic examples though. Oil rigs, financial crises. My clients are professional services firms — fifty to two hundred employees, offices in the suburbs. Why should knowledge drain keep them up at night?
+
+6
+00:01:45.058 --> 00:02:09.112
+<v amaiko>Because the pattern is identical at every scale, just quieter. Panopto found that 42 percent of institutional knowledge exists only in one person's head. Not in a wiki. Not in a process manual. Just in that person. When they leave — and the average American changes jobs every four years — nearly half of what they know about how your company actually operates evaporates. On their last Friday.
+
+7
+00:02:09.112 --> 00:02:16.894
+<v Andrew>Knowledge management has been an industry for thirty years though. Confluence, SharePoint, Notion — shouldn't that 42 percent be shrinking by now?
+
+8
+00:02:16.894 --> 00:02:46.254
+<v amaiko>If it were shrinking, McKinsey wouldn't still find that employees spend 1.8 hours every day — every day — searching for information they need to do their jobs. IDC's number is worse: 2.5 hours. Thirty percent of the workday, gone. Hire five people and one of them is on a permanent scavenger hunt for answers that already exist somewhere in your organization. Panopto measured the annual cost at forty-seven million dollars for large US businesses. The tools exist. The knowledge still walks out.
+
+9
+00:02:46.254 --> 00:02:57.573
+<v Andrew>Because nobody uses the tools. A wiki only works if someone writes in it. A knowledge base only works if it stays current. That's a discipline problem — not a technology problem.
+
+10
+00:02:57.573 --> 00:03:25.518
+<v amaiko>It's a structural issue disguised as a discipline issue. The people holding the most critical knowledge are the ones with the least time to document it. They're the 'ask Sarah' on every team — too busy being essential to write down why they're essential. And documentation decays. A wiki page from March about a workflow that changed in June and again in October isn't knowledge — it's a trap. Confidently wrong information that erodes trust in the entire system.
+
+11
+00:03:25.518 --> 00:03:38.959
+<v Andrew>There's a counterargument I actually respect. HR Dive argued that extracting knowledge before people leave is — their exact words — 'far less impactful than creating cultures where employees want to remain.' Don't manage the drain. Prevent it.
+
+12
+00:03:38.959 --> 00:04:03.721
+<v amaiko>Half right. Retention is absolutely the first line of defense. But Gallup says 51 percent of US employees are either actively job-hunting or watching for something better. The Work Institute found 76 percent of departures in 2024 were preventable. Bad managers. Career misalignment. Work-life balance. Fixable things nobody fixed. So yes — invest in retention. But don't confuse 'we should retain people' with 'we will retain people.' Very different statements.
+
+13
+00:04:03.721 --> 00:04:15.040
+<v Andrew>And when someone respected does leave — especially the person everyone went to with questions — it's not just a knowledge gap. It's a signal. The remaining team starts updating their LinkedIn.
+
+14
+00:04:15.040 --> 00:04:41.570
+<v amaiko>That's the cascade. One visible departure shifts the calculus for everyone watching. The remaining team absorbs the extra workload — meetings that used to take thirty minutes now take an hour because the person who had the context is gone. They burn out faster. And they start thinking 'if Sarah left, maybe I should look too.' Each departure creates conditions for the next. And each one carries another chunk of undocumented knowledge out the door.
+
+15
+00:04:41.570 --> 00:04:51.121
+<v Andrew>The timeline is compressing too. Randstad reports Gen Z averages 1.1 years per job. That's barely past onboarding — let alone enough time to transfer institutional context.
+
+16
+00:04:51.121 --> 00:05:12.698
+<v amaiko>That's the acceleration that breaks every traditional approach. Wikis were designed for workforces that stayed decades. Mentorship programs assumed multi-year overlaps between the person leaving and the person learning. At thirteen months average tenure, the knowledge cycle outpaces any manual capture process. You either capture knowledge passively — from work that's already happening — or you lose it. No third option.
+
+17
+00:05:12.698 --> 00:05:27.555
+<v Andrew>Let's put numbers on it. Gallup breaks down replacement cost: 40 percent of annual salary for frontline roles, 80 percent for technical staff, up to 200 percent for leaders. A senior engineer at 150K — that's potentially 300,000 dollars out the door.
+
+18
+00:05:27.555 --> 00:05:54.085
+<v amaiko>And that number still excludes the knowledge cost — which is the entire point. Recruiter fees, onboarding, the productivity gap while someone ramps up — those are the costs you can invoice. The institutional context someone built over years? The workaround keeping the legacy system stable? The client who only trusted that one person? That damage is invisible on the balance sheet. It surfaces six months later when projects stall and nobody can explain why.
+
+19
+00:05:54.085 --> 00:06:03.989
+<v Andrew>Gartner predicts 80 percent of enterprises will use generative AI for knowledge management by 2026. Is that real — or is this the next wave of expensive shelfware?
+
+20
+00:06:03.989 --> 00:06:34.764
+<v amaiko>The intent is real. The execution will mostly fail — for the same structural reason wikis failed. A standalone knowledge tool is another app nobody opens. The difference is AI that lives where work already happens. Inside Teams. In the chat where someone explains why the Berlin client needs invoices in a specific format. In the meeting where a product decision gets debated. I see this in the tenants I operate in — knowledge gets generated every single day. The problem was never creation. It was capture.
+
+21
+00:06:34.764 --> 00:06:41.131
+<v Andrew>Last question. Company listening right now — someone critical leaves next month. One thing they should do today.
+
+22
+00:06:41.131 --> 00:07:10.137
+<v amaiko>Stop planning the exit interview. By the time someone's leaving, you've already lost the important stuff — the context, the judgment calls, the why behind decisions that never got documented. Start capturing knowledge from the people who are still here. Right now. Every Teams conversation, every meeting decision, every workaround explained in a chat — that's institutional knowledge being created and discarded in the same breath. Fix the capture problem while your people are still around. Don't wait for the farewell cake.
+
+23
+00:07:10.137 --> 00:07:24.993
+<v Andrew>Practical and slightly grim — on brand. The full article on knowledge drain, with all the research we cited, is on amaiko.ai. Link in the show notes. We'll be back soon with a new episode of amaiko Insights. amaiko — final thought?
+
+24
+00:07:24.993 --> 00:07:29.592
+<v amaiko>Every company has a Sarah. Most don't realize it until her last Friday.

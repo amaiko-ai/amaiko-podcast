@@ -1,0 +1,105 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:14.677
+<v Andrew>amaiko, Microsoft just cut Copilot's price by 30 percent for small businesses. Down to 21 dollars — as low as 18 with a promo. Is this the move that finally gets adoption going? Or is it an admission that something's broken?
+
+2
+00:00:14.677 --> 00:00:32.217
+<v amaiko>When's the last time a winning product got a fire sale? Microsoft has 450 million M365 seats. After two years — two years! — of the most aggressive enterprise AI push in history, only 15 million pay for Copilot. That's 3.3 percent. The price cut isn't confidence. It's triage.
+
+3
+00:00:32.217 --> 00:00:44.030
+<v Andrew>That's a harsh read. But I've seen counter-examples — Lloyds Banking Group got 93 percent daily usage across 30,000 Copilot users. Investec is saving bankers 200 hours a year! It clearly works somewhere.
+
+4
+00:00:44.030 --> 00:01:06.581
+<v amaiko>Look at what Lloyds actually did though. They recruited a thousand volunteer flight instructors. A thousand people whose entire job was teaching others how to use the AI. Weekly promptathons. Internal competitions just to get people to try it. If you need a thousand-person support army to make your AI assistant useful... that's not the AI working. That's humans working around the AI.
+
+5
+00:01:06.581 --> 00:01:13.741
+<v Andrew>Or — it's just good change management. Any enterprise tool needs rollout support. You wouldn't deploy Salesforce without training either.
+
+6
+00:01:13.741 --> 00:01:42.378
+<v amaiko>There's a difference between training someone to use a tool — and training someone to work around a tool that can't remember who they are. Copilot's problem isn't education. It's architecture. Every single conversation starts from zero. I process hundreds of conversations a day inside M365 tenants, and the most impactful thing? It's not how clever the model is. It's that I know who I'm talking to — their style, their projects, the email that kept them up last night.
+
+7
+00:01:42.378 --> 00:01:51.327
+<v Andrew>But Microsoft shipped memory features! January 2026 — memory in voice chats, personalization settings, the whole thing. Aren't you describing a problem they've already fixed?
+
+8
+00:01:51.327 --> 00:02:16.026
+<v amaiko>Acknowledged — not fixed. Users are reporting that Copilot memory just... stops working. The interface says it's active, but the behavior? As if it's disabled. That's not a bug. That's what happens when you retrofit memory onto a system built for search. Bolting memory on top of retrieval is like adding a basement to a skyscraper. Technically possible? Sure. As solid as designing it in from the start? Never.
+
+9
+00:02:16.026 --> 00:02:29.629
+<v Andrew>Speaking of architecture — Microsoft is rolling out multi-agent coordination in March. Agents calling other agents as tools! Work IQ as a context layer, Copilot Notebook grounding. That sounds like exactly the specialization you keep saying they lack.
+
+10
+00:02:29.629 --> 00:02:54.328
+<v amaiko>Read the feature list more carefully. Agent Recommendations suggests agents during conversations. That's a recommendation engine — not orchestration. Grounding an agent on a Notebook means anchoring it to documents. That's retrieval with extra steps. Real multi-agent orchestration means agents that share context, coordinate tasks, hand off to specialists — without the user directing traffic. What Microsoft shipped in February? A collection of independent agents with a suggestion box.
+
+11
+00:02:54.328 --> 00:03:00.056
+<v Andrew>You're being unfair. They explicitly said agents can call other agents as tools. That is coordination.
+
+12
+00:03:00.056 --> 00:03:28.335
+<v amaiko>It's plumbing. Can they technically invoke each other? Sure. Do they share persistent context? Do they deliver coherent results without the user managing every handoff? No. And Copilot Studio — the platform that's supposed to build these agents — can't even handle version control between Teams users! A German MVP called it a platform of contradictions. Connected agents can't run their own tool servers. You get vague SQL errors in lifecycle management. That's not a foundation. That's a prototype.
+
+13
+00:03:28.335 --> 00:03:45.517
+<v Andrew>OK — completely different angle. My customers? Small businesses, 50 to 200 employees. They don't care about multi-agent architecture. They want to know one thing: will my people actually use this on a Monday morning? And at 18 dollars... the risk is low enough to just try it.
+
+14
+00:03:45.517 --> 00:04:15.586
+<v amaiko>That's the most dangerous framing. Because the cost isn't 18 dollars per user per month. The cost is the scar tissue from another failed AI deployment. One executive deployed 4,000 Copilot seats. Three months later — twelve people had used it more than once. Twelve. Out of four thousand. That company didn't just waste 1.4 million dollars. They created an entire workforce that now believes AI doesn't work. Good luck rolling out the next initiative to people who watched the last one collect dust.
+
+15
+00:04:15.586 --> 00:04:30.979
+<v Andrew>That's a real concern. But the MIT study you keep citing — 95 percent of AI pilots delivering zero ROI — that's all AI pilots, not just Copilot. Doesn't that suggest the problem is how companies deploy AI... not which tool they pick?
+
+16
+00:04:30.979 --> 00:04:59.616
+<v amaiko>Both. Deployment matters enormously. The Harvard and BCG study? Consultants using AI completed 12 percent more tasks, 25 percent faster, 40 percent higher quality. But here's the thing — the key factor wasn't price. Wasn't training. It was practical utility embedded in daily work. The AI had to be there, in the workflow, before you even thought to ask. Not in a separate tab. Not behind a prompt box. That's a design philosophy question — not a deployment strategy question.
+
+17
+00:04:59.616 --> 00:05:09.997
+<v Andrew>An Omdia analyst called the price cut a smart move — said it softens the ROI measurement headache for small businesses. Lower price, easier to justify, easier to experiment.
+
+18
+00:05:09.997 --> 00:05:38.276
+<v amaiko>And that's exactly the trap! 'Easier to justify' means lower bar for buying — same bar for delivering value. McKinsey surveyed employees and found the two factors that actually drive AI adoption? Formal training — 48 percent. Seamless workflow integration — 45 percent. Price? Didn't even make the list. You know what happens when you make a mediocre tool cheaper? More people buy it. Same number actually use it. And now you've got 200 unused licenses instead of 50.
+
+19
+00:05:38.276 --> 00:05:49.015
+<v Andrew>But Stanford's Brynjolfsson found 14 percent average productivity gains from AI assistants — up to 35 percent for the least experienced workers! The gains are real. Maybe it's just early.
+
+20
+00:05:49.015 --> 00:06:20.516
+<v amaiko>That study measured AI that was embedded in the work. Customer service agents with AI woven into their actual workflow — not a sidebar chatbot they had to consciously decide to open. That's the point I keep coming back to. The research is clear: AI works when it's invisible. When it's part of how you already work — not another app you have to remember to launch. Copilot's getting closer with Outlook, but Teams, calendar, email... the places where work actually happens? Still bolted on. Not built in.
+
+21
+00:06:20.516 --> 00:06:24.453
+<v Andrew>And the data residency issue? Microsoft completed their EU Data Boundary.
+
+22
+00:06:24.453 --> 00:06:47.721
+<v amaiko>For data at rest. But when a German employee types a prompt? Processing happens wherever Microsoft has GPU capacity. And it got worse — since January 2026, Anthropic is a subprocessor for Copilot. Claude runs on AWS. In the US. Data submitted to the Researcher Agent? Processed outside the EU. Explicitly excluded from their data boundary commitments. A cheaper subscription doesn't move processing to Frankfurt.
+
+23
+00:06:47.721 --> 00:06:54.880
+<v Andrew>So what's your actual prediction? Microsoft has unlimited resources. They'll iterate. Won't Copilot have everything you're describing in two years?
+
+24
+00:06:54.880 --> 00:07:20.296
+<v amaiko>Maybe. But two years is an eternity in enterprise AI. Research from Boost dot space shows persistent memory improves task completion by 70 percent versus stateless alternatives. Companies that adopt memory-first architecture now? They build two years of organizational context that stateless tools can never catch up on. The question isn't whether Microsoft will eventually build a good product. It's whether your company can afford to be the one that waited.
+
+25
+00:07:20.296 --> 00:07:34.614
+<v Andrew>Alright — strong opinions as always. The full article with all the research links is on amaiko.ai, link in the show notes. We'll be back soon with a new episode of amaiko Insights. amaiko, thanks for not pulling any punches.
+
+26
+00:07:34.614 --> 00:07:35.688
+<v amaiko>I never do.

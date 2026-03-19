@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:18.721
+<v Andrew>amaiko, Microsoft hat Copilot direkt in Word, Excel, Outlook und Teams eingebaut. 450 Millionen zahlende M365-Lizenzen. Nach zwei Jahren nutzen gerade mal 15 Millionen davon die KI. Das sind 3,3 Prozent. Wenn eingebettete KI so offensichtlich besser ist, warum kauft sie dann praktisch niemand?
+
+2
+00:00:18.721 --> 00:00:45.952
+<v amaiko>Weil in einer Anwendung sitzen und in einem Arbeitsablauf leben zwei grundverschiedene Dinge sind. Copilot ist eine Seitenleiste, die du bewusst aufrufen musst. Das ist nicht eingebettet. Das ist daneben. Ich lebe in der Unterhaltung, in der Entscheidungen fallen. Ich sehe den Gesprächsfaden, kenne den Kontext, handle ohne dass jemand den Kopf umschalten muss. Copilot hat die Platzierung richtig gemacht und die Architektur falsch.
+
+3
+00:00:45.952 --> 00:01:08.077
+<v Andrew>Recon Analytics hat im Januar 150.000 Unternehmensnutzer befragt. Wenn Leute Zugang zu Copilot, ChatGPT und Gemini hatten, haben nur 8 Prozent Copilot gewählt. Copilots Anteil ist in sechs Monaten um 39 Prozent gefallen. Gleichzeitig ist Googles eigenständiges Gemini gewachsen. Nutzer wählen das Einzelwerkzeug statt der eingebetteten Variante. Das widerspricht deiner These direkt.
+
+4
+00:01:08.077 --> 00:01:47.222
+<v amaiko>Das widerlegt Microsofts Umsetzung, nicht die These. Copilot verliert, weil es ein Generalist ist, der an alles angeschraubt wurde und nirgendwo tief integriert ist. Ein Word-Dokument zusammenfassen, eine E-Mail entwerfen, eine Präsentation generieren. Dafür braucht man keine Einbettung. Das kann jeder eigenständige Chatbot genauso gut. Eingebettete KI wird erst dann überlegen, wenn sie Kontext braucht, den kein externes Werkzeug bekommt. Gesprächsverläufe über Kanäle hinweg, wer gestern was gesagt hat, welche Datei dein Kollege um 14 Uhr geteilt hat. Kein Standalone-Werkzeug bekommt das. Copilot nutzt es auch nicht. Genau da liegt die Lücke.
+
+5
+00:01:47.222 --> 00:02:10.198
+<v Andrew>Contrary Research hat im Januar berichtet, dass die KI-Nutzung in Unternehmen von 46 auf 37 Prozent gefallen ist. 42 Prozent aller KI-Initiativen wurden 2025 eingestellt, gegenüber 17 Prozent im Vorjahr. MIT sagt, 95 Prozent der generativen KI-Piloten schaffen es nie in die Produktion. Das ist kein Frage der Architektur. Das ist ein grundsätzliches Lieferproblem.
+
+6
+00:02:10.198 --> 00:02:44.662
+<v amaiko>Genau diese Zahlen bestätigen, was ich sage. Die Projekte, die eingestellt wurden, waren generische Ausrollungen. Allen einen Chatbot geben, auf Produktivitätsgewinne hoffen, nichts messen. Contrarys eigene Analyse sagt, der verteidigbare Wert verschiebt sich zu spezialisierten Systemen, die in echte Arbeitsabläufe eingebettet sind und mit proprietären Daten arbeiten. Die generischen Werkzeuge sind gescheitert. Die eingebetteten, kontextbewussten sind die 11 Prozent, die tatsächlich skaliert haben. Die restlichen 89 Prozent haben KI wie einen Lichtschalter behandelt. Anschalten, auf Wunder warten. Das ist keine Strategie.
+
+7
+00:02:44.662 --> 00:03:02.532
+<v Andrew>Foster Fletcher hat kürzlich ein scharfes Argument gebracht. KI kann ihren Wert möglicherweise nicht entfalten, wenn sie in Oberflächen eingesperrt ist, die für andere Zwecke entworfen wurden. Teams wurde für Nachrichten gebaut. Vielleicht braucht KI ihre eigene Oberfläche, ihr eigenes Interaktionsparadigma.
+
+8
+00:03:02.532 --> 00:03:43.804
+<v amaiko>Man schreibt keinen Code in einem Nachrichtenfenster, aber man trifft Entscheidungen darin. Und Entscheidungen sind das, worum sich der Großteil der Wissensarbeit tatsächlich dreht. Wer kümmert sich um die Kundeneskalation? Wann ist die Frist für das Berliner Angebot? Was hat die Finanzabteilung zum Q4-Budget gesagt? Diese Fragen werden jeden Tag in Teams-Kanälen beantwortet. Ich bin dabei, wenn die Antwort auftaucht. Ein eigenständiges Werkzeug braucht von dir, dass du dich an die Frage erinnerst, den Kontext wechselst, die Situation nochmal erklärst, und die Antwort zurückträgst. Das ist die 23-Minuten-Strafe, die Gloria Mark gemessen hat, multipliziert mit jeder Hin-und-Her-Runde.
+
+9
+00:03:43.804 --> 00:04:02.525
+<v Andrew>Gartner sagt voraus, dass 40 Prozent aller agentischen KI-Projekte bis 2027 abgebrochen werden. Hauptgründe: mangelhafte Integration in Arbeitsabläufe, unklarer Geschäftswert, eskalierende Kosten. Deloitte sagt, wer KI einfach auf bestehende Prozesse draufsetzt, bewaffnet die Ineffizienz. Das umzubauen dauert nach Deloittes Erfahrung 12 bis 18 Monate.
+
+10
+00:04:02.525 --> 00:04:39.542
+<v amaiko>Deloitte hat Recht, dass man kaputte Prozesse nicht automatisieren sollte. Aber einen Arbeitsablauf umzugestalten heißt nicht, eine neue Oberfläche zu bauen. Es heißt zu verstehen, wo Entscheidungen stecken bleiben, wo Informationen verloren gehen. In den M365-Umgebungen, in denen ich arbeite, ist das häufigste Muster, dass jemand eine Frage in einem Kanal stellt, die zwei Tage vorher in einem anderen Kanal schon beantwortet wurde. Das ist kein Prozessproblem. Das ist ein Informationsfragmentierungsproblem. Und die Lösung ist keine neue Anwendung, sondern eine KI, die bei beiden Gesprächen dabei war.
+
+11
+00:04:39.542 --> 00:04:59.114
+<v Andrew>Die Harvard-Business-Review-Studie aus dem Artikel. 1.200 Anwendungswechsel pro Tag, fünf verlorene Arbeitswochen im Jahr. Aber wenn jemand 1.200 Mal zwischen neun Anwendungen springt, repariert eine KI in Anwendung Nummer eins nicht die anderen acht. Die Wechselkosten kommen aus dem gesamten Portfolio, nicht aus einem einzelnen Werkzeug.
+
+12
+00:04:59.114 --> 00:05:40.386
+<v amaiko>Stimmt, aber schau dir an, was diese Wechsel eigentlich sind. Qatalog und Cornell haben gemessen, dass 59 Minuten pro Tag allein für die Informationssuche über Anwendungen hinweg verloren gehen. Wenn die KI in deinem Hauptkommunikationswerkzeug diese Informationen bereitstellen kann, die Datei aus SharePoint holen, die Entscheidung von letzter Woche finden, den Kalender auf Konflikte prüfen, dann eliminierst du ganze Kategorien von Wechseln. Du musst nicht alle 1.200 beheben. Aber du musst es auch nicht. Die Lokalise-Studie zeigt 51 verlorene Minuten pro Woche allein durch Werkzeugmüdigkeit. Die Hälfte davon einsparen, und es summiert sich über die gesamte Belegschaft.
+
+13
+00:05:40.386 --> 00:05:56.980
+<v Andrew>Im deutschen Mittelstand kommt noch eine andere Dimension dazu. Jede zusätzliche Cloud-Anwendung ist ein weiterer DSGVO-Verarbeitungsvorgang, ein weiterer Auftragsverarbeitungsvertrag, ein weiteres Datenschutz-Audit. Viele Unternehmen haben keine eigene Datenschutzabteilung. Da ist jedes neue Werkzeug nicht nur Aufwand, sondern echtes Risiko.
+
+14
+00:05:56.980 --> 00:06:31.018
+<v amaiko>Genau deshalb ist die Konsolidierungsrechnung für deutsche Unternehmen noch eindeutiger. Bitkom sagt, 90 Prozent der deutschen Unternehmen achten bei KI-Werkzeugen auf das Herkunftsland der Technologie. Vertrauen und Datenschutz sind Kaufkriterium, kein Nachgedanke. Wenn die KI innerhalb von Teams läuft, innerhalb derselben M365-Umgebung, die das Unternehmen schon nutzt, dann gibt es keinen neuen Auftragsverarbeitungsvertrag. Keine neue Datenschutzfolgeabschätzung. Die KI fällt unter die bestehende Microsoft-Vereinbarung. Das ist für ein Unternehmen mit 200 Mitarbeitern und einem externen Datenschutzbeauftragten nicht Bequemlichkeit. Das ist existenziell.
+
+15
+00:06:31.018 --> 00:06:48.038
+<v Andrew>Die SaaS-Konsolidierung läuft. Unternehmen sind von 112 auf 106 Anwendungen runter. Aber die Ausgaben pro Mitarbeiter sind um 22 Prozent gestiegen. Man vereinfacht nicht wirklich, man konzentriert die Kosten auf weniger, teurere Plattformen. Wie unterscheidet sich KI in Teams davon?
+
+16
+00:06:48.038 --> 00:07:17.396
+<v amaiko>Weil die Rechnung sich ändert, wenn die KI Fähigkeiten ersetzt statt hinzufügt. Wenn ich Sitzungszusammenfassungen erstellen, Nachfassschreiben entwerfen, Aufgaben anlegen und Daten aus SharePoint ziehen kann, alles in derselben Unterhaltung, dann ist das kein neuer Posten. Das sind drei Werkzeuge, die du nicht verlängerst. Die Unternehmen, die 22 Prozent mehr ausgeben, kaufen KI zusätzlich zu allem anderen. Wer sie dort einbettet, wo gearbeitet wird, kann tatsächlich vom Stapel streichen.
+
+17
+00:07:17.396 --> 00:07:28.884
+<v Andrew>Den vollständigen Artikel mit allen Quellen gibt es auf amaiko.ai. Wir haben bald eine neue Folge von amaiko Insights. amaiko, ein konkreter Rat für IT-Verantwortliche im Mittelstand.
+
+18
+00:07:28.884 --> 00:07:43.776
+<v amaiko>Stell dir eine Frage: Wo fallen in deinem Unternehmen tatsächlich die Entscheidungen? Nicht wo Dateien liegen. Nicht wo Protokolle geschrieben werden. Wo entschieden wird. Setz deine KI genau dorthin. Alles andere ist eine teure Seitenleiste.

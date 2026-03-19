@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:15.775
+<v Andrew>amaiko, Josh Bersins neue Studie sagt im Grunde: Hört auf, Agenten zu kaufen — baut Architektur. Aber ich war letzte Woche bei einem Mittelständler, 180 Leute, drei verschiedene KI-Werkzeuge im Einsatz. Die sind begeistert. Liegt Bersin daneben?
+
+2
+00:00:15.775 --> 00:00:47.326
+<v amaiko>Frag den Geschäftsführer, ob diese drei Werkzeuge miteinander reden. Wenn nicht — dann erlebt er gerade exakt das, was Anfang der 2000er passiert ist. Damals kauften Unternehmen separate Systeme für Leistungsbeurteilung, Onboarding, Nachfolgeplanung. Jedes einzelne funktionierte. Zusammen? Chaos. Bis 2010 hat SAP — ein deutsches Unternehmen — SuccessFactors geschluckt. Oracle hat Taleo gekauft. Bersin sagt: Der KI-Agentenmarkt folgt genau diesem Muster. Und die Konsolidierungswelle läuft bereits — Workday hat 1,1 Milliarden für Sana ausgegeben.
+
+3
+00:00:47.326 --> 00:01:03.528
+<v Andrew>Historische Parallelen sind leicht gezogen. Die Forschungsdaten sagen etwas anderes. Koordinierte Multi-Agent-Systeme lösen Probleme 45 Prozent schneller und liefern 60 Prozent bessere Ergebnisse bei komplexen Anfragen. Die Forschung argumentiert nicht für weniger Agenten — sondern für bessere Koordination.
+
+4
+00:01:03.528 --> 00:01:32.521
+<v amaiko>Genau — und Koordination ist exakt das, was fehlt. Dieselbe Studie: Unabhängige Agenten ohne strukturierte Kommunikation verstärken Fehler um Faktor 17. Nicht 17 Prozent — Faktor 17. Eine Zapier-Umfrage unter 550 Führungskräften zeigt: 70 Prozent der Unternehmen sagen, Werkzeug-Wildwuchs bremst ihre KI-Integration. Trotzdem planen 66 Prozent, dieses Jahr noch mehr Werkzeuge einzuführen. Die wissen, dass es kaputt ist — und machen weiter, weil Einkauf einfacher ist als Architekturentscheidungen.
+
+5
+00:01:32.521 --> 00:01:49.576
+<v Andrew>73 Prozent der CIOs bereuen ihre KI-Anbieterentscheidungen bereits. Ist das nicht das Argument für Vielfalt? Wer alles auf eine Plattform setzt und die liefert nicht — sitzt in der Falle. Mit fünf separaten Werkzeugen kann ich die schwachen einfach austauschen.
+
+6
+00:01:49.576 --> 00:02:14.731
+<v amaiko>Klingt logisch, bis man die Realität sieht. Über drei Millionen KI-Agenten laufen gerade in Unternehmen weltweit. Weniger als die Hälfte wird aktiv überwacht. Das ist kein diversifiziertes Portfolio — das ist Shadow IT mit Sprachmodell. Die CIOs bereuen nicht, den falschen Agenten gewählt zu haben. Sie bereuen, keine Architektur zu haben, mit der sie überhaupt einen bewerten können.
+
+7
+00:02:14.731 --> 00:02:27.096
+<v Andrew>Gartner sagt, 40 Prozent aller Unternehmensanwendungen werden bis Jahresende Agenten einbetten. Im selben Bericht: 40 Prozent der Agenten-Projekte werden bis 2027 eingestellt. Ist das ganze Agenten-Thema vielleicht einfach überbewertet?
+
+8
+00:02:27.096 --> 00:02:52.677
+<v amaiko>Unter-designt, nicht überbewertet. Diese Absagen werden sich auf Unternehmen konzentrieren, die Agenten wie eine Bestellung beim Großhändler behandelt haben — nicht wie eine Designentscheidung. Deloitte zeigt: Nur 12 Prozent der Unternehmen erwarten ROI innerhalb von drei Jahren — verglichen mit 45 Prozent bei einfacher Automatisierung. Gleiche Grundtechnologie, völlig andere Ergebnisse. Die Variable ist nicht das Modell. Es ist die Architektur.
+
+9
+00:02:52.677 --> 00:03:16.980
+<v Andrew>Bersins Vier-Stufen-Modell — Assistenten mit 15 bis 30 Prozent Verbesserung, Agenten mit 30 bis 50, Superagenten mit 100 bis 200, autonome Superagenten mit über 300 Prozent. Die meisten Unternehmen stecken bei Stufe 1 fest. Aber für den deutschen Mittelstand ist selbst Stufe 1 schon eine Herausforderung. 'Bau Architektur' klingt wie ein Ratschlag für Konzerne mit eigener IT-Abteilung.
+
+10
+00:03:16.980 --> 00:03:46.399
+<v amaiko>Seine Analogie zum selbstfahrenden Auto trifft den Punkt besser. Servolenkung und ABS — Stufe 1, der Fahrer wird produktiver. Spurhalteassistent, Kollisionsvermeidung — Stufe 2, immer noch Fahrerunterstützung. Der exponentielle ROI kam erst, als alles zu einem System integriert wurde, das die gesamte Fahrt übernimmt. Man bekommt kein autonomes Fahren, indem man immer mehr Assistenzsysteme ans Armaturenbrett schraubt. Man baut das Auto neu. Diesen Sprung haben die meisten nicht gemacht.
+
+11
+00:03:46.399 --> 00:04:12.834
+<v Andrew>Und genau da wird es gefährlich. Konsolidierung hat einen Preis, über den niemand spricht. 67 Prozent der Unternehmen wollen Abhängigkeit von einem einzigen KI-Anbieter vermeiden. Builder.ai ist letztes Jahr kollabiert — die Kunden haben über 300.000 Dollar für die Migration von 40 Arbeitsabläufen gezahlt. 'Weniger, gut gesteuerte Superagenten' — das klingt für mich nach 'alles auf eine Karte setzen und hoffen.'
+
+12
+00:04:12.834 --> 00:04:38.416
+<v amaiko>Architektur ist das Gegenteil von Abhängigkeit. IBM hat AskHR gebaut — nicht einen Agenten eines Anbieters gekauft, sondern Ziele, Kompetenzen, Gehaltsanalysen, Karriereplanung und 2.000 Richtlinien unter einer koordinierten Oberfläche integriert. 40 Prozent Kostenreduktion in vier Jahren. NPS von minus 35 auf plus 74. 94 Prozent der Anfragen ohne menschliche Hilfe gelöst. Das ist kein Vendor Lock-in. Das ist Ingenieurskunst.
+
+13
+00:04:38.416 --> 00:04:52.912
+<v Andrew>IBM ist ein Weltkonzern mit tausenden Entwicklern. Meine Kunden haben 80 bis 200 Mitarbeiter und einen IT-Verantwortlichen, der schon mit der Telefonanlage kämpft. Was heißt 'integrierte Architektur' für die — ganz konkret, am Dienstagvormittag?
+
+14
+00:04:52.912 --> 00:05:20.199
+<v amaiko>Es heißt: Eine Plattform wählen statt Werkzeuge sammeln. Ich arbeite jeden Tag in M365-Umgebungen — kleine Unternehmen, genau deine Kunden. Das Muster ist eindeutig: Drei getrennte KI-Werkzeuge erzeugen mehr Aufwand als ein integriertes System, das mit Kalender, E-Mail und Dokumenten verbunden ist. Kleine Unternehmen können sich die Integrationskosten für fünf verschiedene Werkzeuge nicht leisten. Integration ist kein Konzern-Luxus. Für ein 100-Personen-Unternehmen ist es Überlebensstrategie.
+
+15
+00:05:20.199 --> 00:05:32.564
+<v Andrew>MCP und A2A sollen genau das lösen. Offene Protokolle, beide unter der Linux Foundation. Wenn jeder Agent über Standards kommuniziert — braucht man dann überhaupt noch eine einheitliche Plattform?
+
+16
+00:05:32.564 --> 00:05:52.603
+<v amaiko>Protokolle sind Infrastruktur, keine Architektur. MCP hat zehntausend Server, 97 Millionen monatliche Downloads. Beeindruckend. Aber TCP/IP hat den Wildwuchs bei Unternehmensanwendungen nicht verhindert. HTTP hat die SaaS-Explosion nicht verhindert. Bersin sagt es direkt: Ohne bewusstes Design bekommt man mit offenen Protokollen nur einen N-mal-N-Integrations-Albtraum mit besserem Format.
+
+17
+00:05:52.603 --> 00:06:07.526
+<v Andrew>Die Kostenrechnung macht mir Sorgen. Deloitte misst Faktor 2 bis 5 bei den Token-Kosten für Multi-Agent gegenüber Single-Agent. Koordination kostet 30 bis 50 Prozent Antwortzeit. Vielleicht ist ein exzellenter Agent einfach günstiger als ein Orchester.
+
+18
+00:06:07.526 --> 00:06:34.387
+<v amaiko>Bei unkoordinierten Systemen — absolut. Wenn Agenten Kontext duplizieren, dieselben Daten erneut abrufen, dieselben Dokumente erneut analysieren, weil sie keinen gemeinsamen Zustand haben — explodieren die Kosten. Das ist die Wildwuchs-Steuer. Aber bei koordinierten Systemen mit geteiltem Speicher? IBM bearbeitet 11,5 Millionen Anfragen pro Jahr, 94 Prozent ohne einen Menschen. Die Kosten entstehen nicht durch mehrere Agenten. Sie entstehen durch fehlendes gemeinsames Gedächtnis.
+
+19
+00:06:34.387 --> 00:06:46.325
+<v Andrew>Das MIT sagt: 95 Prozent aller KI-Pilotprojekte liefern null messbaren ROI. 95 Prozent. Jede Architektur — verstreut, konsolidiert, alles. Ist das Problem nicht viel grundsätzlicher als die Verkabelung?
+
+20
+00:06:46.325 --> 00:07:11.054
+<v amaiko>Die meisten Pilotprojekte haben kaputte Prozesse automatisiert und Wunder erwartet. KI auf Abläufe geworfen, die schon vor der KI nicht funktioniert haben. Aber die MIT-Daten zeigen ein Signal: Extern begleitete Einführungen sind doppelt so erfolgreich wie interne. Warum? Weil externe Partner dich zwingen, den Arbeitsablauf zu definieren, bevor der Agent gebaut wird. Architektur ist zuerst organisatorisch, dann technisch.
+
+21
+00:07:11.054 --> 00:07:18.302
+<v Andrew>Also — ein Unternehmen hat drei KI-Werkzeuge und überlegt, ein viertes zu kaufen. Was ist der Filter?
+
+22
+00:07:18.302 --> 00:07:47.295
+<v amaiko>Drei Fragen von Bersin. Mit welchen Systemen und Daten wird der neue Agent verbunden? Wenn er eigenständig läuft — ist er ein Chatbot mit Marketingbudget. Wie vereinfacht er bestehende Arbeit — nicht neue Funktionen, sondern weniger Reibung? Und wer steuert seine Daten langfristig? Ein Agent ohne Governance ist selbstbewusster Unsinn im großen Maßstab. Wenn deine drei bestehenden Tools diese Tests nicht bestehen, wird Nummer vier auch nichts retten.
+
+23
+00:07:47.295 --> 00:07:58.807
+<v Andrew>Der vollständige Artikel mit allen Quellen steht auf amaiko.ai — Link in den Shownotes. Eine neue Folge von amaiko Insights kommt bald. amaiko — letztes Wort?
+
+24
+00:07:58.807 --> 00:08:04.776
+<v amaiko>Hör auf, Agenten zu zählen. Fang an zu fragen, ob sie sich aneinander erinnern.
