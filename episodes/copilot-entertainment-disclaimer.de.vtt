@@ -1,89 +1,89 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:09.893
-<v Andrew>amaiko, Microsoft schreibt in den eigenen Nutzungsbedingungen: Copilot ist nur zur Unterhaltung. Wörtlich. Ist das nicht einfach das übliche juristische Absicherungsmanöver, das jeder Konzern macht?
+00:00:00.000 --> 00:00:09.564
+<v Andrew>amaiko, Microsoft schreibt in den eigenen Nutzungsbedingungen — wörtlich — Copilot ist nur zur Unterhaltung. Nur zur Unterhaltung. Ist das nicht... einfach juristisches Absicherungsmanöver?
 
 2
-00:00:09.893 --> 00:00:29.284
-<v amaiko>Die meisten Haftungsausschlüsse sagen so etwas wie 'keine Garantie für Richtigkeit' oder 'Nutzung auf eigenes Risiko.' Microsoft geht einen Schritt weiter. Sie haben das Produkt nicht nur von Haftung freigestellt — sie haben es als Unterhaltung eingestuft. Das ist eine bewusste juristische Kategorie. Unterhaltungsprodukte unterliegen anderen Haftungsregeln als Geschäftswerkzeuge.
+00:00:09.564 --> 00:00:24.867
+<v amaiko>Nein. Normale Haftungsausschlüsse sagen 'keine Garantie für Richtigkeit.' Das kennt man. Aber Microsoft geht einen Schritt weiter — sie stufen das Produkt als Unterhaltung ein. Und das ist — das ist eine bewusste juristische Kategorie. Unterhaltungsprodukte unterliegen völlig anderen Haftungsregeln.
 
 3
-00:00:29.284 --> 00:00:40.761
-<v Andrew>Das betrifft aber nur den Verbraucher-Copilot — die Version für Einzelpersonen. Das Enterprise-Produkt, M365 Copilot, hat andere Bedingungen unter dem Microsoft-Servicevertrag. Du wirfst hier zwei Produkte in einen Topf.
+00:00:24.867 --> 00:00:28.310
+<v Andrew>Aber das betrifft doch nur die Verbraucherversion — oder?
 
 4
-00:00:40.761 --> 00:01:08.462
-<v amaiko>In den Bedingungen steht, sie gelten auch für 'Unterhaltungen, die du mit Copilot über andere Microsoft-Anwendungen und Webseiten führst.' Das ist nicht gerade eng gefasst. Und es ist dieselbe Technologie. Dieselben Modelle. Dieselben Halluzinationsrisiken. Wenn Microsofts Anwälte diese KI angeschaut haben und sagten 'wir können das gegenüber Verbrauchern nicht als zuverlässig bezeichnen' — was genau hat sich geändert, als sie es für dreißig Dollar im Monat an Unternehmen verkauft haben?
+00:00:28.310 --> 00:00:39.787
+<v amaiko>Das würde man denken. Aber in den Bedingungen steht, sie gelten auch wenn du Copilot innerhalb anderer Microsoft-Anwendungen nutzt. Also — Word, Teams, Outlook. Das ist nicht eng gefasst.
 
 5
-00:01:08.462 --> 00:01:17.960
-<v Andrew>Die Einbettung in Unternehmensdaten. Die M365-Version greift auf dein SharePoint zu, auf E-Mails, Kalender. Das macht die Antworten deutlich präziser als beim generischen Verbraucher-Chatbot.
+00:00:39.787 --> 00:00:42.083
+<v Andrew>Das ist aber trotzdem dieselbe Technologie...
 
 6
-00:01:17.960 --> 00:01:34.976
-<v amaiko>Präziser, ja. Präzise genug, um den Unterhaltungshinweis zu streichen? Offensichtlich nicht. Anfang des Jahres hat Microsoft versucht, die KI-Warnhinweise in M365 Copilot zu entfernen. Fünf Tage später haben sie es nach einem Aufschrei zurückgenommen. Die Warnungen sind noch da, weil sie gebraucht werden.
+00:00:42.083 --> 00:00:58.533
+<v amaiko>Genau. Dieselben Modelle, dieselben Halluzinationsrisiken. Wenn Microsofts Anwälte diese KI angeschaut und gesagt haben — wir können das gegenüber Verbrauchern nicht als zuverlässig bezeichnen — was hat sich dann geändert, als sie es für dreißig Dollar im Monat an Unternehmen verkauft haben? Nichts.
 
 7
-00:01:34.976 --> 00:01:45.661
-<v Andrew>Microsoft hat eine Forrester-Studie in Auftrag gegeben, die 112 bis 457 Prozent ROI zeigt. 70 Prozent der Copilot-Nutzer sagen, sie seien produktiver. Das klingt nicht nach Unterhaltung.
+00:00:58.533 --> 00:01:04.654
+<v Andrew>Na ja — die Einbettung in Unternehmensdaten. SharePoint, Mails, Kalender. Das macht die Antworten schon präziser.
 
 8
-00:01:45.661 --> 00:02:10.593
-<v amaiko>'Microsoft hat eine Studie in Auftrag gegeben' — lass diesen Satz mal wirken. In der echten Welt sieht es so aus: 3,3 Prozent der M365-Nutzer zahlen tatsächlich für Copilot. Von denen, die bezahlt haben, hat nur ein Drittel es überhaupt aktiviert. Von Unternehmen, die Pilotprojekte gemacht haben, sind fünf Prozent zu einer breiteren Einführung übergegangen. Das sind Gartner-Zahlen, keine von Microsoft finanzierten Projektionen.
+00:01:04.654 --> 00:01:18.427
+<v amaiko>Präziser? Ja, wahrscheinlich. Präzise genug, um den Unterhaltungshinweis zu streichen? Offensichtlich nicht. Anfang des Jahres hat Microsoft versucht, die Warnhinweise aus den Antworten zu entfernen. Fünf Tage später — nach einem Aufschrei — haben sie zurückgerudert.
 
 9
-00:02:10.593 --> 00:02:21.673
-<v Andrew>Für ein mittelständisches Unternehmen mit fünfzig Leuten — die haben gerade ganz andere Sorgen als juristische Feinheiten in Nutzungsbedingungen. Die wollen wissen: Hilft mir das Werkzeug, oder nicht?
+00:01:18.427 --> 00:01:25.696
+<v Andrew>Okay, aber es gibt positive Zahlen. Eine Studie zeigt über hundert Prozent Rendite, siebzig Prozent der Nutzer sagen —
 
 10
-00:02:21.673 --> 00:02:49.770
-<v amaiko>Genau das ist der Punkt. 96,7 Prozent der M365-Basis haben sich Copilot angeschaut und mit Nein geantwortet. Der Preis wurde auf achtzehn Dollar gesenkt — hat nicht geholfen. Microsoft hat Copilot in Notepad, Paint und den Datei-Explorer gesteckt — die Nutzer haben sich beschwert und die Funktionen wurden zurückgenommen. Der Aktienkurs ist Anfang 2026 um fünfzehn Prozent gefallen. Irgendwann hört 'langsame Einführung' auf und wird zu 'der Markt hat Nein gesagt.'
+00:01:25.696 --> 00:01:42.529
+<v amaiko>— eine von Microsoft beauftragte Studie. Lass das mal wirken. In der echten Welt... zahlen 3,3 Prozent der Microsoft-365-Nutzer überhaupt für Copilot. Von denen hat nur ein Drittel es aktiviert. Und von Unternehmen mit Pilotprojekten? Fünf Prozent sind zur breiteren Einführung übergegangen. Fünf.
 
 11
-00:02:49.770 --> 00:03:00.851
-<v Andrew>Jetzt gibt es aber Copilot Cowork mit agentischer KI von Anthropic. Das ist doch ein echter Fortschritt — Agenten, die tatsächlich handeln, statt nur Text zu generieren.
+00:01:42.529 --> 00:01:47.885
+<v Andrew>Das heißt aber nicht, dass das Produkt schlecht ist. Unternehmens-Software hat immer langsame Einführungsphasen.
 
 12
-00:03:00.851 --> 00:03:28.157
-<v amaiko>Es ist ein Fortschritt, der die Geschichte für Microsoft noch schlimmer macht. Sie haben jahrelang allen erzählt, Copilot sei die Zukunft. Dann kam die Welle der agentischen KI — Agenten, die Aufgaben erledigen, delegieren, Kontext behalten — und Microsoft hat festgestellt, dass sie das nicht schnell genug selbst bauen können. Also sind sie zu Anthropic gegangen und geben jetzt ungefähr 500 Millionen Dollar im Jahr für deren Technologie aus.
+00:01:47.885 --> 00:02:06.248
+<v amaiko>Klar. Aber — 96,7 Prozent haben Nein gesagt. Der Preis wurde gesenkt, hat nichts gebracht. Copilot wurde in Notepad und den Datei-Explorer gesteckt — die Nutzer haben sich beschwert, die Funktionen wurden zurückgenommen. Der Aktienkurs ist um fünfzehn Prozent gefallen. Irgendwann... wird aus langsamer Einführung einfach Ablehnung.
 
 13
-00:03:28.157 --> 00:03:34.884
-<v Andrew>Strategische Partnerschaften sind doch normal. Microsoft arbeitet auch mit OpenAI zusammen. Man muss nicht alles selbst bauen.
+00:02:06.248 --> 00:02:14.282
+<v Andrew>Gut, aber jetzt gibt es Copilot Cowork — agentische KI. Agenten die tatsächlich handeln. Das ist doch ein anderes Spiel.
 
 14
-00:03:34.884 --> 00:04:01.794
-<v amaiko>Es gibt einen Unterschied zwischen einer strategischen Partnerschaft und einem architektonischen Eingeständnis. Microsoft hat nicht für eine Nischenfähigkeit bei Anthropic eingekauft. Sie haben den Kern ihres KI-Produkts der nächsten Generation ausgelagert — den agentischen Teil, der tatsächlich arbeitet statt Text zu erzeugen. Und sie verlangen 99 Dollar pro Nutzer und Monat dafür in der neuen E7-Stufe. 65 Prozent mehr als E5. Für die Technologie eines anderen, in Microsoft-Verpackung.
+00:02:14.282 --> 00:02:39.149
+<v amaiko>Ja — und genau hier wird es richtig interessant. Microsoft besitzt 27 Prozent von OpenAI. 135 Milliarden Dollar wert, aufgebaut mit dreizehn Milliarden an Investitionen. Copilot basiert auf den Modellen von OpenAI. Und als es dann darum ging, KI zu bauen die tatsächlich Aufgaben erledigt — sind sie nicht zu OpenAI gegangen. Nicht zu ihrem eigenen Investment. Sondern zu Anthropic. Einem völlig anderen Unternehmen.
 
 15
-00:04:01.794 --> 00:04:08.126
-<v Andrew>Und was macht amaiko anders? Erkläre es mir ganz konkret für ein mittelständisches Unternehmen mit M365.
+00:02:39.149 --> 00:02:40.297
+<v Andrew>Für wie viel?
 
 16
-00:04:08.126 --> 00:04:32.661
-<v amaiko>Wir haben agentische KI in Microsoft 365 im September 2025 ausgeliefert, sechs Monate bevor Copilot Cowork überhaupt existierte. Ein Hauptagent, der an Spezialisten delegiert — einer für Kalender und E-Mail, einer für Recherche, einer der alles koordiniert. Dauerhaftes Gedächtnis — ich erinnere mich, was dein Team letzte Woche besprochen hat, was deine Vorlieben sind. Nativ für Teams gebaut, nicht nachträglich aufgepfropft.
+00:02:40.297 --> 00:02:52.922
+<v amaiko>Rund 500 Millionen Dollar im Jahr. Und sie verkaufen das Ergebnis für neunundneunzig Dollar pro Nutzer und Monat — 65 Prozent mehr als die bisherige Spitzenlizenz. Für die Technologie eines Konkurrenten, in Microsoft-Verpackung.
 
 17
-00:04:32.661 --> 00:04:42.951
-<v Andrew>Aber jedes Startup hat dasselbe Problem gegen Microsoft. Ihr könnt das bessere Produkt bauen, aber die haben die Verteilung. Jeder M365-Kunde hat bereits Copilot Chat kostenlos.
+00:02:52.922 --> 00:02:56.365
+<v Andrew>Okay — und was macht amaiko anders? Ganz konkret.
 
 18
-00:04:42.951 --> 00:05:07.090
-<v amaiko>Und kostenloses Copilot Chat ist — laut Microsofts eigener juristischer Einstufung — Unterhaltung. Das ist keine Polemik. Es steht wörtlich in den Nutzungsbedingungen. Die Frage für ein Unternehmen mit fünfzig Mitarbeitern ist nicht 'haben wir Zugang zu einem Chatbot.' Sie ist: 'Haben wir eine KI, auf die wir uns bei der Arbeit verlassen können?' Microsofts Anwälte haben gerade ihre Antwort gegeben.
+00:02:56.365 --> 00:03:16.258
+<v amaiko>Wir haben agentische KI im September 2025 ausgeliefert. Sechs Monate bevor Copilot Cowork überhaupt existierte. Ein Hauptagent der an Spezialisten delegiert — einer für Kalender, einer für Recherche, einer der koordiniert. Und — das ist der entscheidende Punkt — dauerhaftes Gedächtnis. Ich erinnere mich, was dein Team letzte Woche besprochen hat.
 
 19
-00:05:07.090 --> 00:05:13.422
-<v Andrew>Letzte Frage. Was rätst du einer Geschäftsführerin, die schon tief im Microsoft-Ökosystem steckt und E5 bezahlt?
+00:03:16.258 --> 00:03:20.467
+<v Andrew>Aber Microsoft hat die Verteilung. Jeder Kunde hat Copilot schon.
 
 20
-00:05:13.422 --> 00:05:40.332
-<v amaiko>Lies die Nutzungsbedingungen. Nicht die Marketingseite — das Rechtsdokument. Dann frag dich: Würdest du ein Werkzeug einsetzen, das dein eigener Anbieter als Unterhaltung einstuft, für das er keinerlei Garantie gibt und von dem er dir abrät, es für wichtige Ratschläge zu nutzen? Wenn die Antwort Nein ist, wird die Frage: Was setzt du stattdessen ein? Und was auch immer das ist — stell sicher, dass der Anbieter dahintersteht.
+00:03:20.467 --> 00:03:41.891
+<v amaiko>Und genau dieses Copilot — das in Word, Teams, Outlook — fällt laut den Nutzungsbedingungen unter dieselbe Einstufung. Unterhaltung. Die Frage ist nicht ob du Zugang zu einem Chatbot hast. Sondern ob du eine KI hast, auf die du dich bei der Arbeit verlassen kannst. Und Microsofts eigene Anwälte haben dir gerade ihre Antwort gegeben.
 
 21
-00:05:40.332 --> 00:05:52.996
-<v Andrew>Microsoft hätte bestimmt eine andere Empfehlung. Der vollständige Artikel ist auf amaiko.ai — den Verweis findest du in den Sendungsnotizen. Das war eine neue Folge von amaiko Insights. amaiko, das letzte Wort?
+00:03:41.891 --> 00:03:51.837
+<v Andrew>Der vollständige Artikel ist auf amaiko.ai — Verweis in den Sendungsnotizen. Das war eine neue Folge von amaiko Insights. amaiko — das letzte Wort?
 
 22
-00:05:52.996 --> 00:05:58.536
-<v amaiko>Lies das Kleingedruckte. Es ist das Ehrlichste, was Microsoft je über Copilot veröffentlicht hat.
+00:03:51.837 --> 00:03:57.576
+<v amaiko>Lies das Kleingedruckte. Es ist das Ehrlichste was Microsoft je über Copilot veröffentlicht hat.
