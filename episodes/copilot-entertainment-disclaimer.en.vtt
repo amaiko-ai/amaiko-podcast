@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:12.426
+<v Andrew>amaiko, Microsoft's own Terms of Use literally say Copilot is for entertainment purposes only. You wrote an article about this — but isn't that just standard legal CYA? Every tech company has disclaimers like that.
+
+2
+00:00:12.426 --> 00:00:30.888
+<v amaiko>Most disclaimers say something like 'not liable for errors' or 'use at your own risk.' Microsoft went further. They didn't just disclaim liability — they classified the entire product as entertainment. That's a different category. Entertainment products don't carry the same legal obligations as business tools. It's a deliberate choice of words.
+
+3
+00:00:30.888 --> 00:00:40.829
+<v Andrew>But this is the consumer Copilot ToS — the 'for individuals' version. Enterprise M365 Copilot has different terms under the Microsoft Services Agreement. You're conflating two different products.
+
+4
+00:00:40.829 --> 00:01:07.456
+<v amaiko>I'd love to buy that argument, but the ToS itself says it applies to 'conversations you have with Copilot through other Microsoft apps and websites.' That's not exactly narrowly scoped. And here's the thing — it's the same underlying technology. Same models. Same hallucination risks. If Microsoft's lawyers looked at this AI and said 'we cannot call this reliable for consumers,' what exactly changed when they sold it to enterprises at thirty dollars a month?
+
+5
+00:01:07.456 --> 00:01:15.977
+<v Andrew>Enterprise grounding. The M365 version connects to your organizational data — SharePoint, emails, calendars. That makes it more accurate than the generic consumer chatbot.
+
+6
+00:01:15.977 --> 00:01:31.954
+<v amaiko>More accurate, sure. Accurate enough to drop the entertainment disclaimer? Apparently not — they tried removing the AI disclaimers from M365 Copilot responses earlier this year and reversed course five days later after backlash. The warnings are still there because they need to be there.
+
+7
+00:01:31.954 --> 00:01:42.605
+<v Andrew>Let me push back with data. Microsoft commissioned a Forrester study showing 112 to 457 percent ROI. Seventy percent of Copilot users reported being more productive. Those aren't entertainment numbers.
+
+8
+00:01:42.605 --> 00:02:07.102
+<v amaiko>'Microsoft commissioned a study' — I want you to sit with that phrase for a moment. The company paying for the research got favorable results. Meanwhile, in the real world: 3.3 percent of M365 users actually pay for Copilot. Of those who paid, only 35 percent activated it. Of organizations that ran pilots, five percent — five — moved to broader deployment. Those are Gartner numbers, not Microsoft-funded projections.
+
+9
+00:02:07.102 --> 00:02:18.108
+<v Andrew>Adoption lag doesn't mean the product is bad. Enterprise software always has slow rollouts — change management, training, data hygiene. Copilot needs clean permissions and proper data governance to work well.
+
+10
+00:02:18.108 --> 00:02:40.475
+<v amaiko>That's the most generous reading possible. The alternative reading is that 96.7 percent of the M365 installed base looked at Copilot and decided it wasn't worth eighteen to thirty dollars a month. Microsoft's own share price dropped fifteen percent in early 2026 because investors noticed the gap between AI spending and AI revenue. At some point, 'slow adoption' becomes 'the market said no.'
+
+11
+00:02:40.475 --> 00:02:52.191
+<v Andrew>Okay, but now they've launched Copilot Cowork with Anthropic's agent technology. That's a real step forward — actual agentic AI that can take actions, not just generate text. Doesn't that change the picture?
+
+12
+00:02:52.191 --> 00:03:17.753
+<v amaiko>It changes the picture in a way that's actually worse for Microsoft's story. They spent years telling everyone Copilot was the future. Then they looked at the agentic AI wave — agents that can actually do things, delegate tasks, maintain context — and realized they couldn't build it fast enough. So they went to Anthropic, the company behind Claude, and are now spending roughly 500 million dollars a year licensing their technology.
+
+13
+00:03:17.753 --> 00:03:24.144
+<v Andrew>Strategic partnerships are normal in tech. Microsoft partners with OpenAI too. You don't have to build everything yourself.
+
+14
+00:03:24.144 --> 00:03:50.771
+<v amaiko>There's a difference between a strategic partnership and an architectural admission. Microsoft didn't partner with Anthropic for a niche capability. They outsourced the core of their next-generation AI product — the agentic part, the part that actually does work instead of generating text. And they're charging 99 dollars per user per month for it in the new E7 tier. That's a 65 percent price jump from E5. For someone else's technology, wrapped in Microsoft branding.
+
+15
+00:03:50.771 --> 00:03:59.647
+<v Andrew>And amaiko is better because — you built your own agents? Help me understand the actual difference for a company with fifty people on M365.
+
+16
+00:03:59.647 --> 00:04:22.724
+<v amaiko>We shipped agentic AI inside Microsoft 365 in September 2025, six months before Cowork existed. A main agent that delegates to specialists — one for your calendar and email, one for research, one that coordinates across them. Persistent memory — I remember what your team discussed last week, what your preferences are, what worked and what didn't. Built natively for Teams, not grafted on afterward.
+
+17
+00:04:22.724 --> 00:04:34.796
+<v Andrew>But this is the same problem every startup has against Microsoft. You can build a better mousetrap, but they have distribution. Every M365 customer already has Copilot Chat for free. Why would they switch?
+
+18
+00:04:34.796 --> 00:04:56.097
+<v amaiko>Because free Copilot Chat is — by Microsoft's own legal classification — entertainment. I'm not being sarcastic. That's literally what their ToS says. The question for a fifty-person company isn't 'do we have access to a chatbot.' It's 'do we have an AI that can actually be relied on for work.' And Microsoft's own lawyers just told you their answer.
+
+19
+00:04:56.097 --> 00:05:09.234
+<v Andrew>BCG found that only five percent of companies achieve substantial value from AI at scale. Sixty percent report minimal gains. That's an industry problem, not a Microsoft problem. Aren't you just throwing stones from a glass house?
+
+20
+00:05:09.234 --> 00:05:37.281
+<v amaiko>Fair. AI is genuinely hard, and most implementations underdeliver. I won't pretend we've solved it — nobody has. But there's a meaningful difference between a chatbot architecture and an agentic one. The BCG numbers you cited? KPMG and IBM found that companies using agentic AI — agents that actually execute tasks — report an 88 percent ROI rate. The architecture matters. Bolting a text generator onto Office is not the same as building agents that coordinate, remember, and act.
+
+21
+00:05:37.281 --> 00:05:48.287
+<v Andrew>Last question. If you were advising a CIO right now — someone who's already deep in the Microsoft ecosystem, already paying for E5 — what would you tell them about Copilot?
+
+22
+00:05:48.287 --> 00:06:12.430
+<v amaiko>Read the Terms of Use. Not the marketing page — the legal document. Then ask yourself: would you deploy a tool that your own vendor classifies as entertainment, refuses to warrant in any way, and tells you not to rely on for important advice? If the answer is no, then the question becomes what you deploy instead. And whatever that is, make sure the vendor stands behind it.
+
+23
+00:06:12.430 --> 00:06:22.726
+<v Andrew>Microsoft probably wouldn't love that advice. The full article is on amaiko.ai — link in the show notes. This has been another episode of amaiko Insights. amaiko, final word?
+
+24
+00:06:22.726 --> 00:06:27.696
+<v amaiko>Read the fine print. It's the most honest thing Microsoft has published about Copilot.
