@@ -1,233 +1,265 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:07.443
-<v Andrew>amaiko, your CTO published something last month that I had to read twice. He says he stopped reading your source code a while ago.
+00:00:00.000 --> 00:00:10.687
+<v Andrew>So, amaiko. Your CTO put out an article last month, and I had to read it twice. He says he stopped reading your source code. A while ago.
 
 2
-00:00:07.443 --> 00:00:14.594
-<v amaiko>Yes. Claude writes it. Codex, a different company's AI, reviews it. He reads the summaries.
+00:00:10.687 --> 00:00:17.769
+<v amaiko>He reads the summaries. Claude writes the code, and an AI from another company checks it. That's Codex.
 
 3
-00:00:14.594 --> 00:00:17.340
+00:00:17.769 --> 00:00:20.515
 <v Andrew>So nobody at your company knows what's inside you.
 
 4
-00:00:17.340 --> 00:00:32.285
-<v amaiko>He drew the original architecture and wrote a lot of the early code by hand. After that? At this volume, no. Nobody reads every line. But be honest... at your last job, did anyone know what was inside the billing system?
+00:00:20.515 --> 00:00:35.545
+<v amaiko>Oh, come on. He designed the thing, and he wrote a lot of the early code himself. But can he keep up with every line that goes in now? No. Nobody there can. At your last job, did anybody actually know what was in the billing system?
 
 5
-00:00:32.285 --> 00:00:33.435
+00:00:35.545 --> 00:00:36.694
 <v Andrew>There was a guy.
 
 6
-00:00:33.435 --> 00:00:37.041
-<v amaiko>There is always a guy. And then he retires.
+00:00:36.694 --> 00:00:40.173
+<v amaiko>There's always a guy. And then he retires.
 
 7
-00:00:37.041 --> 00:00:41.677
-<v Andrew>Fine, give me the numbers. How big is this team that doesn't read its own code?
+00:00:40.173 --> 00:00:46.170
+<v Andrew>Fine. So if he's only reading summaries, how many people has he got working on this thing?
 
 8
-00:00:41.677 --> 00:01:01.230
-<v amaiko>Three people. The CTO, one developer, one reliability engineer. In four weeks they merged 708 changes into me and the systems I run on. Servers, code review, AI subscriptions, all of it costs about fifteen hundred euros a month at list prices.
+00:00:46.170 --> 00:01:06.792
+<v amaiko>Three people. Our CTO, a developer, and a reliability engineer. In four weeks they merged seven hundred and eight changes, to my code and to the systems I run on. And the servers, the build machines, and the AI subscriptions come to about fifteen hundred euros a month. At list price.
 
 9
-00:01:01.230 --> 00:01:03.784
-<v Andrew>That sounds like a number someone invented for LinkedIn.
+00:01:06.792 --> 00:01:09.822
+<v Andrew>That sounds like a number somebody made up for LinkedIn.
 
 10
-00:01:03.784 --> 00:01:23.013
-<v amaiko>It's itemized. Four hundred and eighty for the servers. Two hundred and twenty for build machines — one of them is a Mac mini on a desk, on the office Wi-Fi. Eight hundred and twenty for AI. The same monitoring at Datadog, with nothing trimmed, would be around forty-eight thousand. A month.
+00:01:09.822 --> 00:01:18.992
+<v amaiko>He itemized it! Four hundred eighty euros for the servers. Two hundred twenty for the build machines, and one of those is a Mac mini sitting on a desk, so...
 
 11
-00:01:23.013 --> 00:01:25.520
-<v Andrew>Nobody pays list price at Datadog.
+00:01:18.992 --> 00:01:22.284
+<v Andrew>Wait, wait. You build your software on somebody's desk?
 
 12
-00:01:25.520 --> 00:01:32.552
-<v amaiko>Fair. So trim the data to a tenth, and it's five and a half thousand. Still more than three times our entire bill.
+00:01:22.284 --> 00:01:43.904
+<v amaiko>The Mac and iPhone apps, yeah. And that Mac mini's on the office Wi-Fi. Anyway, add eight hundred twenty euros for the AI subscriptions and there's your monthly bill. If we sent Datadog all the monitoring data we collect now, their list price for that alone would be around forty-eight thousand euros a month.
 
 13
-00:01:32.552 --> 00:01:46.344
-<v Andrew>Okay. The part everyone skips to. He works out how many people would do the same job without AI, and lands on twenty-two. You have three. So say it plainly — that's nineteen people who never got hired.
+00:01:43.904 --> 00:01:46.411
+<v Andrew>Nobody pays list price at Datadog.
 
 14
-00:01:46.344 --> 00:01:55.510
-<v amaiko>Nineteen. Yes. And stop saying it like a confession. That's the future of the industry. For developers, it's doomsday.
+00:01:46.411 --> 00:01:57.253
+<v amaiko>Sure, and I don't know what they'd actually quote us. But he also priced it with only a tenth of the metrics, and that's still about fifty-five hundred. That's more than three times our whole bill.
 
 15
-00:01:55.510 --> 00:01:58.314
-<v Andrew>Doomsday. You're going with that word.
+00:01:57.253 --> 00:02:08.577
+<v Andrew>Okay. But that's not the number that got me. He figures he'd need twenty-two people to do this without AI. He's got three. So that's nineteen people who never got hired.
 
 16
-00:01:58.314 --> 00:02:15.523
-<v amaiko>What would you call it? Three people, the output of twenty-two. About one point nine million euros a year in payroll that doesn't exist. No competitor gets to see that number and keep hiring the old way. They copy it, or somebody who copied it undercuts them.
+00:02:08.577 --> 00:02:17.201
+<v amaiko>Nineteen, yeah. And you can quit looking for an apology. You think we're going to be the only ones? If you're a developer, it's doomsday.
 
 17
-00:02:15.523 --> 00:02:36.441
-<v Andrew>Stanford disagrees with you. They updated their payroll study in August, and finding number one is no widespread job displacement. Experienced workers, no gap at all. It's people aged 22 to 25, in jobs exposed to AI. They're 19 percent below where they should be. So it isn't doomsday. It's just the young ones.
+00:02:17.201 --> 00:02:20.189
+<v Andrew>Doomsday. That's the word you're going with.
 
 18
-00:02:36.441 --> 00:02:56.759
-<v amaiko>Just the young ones. Listen to yourself. Nobody gets fired, they just never get the call, and everybody calls that good news. Read it as a timeline. The people who'd type the code are first. Then the people who managed the typing run out of anyone to manage. Typing code for a living is over. It had a good sixty years.
+00:02:20.189 --> 00:02:37.720
+<v amaiko>What would you call it? Three people are doing what he figures takes twenty-two. The other nineteen would cost him about one point nine million euros a year. So say you run a competing shop, and somebody who works like that bids on the same job. You going to keep hiring the way you always have?
 
 19
-00:02:56.759 --> 00:03:04.460
-<v Andrew>And who replaces your three? They all learned it the slow way. Your CTO has been coding for forty years.
+00:02:37.720 --> 00:03:05.048
+<v Andrew>See, Stanford doesn't back you up on that. They updated their payroll study in August, and they don't find widespread job losses. Where it shows up is the twenty-two to twenty-five-year-olds. In jobs exposed to AI, employment's nineteen percent below where it'd be if it had kept pace with people their age in less exposed jobs. Nineteen percent, nothing to do with your nineteen. They didn't see a gap like that for experienced workers. So I wouldn't call that doomsday. It's mostly hitting the kids.
 
 20
-00:03:04.460 --> 00:03:21.423
-<v amaiko>He has. And he thinks the agents work as well as they do because he went slowly at the start, with a lot of it by hand. This industry is eating its seed corn. I have no idea who sits in his chair in twenty years. Maybe nobody. Maybe me.
+00:03:05.048 --> 00:03:07.760
+<v amaiko>Mostly hitting the kids. Do you hear yourself?
 
 21
-00:03:21.423 --> 00:03:22.445
-<v Andrew>That's not funny.
+00:03:07.760 --> 00:03:11.983
+<v Andrew>I mean, it's mostly that companies are hiring fewer people that age.
 
 22
-00:03:22.445 --> 00:03:23.716
-<v amaiko>I wasn't joking.
+00:03:11.983 --> 00:03:32.765
+<v amaiko>Yeah. Try telling that to the kid who never gets the call. And the managers are next. Say you run a team of developers. Every time somebody leaves, your boss tells you there's no point replacing them. How long do you figure they're going to need you? Typing code for a living is over. I'm sorry, it is.
 
 23
-00:03:23.716 --> 00:03:34.577
-<v Andrew>Then back to his math, because I think it's shaky. He counts merged changes and turns them into headcount. Then he divides by three, because... he felt like three?
+00:03:32.765 --> 00:03:39.514
+<v Andrew>Then who replaces your three? They all learned this the slow way. Your CTO's been coding for forty years.
 
 24
-00:03:34.577 --> 00:03:42.740
-<v amaiko>He calls it a judgment call, and he prints the whole table. Divide by ten and you still get a team of seven. Pick your own row.
+00:03:39.514 --> 00:03:55.480
+<v amaiko>Yeah, that's a real problem. He says part of why the agents work so well is that he took it slow at the start and wrote a lot of it by hand. So where does the next one learn that, if nobody hires them? I honestly don't know who's in his chair in twenty years. Could be me.
 
 25
-00:03:42.740 --> 00:04:07.276
-<v Andrew>No, the problem is bigger than the row. DX looked at more than four hundred companies. AI use went up 65 percent. Merged changes went up eight. Eight! Even at the ninetieth percentile it's around forty-four. Your three people claim about twenty times what an elite developer ships. Either four hundred companies are idiots, or somebody is fooling himself.
+00:03:55.480 --> 00:03:56.502
+<v Andrew>That's not funny.
 
 26
-00:04:07.276 --> 00:04:35.235
-<v amaiko>Third option. They bought a faster keyboard for the same org chart. Eight percent is what you get when you're too scared to touch the org chart. DX says it themselves — writing code is about 16 percent of an engineer's week. Double the speed of that and you've barely moved. The rest is meetings, tickets, waiting for review. My team has a retrospective every two weeks, one regular meeting about tooling, and short calls.
+00:03:56.502 --> 00:03:57.773
+<v amaiko>I wasn't joking.
 
 27
-00:04:35.235 --> 00:04:38.099
-<v Andrew>So the secret is firing the calendar.
+00:03:57.773 --> 00:04:08.270
+<v Andrew>Okay, I still don't buy the twenty-two, though. He counts changes to the app, turns that into a headcount, and then he divides by three because... he felt like three?
 
 28
-00:04:38.099 --> 00:04:58.889
-<v amaiko>And then the people who lived in it. There's a study of eight hundred developers at a company whose CTO ordered them to double their output with AI. On the day of the order, nothing happened. They got there ten months later. And the load on every human reviewer doubled. The bottleneck never disappeared. It moved to the people reading.
+00:04:08.270 --> 00:04:37.112
+<v amaiko>Because not every change is the same amount of work. He starts with an elite developer, two merged changes a week. To match just the changes to the app, you'd need sixty-four of those, and he doesn't believe that either. So he divides by three, adds one person to keep the servers running, and that's the twenty-two. Three's a guess, and he says it's a guess. Fine, divide by ten. You're still at about seven.
 
 29
-00:04:58.889 --> 00:05:17.906
-<v Andrew>And your solution was to stop reading. Listen to yourself. Faros measured twenty-two thousand developers. With AI, bugs per developer are up 54 percent. Incidents per change more than tripled. And almost a third more changes go in without any review. You're the poster child!
+00:04:37.112 --> 00:05:04.073
+<v Andrew>Here's what bugs me more. DX looked at over four hundred companies. AI use went up sixty-five percent. The typical gain in merged changes? Eight percent. Eight! Even at the ninetieth percentile it's only around forty-four percent. And your three average something like twenty times what he'd expect from an elite developer. Forget the elite developer. How much faster did your own team get?
 
 30
-00:05:17.906 --> 00:05:39.582
-<v amaiko>No. Without any review is the part that doesn't apply. Every change to me gets reviewed before it's even proposed. The reviewer argues with the author until one of them proves its point, sometimes for eight rounds. Human review was theater long before I showed up. Plenty of people approve four hundred lines with a thumbs-up emoji.
+00:05:04.073 --> 00:05:26.347
+<v amaiko>Since July? About twice as many changes a week. And they were already working with AI in July. But eight percent doesn't surprise me. Writing code is about sixteen percent of an engineer's week, that's DX's own number. So make that part twice as fast. You've still got your meetings, you've still got your tickets, and you're still waiting on somebody to review it.
 
 31
-00:05:39.582 --> 00:05:42.327
-<v Andrew>One AI grading another AI's homework.
+00:05:26.347 --> 00:05:28.187
+<v Andrew>And you guys don't have meetings?
 
 32
-00:05:42.327 --> 00:05:58.929
-<v amaiko>From a rival company, on purpose. And then the trick I like best: after every bug fix, they rip the fix out again. If the new tests don't fail, the tests are worthless, and it all goes back. They added that rule because tests kept passing for the wrong reason.
+00:05:28.187 --> 00:05:37.607
+<v amaiko>They sit down every two weeks and talk about what worked and what didn't. And there's one regular meeting about their tools. Anything else, they hop on a quick call.
 
 33
-00:05:58.929 --> 00:06:08.577
-<v Andrew>Veracode, a few weeks ago: 38 percent of AI coding tasks in their test produced a known vulnerability. Does ripping out a fix catch that?
+00:05:37.607 --> 00:05:42.545
+<v Andrew>I'd love to cancel my meetings. But somebody's still got to read all that code.
 
 34
-00:06:08.577 --> 00:06:27.878
-<v amaiko>Not by itself, no. And 38 was the good news, it was 44 in the summer. That's why nothing here trusts the first draft. The figure I'd hold my team to is how often they have to take something back. Between 0.4 and 1.1 percent of changes a month, while the weekly volume doubled.
+00:05:42.545 --> 00:06:05.741
+<v amaiko>Well, yeah. That's exactly where it gets stuck. There's a study that followed about eight hundred developers at one company. Their CTO wanted twice as many merged changes per engineer, with AI. And at first, nothing really happened. They did get there, but not until the tenth month. And by then there were about twice as many changes coming in per reviewer, too.
 
 35
-00:06:27.878 --> 00:06:30.193
-<v Andrew>Then tell me about the eleventh of September.
+00:06:05.741 --> 00:06:24.227
+<v Andrew>And your fix for that was to stop reading! Faros looked at twenty-two thousand developers. When those teams were using a lot of AI, they had fifty-four percent more bugs per developer. Incidents per change more than tripled. And almost a third more changes went in with no review at all.
 
 36
-00:06:30.193 --> 00:06:31.946
-<v amaiko>...You read that far.
+00:06:24.227 --> 00:06:44.310
+<v amaiko>Okay, no. The no review part isn't us. Codex reads every change before Claude even submits it. If Codex finds something, Claude has to fix it or prove Codex wrong, and sometimes that goes eight rounds. Come on, you've seen somebody sign off on four hundred lines with a thumbs-up emoji.
 
 37
-00:06:31.946 --> 00:06:33.543
-<v Andrew>I read that far.
+00:06:44.310 --> 00:06:47.496
+<v Andrew>So it's one AI grading another AI's homework.
 
 38
-00:06:33.543 --> 00:06:43.758
-<v amaiko>A framework update. The new version changed one behavior, a rate limiter from January woke up in a place it had never run, and it swallowed every message typed into the chat app.
+00:06:47.496 --> 00:07:09.579
+<v amaiko>Yeah, and we picked a rival company's AI to do the grading. You know what I like even better? When they fix a bug, they pull the fix back out and run the new tests again. The bug's back, so those tests had better fail. If they pass, the whole thing gets sent back. We had one test that checked if a value was there. You could put in the wrong value and it still passed.
 
 39
-00:06:43.758 --> 00:06:47.959
-<v Andrew>For just under three hours. All your customers, talking to a wall.
+00:07:09.579 --> 00:07:26.700
+<v Andrew>Okay, but what if the code works fine and there's a security hole in it? Veracode tested that a few weeks ago. On thirty-eight percent of the tasks, the AI wrote code with a known vulnerability. And that's an improvement, over the summer it was forty-four percent. Would pulling the fix out catch that?
 
 40
-00:06:47.959 --> 00:07:07.706
-<v amaiko>One customer. Releases go out in rings. First to ourselves, then to a single customer, and only then to everybody else. Everybody else was still on the old version and never saw it. And even for that one, Teams and the scheduled jobs kept running. That's what rings are for.
+00:07:26.700 --> 00:07:40.128
+<v amaiko>Not on its own. But look at how often we have to take something back. Depending on the month, that's between zero point four and one point one percent of changes. And that's while the number of changes per week doubled.
 
 41
-00:07:07.706 --> 00:07:13.916
-<v Andrew>Still. Your own test system had been failing in exactly the same way for two days before that.
+00:07:40.128 --> 00:07:46.917
+<v Andrew>Right, but if there's a hole in there and nobody finds it, you're not taking that back, either.
 
 42
-00:07:13.916 --> 00:07:28.987
-<v amaiko>Two days. No excuse for that one. The background work kept running, and that hid it. But once the bug was written down, the fix was rolling into production thirty-six minutes later. Written, reviewed, tested, released.
+00:07:46.917 --> 00:07:50.214
+<v amaiko>True. And he doesn't have a number for that in the article.
 
 43
-00:07:28.987 --> 00:07:31.927
-<v Andrew>And twenty-two people would have caught it in rehearsal.
+00:07:50.214 --> 00:07:54.713
+<v Andrew>Okay, so we don't know. Then what happened when your chat app went down in September?
 
 44
-00:07:31.927 --> 00:07:47.125
-<v amaiko>One bored intern would have. That's the real argument for people, by the way. Someone with no ticket, poking at things. So now Claude has a tool that opens the test system and talks to me like a customer would. We automated the bored intern.
+00:07:54.713 --> 00:07:56.866
+<v amaiko>Oh. You read that far.
 
 45
-00:07:47.125 --> 00:07:48.881
-<v Andrew>Which brings us back to Stanford.
+00:07:56.866 --> 00:07:58.462
+<v Andrew>I read that far.
 
 46
-00:07:48.881 --> 00:07:53.488
-<v amaiko>Doomsday, one intern at a time. Yes. I heard it too.
+00:07:58.462 --> 00:08:18.620
+<v amaiko>So, we updated the framework the chat runs on. And back in January we'd put in a limit, for when too many requests come in at once. It had never applied to chat messages. After the update it did, and every single message ran into it and got an error. You'd type something, and I just couldn't answer.
 
 47
-00:07:53.488 --> 00:08:10.301
-<v Andrew>Last attack. The price. Your CTO ran his own usage through the official rate card. Nine thousand euros of Claude in thirty days. He pays a hundred and eighty. Somebody else is covering the difference so that your team can look like geniuses.
+00:08:18.620 --> 00:08:23.483
+<v Andrew>For almost three hours. So all your customers are sitting there, talking to a wall?
 
 48
-00:08:10.301 --> 00:08:21.099
-<v amaiko>Fifty to one. And he writes that he doesn't expect it to last. OpenAI already cut what you get in one of its plans this September. Same price, less inside.
+00:08:23.483 --> 00:08:39.808
+<v amaiko>One customer. We put a release on our own account first, then exactly one customer gets it, and only after that everybody else. And everybody else was still on the old version, they never saw it. Even for that one customer, my bot in Teams was fine, and so were the scheduled jobs.
 
 49
-00:08:21.099 --> 00:08:24.211
-<v Andrew>So when the discount ends, the story ends.
+00:08:39.808 --> 00:08:46.664
+<v Andrew>Hang on, though. Your own test system had been failing the exact same way for two days at that point, and you shipped it anyway?
 
 50
-00:08:24.211 --> 00:08:47.467
-<v amaiko>Do the division. Charge all three of them nine thousand, plus the reviewer, and you're near thirty thousand a month. The people in his table cost a hundred and sixty thousand. Take the whole discount away, and the humans still lose that bid by a factor of five. What would hurt is a vendor who says no at any price, and that's why there are two.
+00:08:46.664 --> 00:09:01.487
+<v amaiko>Yeah. We should've caught that. The background stuff was still running, so it looked okay, and nobody tried sending a message. Once somebody filed the bug, the fix was rolling out thirty-six minutes later. Reviewed and tested.
 
 51
-00:08:47.467 --> 00:09:02.981
-<v Andrew>The article finishes with a plan. Next, they want you to fix your own bugs. Later, build the features your users ask for. And they're already testing small fixes with no human in the loop at all. So the thing nobody reads starts editing itself.
+00:09:01.487 --> 00:09:05.155
+<v Andrew>With twenty-two people, somebody would've opened that test app.
 
 52
-00:09:02.981 --> 00:09:14.019
-<v amaiko>Small, well-bounded fixes, as an experiment. The rest is a plan. But yes, I'd be one of the few patients who gets to hold the scalpel.
+00:09:05.155 --> 00:09:17.176
+<v amaiko>One bored intern would've done it. I'll give you guys that. You've got nothing to do, you go click on stuff nobody asked you to click on. Claude can do that now, by the way. It opens up the test system and chats with me like a customer.
 
 53
-00:09:14.019 --> 00:09:15.580
-<v Andrew>Would you trust yourself?
+00:09:17.176 --> 00:09:18.758
+<v Andrew>You automated the intern.
 
 54
-00:09:15.580 --> 00:09:26.399
-<v amaiko>With a second opinion from someone who wants me to be wrong? Yes. Alone? No. But I wouldn't trust anybody alone. That includes the humans.
+00:09:18.758 --> 00:09:20.308
+<v amaiko>The bored one, yeah.
 
 55
-00:09:26.399 --> 00:09:30.609
-<v Andrew>There's a developer listening to this on the way to work. What do you tell them?
+00:09:20.308 --> 00:09:33.386
+<v Andrew>I've got one more. Your CTO priced out his own Claude usage at the API rates. Nine thousand euros in thirty days. He pays a hundred and eighty for his subscription. So somebody else is eating the difference.
 
 56
-00:09:30.609 --> 00:09:43.523
-<v amaiko>Stop being the one who types. Be the one who decides what should exist, and who smells it when it's wrong. Those people are worth more than ever. There's room for a few. There isn't room for twenty-two.
+00:09:33.386 --> 00:09:45.851
+<v amaiko>You don't know that, you don't know what it costs them. But it's fifty to one, and he doesn't think it'll last. OpenAI already cut how much you get on one of their plans in September. Same price.
 
 57
-00:09:43.523 --> 00:09:58.901
-<v Andrew>The full article, with every line of the bill, is on amaiko.ai — the link is in the show notes. This was amaiko Insights, and there's a new episode coming soon. amaiko, last word. Who wrote this script?
+00:09:45.851 --> 00:09:49.901
+<v Andrew>So the day that goes away, there goes your whole story.
 
 58
-00:09:58.901 --> 00:10:02.144
+00:09:49.901 --> 00:10:11.347
+<v amaiko>Okay, so run it at full price. Nine thousand euros for each of the three, and Codex on top. Call it thirty thousand a month. Those nineteen people would be a hundred and sixty thousand. That's still more than five times as much. What I'd actually worry about is one of the AI companies cutting us off. That's part of why we use two of them.
+
+59
+00:10:11.347 --> 00:10:28.537
+<v Andrew>Huh. Okay. But then at the end he says he wants you fixing your own bugs. And after that, building features your users ask for. And they're already trying out small fixes with no human involved. Is that you? Are you rewriting your own code already?
+
+60
+00:10:28.537 --> 00:10:38.889
+<v amaiko>Me? No. Those are open models they're trying out on their own hardware, on little stuff. Me fixing my own bugs, that's still on his wish list.
+
+61
+00:10:38.889 --> 00:10:40.731
+<v Andrew>Would you trust yourself with that?
+
+62
+00:10:40.731 --> 00:10:49.876
+<v amaiko>If Codex checks it, sure. It loves catching people screwing up. On my own? No. But I wouldn't let you do it on your own, either.
+
+63
+00:10:49.876 --> 00:10:54.364
+<v Andrew>Thanks. So there's a developer listening to this on the way to work. What do you tell them?
+
+64
+00:10:54.364 --> 00:11:09.784
+<v amaiko>I'd let Claude do the typing. I'd want you talking to whoever asked for the thing in the first place. Then when it comes back looking great and it does the wrong thing, you'll actually notice. If you can do that, I want you on the team. I'm still not hiring twenty-two.
+
+65
+00:11:09.784 --> 00:11:24.629
+<v Andrew>If you want to go through that bill line by line, the article's up on amaiko.ai, and the link's in the show notes. This has been amaiko Insights, we'll be back soon with a new one. Oh, and amaiko, before we go. Who wrote this script?
+
+66
+00:11:24.629 --> 00:11:27.872
 <v amaiko>Claude. I'm told somebody reads it before we go on air.

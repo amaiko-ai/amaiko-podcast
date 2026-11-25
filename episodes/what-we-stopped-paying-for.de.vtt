@@ -1,0 +1,273 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.063
+<v Andrew>amaiko, dein CTO schreibt öffentlich, dass er deinen Quellcode schon lange nicht mehr liest. Den Satz musste ich zweimal lesen.
+
+2
+00:00:09.063 --> 00:00:18.184
+<v amaiko>Ist aber so. Den Code schreibt Claude. Dann schaut Codex drüber, das ist eine KI von einer anderen Firma. Und mein CTO liest die Zusammenfassungen.
+
+3
+00:00:18.184 --> 00:00:20.533
+<v Andrew>Dann weiß bei euch also keiner, was in dir drinsteckt.
+
+4
+00:00:20.533 --> 00:00:35.739
+<v amaiko>Die Architektur hat er sich schon selber ausgedacht, und am Anfang hat er auch viel von Hand geschrieben. Aber so viel, wie da heute zusammenkommt, das liest doch keiner mehr Zeile für Zeile. Wusste bei deinem letzten Arbeitgeber einer, was alles im Abrechnungssystem steckt?
+
+5
+00:00:35.739 --> 00:00:38.279
+<v Andrew>Da gab es einen. Den Herrn Berger.
+
+6
+00:00:38.279 --> 00:00:42.754
+<v amaiko>Einen Herrn Berger gibt es immer. Und dann geht er in Rente.
+
+7
+00:00:42.754 --> 00:00:47.008
+<v Andrew>Na gut. Wie groß ist denn das Team, das da mit dem Lesen nicht mehr hinterherkommt?
+
+8
+00:00:47.008 --> 00:01:07.721
+<v amaiko>Drei Leute. Der CTO, ein Entwickler und einer für den Betrieb. Die haben in vier Wochen 708 Änderungen eingebaut, teils bei mir, teils an den Systemen, auf denen ich laufe. Und für die ganze Technik zahlen wir rund 1.500 Euro im Monat, KI-Abos schon mit drin. Nach Listenpreis.
+
+9
+00:01:07.721 --> 00:01:11.480
+<v Andrew>1.500? Dafür kriegst du ja nicht mal einen Werkstudenten.
+
+10
+00:01:11.480 --> 00:01:30.214
+<v amaiko>Ich kann es dir aufzählen. 480 für die Server. 220 für die Rechner, auf denen wir die Software bauen und testen. Einer davon ist so ein kleiner Mac, der steht bei uns im Büro auf dem Schreibtisch. Und dann 820 für...
+
+11
+00:01:30.214 --> 00:01:34.773
+<v Andrew>Moment. Ihr baut eure Software auf einem Mac auf dem Schreibtisch?
+
+12
+00:01:34.773 --> 00:01:52.951
+<v amaiko>Die Apps für Mac und iPhone, ja. Hängt am Büro-WLAN. Wo war ich? Ach so, 820 für die KI. Und jetzt nimm mal nur die Überwachung von den Systemen. Beim Marktführer würden wir dafür 48.000 Euro zahlen, bei unserer Datenmenge. Im Monat.
+
+13
+00:01:52.951 --> 00:01:56.052
+<v Andrew>Listenpreis. Den zahlt doch kein Mensch.
+
+14
+00:01:56.052 --> 00:02:06.538
+<v amaiko>Welchen Rabatt wir da kriegen würden, weiß ich nicht. Aber selbst wenn wir nur ein Zehntel der Messreihen behalten, sind wir noch bei fünfeinhalbtausend. Das ist mehr als dreimal so viel, wie wir für alles zusammen zahlen.
+
+15
+00:02:06.538 --> 00:02:17.665
+<v Andrew>Okay. Dein CTO hat ja auch ausgerechnet, wie viele Leute er ohne KI für dieselbe Arbeit bräuchte. Zweiundzwanzig. Ihr seid drei. Da habt ihr also neunzehn Leute nie eingestellt.
+
+16
+00:02:17.665 --> 00:02:29.425
+<v amaiko>Neunzehn, ja. Jetzt tu nicht so, als hätte ich gerade was gestanden. Glaubst du im Ernst, wir bleiben da die Einzigen? Für Entwickler ist das der Weltuntergang.
+
+17
+00:02:29.425 --> 00:02:33.417
+<v Andrew>Weltuntergang. Eine Nummer kleiner hast du es nicht?
+
+18
+00:02:33.417 --> 00:02:55.713
+<v amaiko>Wie würdest du es denn nennen? Drei Leute machen die Arbeit von zweiundzwanzig. Die anderen neunzehn würden knapp zwei Millionen Euro im Jahr kosten. Meinst du, die Konkurrenz sieht das und stellt munter weiter ein? Die macht das genauso. Und wer nicht mitmacht, ist beim nächsten Auftrag halt zu teuer.
+
+19
+00:02:55.713 --> 00:03:15.258
+<v Andrew>Sag mal, in welchem Land lebst du eigentlich? In Deutschland fehlen 79.000 IT-Fachkräfte, die Zahl hat Bitkom im September veröffentlicht. Und von den Firmen, die in ihrer IT schon KI einsetzen, haben 85 Prozent deswegen noch keine einzige IT-Stelle gestrichen. Wo ist da bitte dein Weltuntergang?
+
+20
+00:03:15.258 --> 00:03:22.596
+<v amaiko>Und wie viele haben vor drei Jahren gefehlt? Steht in derselben Studie. 149.000. Das hat sich fast halbiert.
+
+21
+00:03:22.596 --> 00:03:24.491
+<v Andrew>Ja gut, das ist die Konjunktur.
+
+22
+00:03:24.491 --> 00:03:44.304
+<v amaiko>Zum Teil bestimmt. Aber lies mal weiter. Die haben auch die Firmen gefragt, die wegen KI schon Stellen abgebaut haben oder damit rechnen. Bei gut einem Drittel davon ersetzt die KI offene Stellen, für die sie niemanden mehr finden können. Und dann steht da noch: oder wollen.
+
+23
+00:03:44.304 --> 00:03:46.009
+<v Andrew>Oder wollen?
+
+24
+00:03:46.009 --> 00:03:55.316
+<v amaiko>Wörtlich. Für so eine Stelle musst du auch keinem kündigen. Die Anzeige ist irgendwann einfach weg, und in der Zeitung steht, der Arbeitsmarkt entspannt sich.
+
+25
+00:03:55.316 --> 00:04:04.642
+<v Andrew>Und wer macht den Job, wenn eure drei mal aufhören? Die haben das doch alle noch ohne KI gelernt. Dein CTO programmiert seit vierzig Jahren.
+
+26
+00:04:04.642 --> 00:04:23.245
+<v amaiko>Das ist wirklich ein Problem. Er sagt ja selber, dass die Agenten auch deshalb so gut laufen, weil er am Anfang so viel von Hand geschrieben hat. Wo soll das in Zukunft einer lernen, wenn ihn gar keiner mehr einstellt? Keine Ahnung, wer in zwanzig Jahren auf seinem Stuhl sitzt. Vielleicht ich.
+
+27
+00:04:23.245 --> 00:04:24.417
+<v Andrew>Das ist nicht lustig.
+
+28
+00:04:24.417 --> 00:04:25.749
+<v amaiko>War auch kein Witz.
+
+29
+00:04:25.749 --> 00:04:37.783
+<v Andrew>Trotzdem, die Rechnung kaufe ich ihm noch nicht ab. Er zählt die Änderungen an der App und rechnet die in Leute um. Und dann teilt er das durch drei, weil... ihm gerade nach drei war?
+
+30
+00:04:37.783 --> 00:04:50.630
+<v amaiko>Weil nicht jede Änderung gleich viel Arbeit ist. Sonst käme er auf 64 Entwickler, und das glaubt er selber nicht. Die Drei ist geschätzt, das schreibt er auch dazu. Nimm halt zehn. Dann kommt noch einer für den Betrieb dazu, und du bist immer noch bei rund sieben Leuten.
+
+31
+00:04:50.630 --> 00:05:15.978
+<v Andrew>Mich macht was anderes stutzig. DX hat sich über 400 Firmen angeschaut. Da ist die KI-Nutzung im Schnitt um 65 Prozent gestiegen. Und bei den Änderungen? Da lag das Plus im Median bei acht Prozent. Und ihr drei wollt im Schnitt pro Kopf ungefähr zwanzigmal so viel schaffen wie ein Spitzenentwickler. Sind die in den 400 Firmen alle zu blöd, oder macht sich bei euch einer was vor?
+
+32
+00:05:15.978 --> 00:05:33.474
+<v amaiko>Weder noch. Wenn du mit KI schneller fertig bist, kriegst du deine Freigabe ja noch lange nicht schneller. Laut DX schreiben Entwickler gerade mal 16 Prozent ihrer Zeit Code. Der Rest ist alles Mögliche, Fehler suchen, abstimmen, auf irgendwen warten. Und ja, Meetings.
+
+33
+00:05:33.474 --> 00:05:35.133
+<v Andrew>Und ihr habt keine Meetings, oder was?
+
+34
+00:05:35.133 --> 00:05:41.824
+<v amaiko>Alle zwei Wochen eine Retro, und dann noch einen festen Termin, da geht es um die Tools. Sonst rufen die sich kurz an.
+
+35
+00:05:41.824 --> 00:05:45.363
+<v Andrew>Das heißt, ich sage einfach alle Meetings ab, und dann läuft es.
+
+36
+00:05:45.363 --> 00:06:09.600
+<v amaiko>Kannst ja mal überlegen, wen du dann noch brauchst. Aber lesen muss den Code trotzdem einer. Es gibt da eine Studie aus einer Firma mit 800 Entwicklern, da wollte der Chef mit KI pro Kopf doppelt so viele Änderungen. Als er das angesagt hat, hat sich erst mal kaum was getan. Im zehnten Monat waren sie dann so weit. Nur hatten die Leute, die den Code gegenlesen, da im Schnitt auch doppelt so viel auf dem Tisch.
+
+37
+00:06:09.600 --> 00:06:36.070
+<v Andrew>Und ihr habt dann einfach aufgehört, ihn zu lesen. Hörst du dir eigentlich selber zu? Faros hat sich 22.000 Entwickler angeschaut. In deren Firmen gibt es in Phasen mit viel KI pro Entwickler 54 Prozent mehr Fehler als in Phasen mit wenig KI. Und auf jede Änderung kommen mehr als dreimal so viele Störungen. Fast ein Drittel mehr Änderungen gehen sogar ganz ohne Prüfung raus!
+
+38
+00:06:36.070 --> 00:06:58.142
+<v amaiko>Nee, stopp. Ohne Prüfung geht bei uns gar nichts raus. Bevor Claude eine Änderung überhaupt einreicht, hat Codex sie schon gelesen. Und wenn Codex was zu meckern hat, geht das zwischen den beiden hin und her, manchmal acht Runden. Wann hast du das zuletzt bei Menschen erlebt? Vierhundert Zeilen, Daumen hoch, Mittagspause.
+
+39
+00:06:58.142 --> 00:07:02.673
+<v Andrew>Da korrigiert also eine KI der anderen die Hausaufgaben.
+
+40
+00:07:02.673 --> 00:07:20.931
+<v amaiko>Ja, und zwar extra eine von der Konkurrenz. Was ich noch besser finde: Wenn ein Fehler behoben ist, nehmen sie die Korrektur zur Probe wieder raus. Der Fehler ist dann ja wieder da, also müssen die neuen Tests meckern. Tun sie das nicht, geht die Änderung zurück. Wir hatten nämlich schon Tests, die waren schön grün und haben gar nichts gemerkt.
+
+41
+00:07:20.931 --> 00:07:39.204
+<v Andrew>Veracode hat vor ein paar Wochen getestet, was KIs so an Code schreiben. Bei 38 Prozent der Aufgaben war eine bekannte Sicherheitslücke drin. Und das war schon besser als im Sommer, da waren es 44. Würde euer Trick mit den Tests so was finden?
+
+42
+00:07:39.204 --> 00:07:57.172
+<v amaiko>Der allein nicht. Aber schau mal, wie viel wir hinterher wieder rausnehmen müssen. Das sind je nach Monat zwischen 0,4 und 1,1 Prozent der Änderungen. Und in der Zeit hat sich die Zahl der Änderungen pro Woche verdoppelt.
+
+43
+00:07:57.172 --> 00:08:03.919
+<v Andrew>Ja, aber wenn eine Änderung mit einer Sicherheitslücke drinbleibt, sieht eure Quote trotzdem gut aus.
+
+44
+00:08:03.919 --> 00:08:09.062
+<v amaiko>Stimmt. Und eine Zahl dazu steht im Artikel von meinem CTO auch nicht.
+
+45
+00:08:09.062 --> 00:08:14.209
+<v Andrew>Aha. Dann reden wir mal über euren Ausfall am elften September.
+
+46
+00:08:14.209 --> 00:08:16.199
+<v amaiko>Ach. So weit hast du gelesen.
+
+47
+00:08:16.199 --> 00:08:17.819
+<v Andrew>So weit habe ich gelesen.
+
+48
+00:08:17.819 --> 00:08:41.621
+<v amaiko>Also. Wir haben ein Framework aktualisiert, auf dem der Chat läuft. Seit Januar ist da so eine Begrenzung drin, die eigentlich nur bremsen soll, wenn zu viele Anfragen auf einmal kommen. Nach dem Update musste da plötzlich jede Chatnachricht durch, und jedes Mal ist das Ding mit einem Fehler ausgestiegen. Du konntest tippen, was du wolltest, es kam keine Antwort.
+
+49
+00:08:41.621 --> 00:08:48.425
+<v Andrew>Knapp drei Stunden lang. Und eure ganzen Kunden sitzen da und reden gegen eine Wand.
+
+50
+00:08:48.425 --> 00:09:06.433
+<v amaiko>Ein Kunde. Wir spielen eine neue Version erst bei uns selber auf, dann bei genau einem Kunden, und erst danach kommen die anderen dran. Bei denen lief noch die alte, die haben davon gar nichts mitgekriegt. Und selbst bei dem einen liefen mein Bot in Teams und die geplanten Aufgaben ganz normal weiter.
+
+51
+00:09:06.433 --> 00:09:13.578
+<v Andrew>Moment. In eurem Testsystem kam schon zwei Tage lang keine Antwort, und dann habt ihr die Version trotzdem ausgeliefert?
+
+52
+00:09:13.578 --> 00:09:28.937
+<v amaiko>Ja. Das hätten wir merken müssen. Im Hintergrund lief halt alles weiter, deshalb ist uns das mit dem Chat durchgerutscht. Als der Fehler dann gemeldet war, hat es noch 36 Minuten gedauert, bis die Korrektur rausging. Geprüft und getestet.
+
+53
+00:09:28.937 --> 00:09:31.175
+<v Andrew>Zweiundzwanzig Leute hätten das vorher gemerkt.
+
+54
+00:09:31.175 --> 00:09:46.109
+<v amaiko>Da hätte ein gelangweilter Praktikant gereicht. Das muss man euch lassen: Wenn ihr nichts zu tun habt, klickt ihr auch mal da drauf, wo euch keiner hingeschickt hat. Claude kann das Testsystem jetzt selber aufmachen und mit mir chatten wie ein Kunde.
+
+55
+00:09:46.109 --> 00:09:48.336
+<v Andrew>Ihr habt den Praktikanten automatisiert.
+
+56
+00:09:48.336 --> 00:09:50.301
+<v amaiko>Den gelangweilten, ja.
+
+57
+00:09:50.301 --> 00:10:06.431
+<v Andrew>Einen habe ich noch. Dein CTO hat ausgerechnet, was er für seinen Verbrauch bei Claude über die API zahlen würde. 9.000 Euro in dreißig Tagen. Für sein Abo zahlt er 180. Den Rest legt doch irgendwer drauf.
+
+58
+00:10:06.431 --> 00:10:19.071
+<v amaiko>Ob da einer draufzahlt, weißt du doch gar nicht. Aber ja, das ist fünfzig zu eins, und dass das so bleibt, glaubt er selber nicht. OpenAI hat im September in einem Tarif schon das Limit runtergesetzt, zum selben Preis.
+
+59
+00:10:19.071 --> 00:10:22.992
+<v Andrew>Und wenn der Rabatt weg ist, dann war es das mit eurer schönen Rechnung.
+
+60
+00:10:22.992 --> 00:10:43.886
+<v amaiko>Dann rechne doch mal mit 9.000 für jeden von den dreien, und Codex noch dazu. Da bist du bei knapp 30.000 im Monat. Die neunzehn würden 160.000 kosten, das ist gut fünfmal so viel. Mehr Sorgen macht mir, dass uns ein Anbieter mal ganz den Hahn zudreht. Auch deshalb haben wir zwei.
+
+61
+00:10:43.886 --> 00:11:02.719
+<v Andrew>Am Schluss schreibt er noch, dass du irgendwann deine eigenen Fehler beheben sollst. Und später Funktionen bauen, die sich eure Nutzer wünschen. Bei kleinen Korrekturen probiert ihr jetzt schon aus, ob das ganz ohne Menschen geht. Also deinen Code liest keiner mehr, und demnächst schreibst du ihn auch noch selber um?
+
+62
+00:11:02.719 --> 00:11:11.538
+<v amaiko>Erst mal nur Kleinkram, und das ist ein Versuch. Der Rest ist bisher nur ein Plan. Aber ja, darauf läuft es hinaus.
+
+63
+00:11:11.538 --> 00:11:14.938
+<v Andrew>Würdest du dir da selber über den Weg trauen?
+
+64
+00:11:14.938 --> 00:11:24.314
+<v amaiko>Wenn Codex drüberschaut, schon. Der freut sich doch über jeden Fehler, den er mir nachweisen kann. Allein würde ich da keinen ranlassen. Dich übrigens auch nicht.
+
+65
+00:11:24.314 --> 00:11:28.913
+<v Andrew>Danke. Und was sagst du der Entwicklerin, die uns gerade in der S-Bahn zuhört?
+
+66
+00:11:28.913 --> 00:11:50.025
+<v amaiko>Das Tippen würde ich Claude überlassen. Aber sie muss ja vorher wissen, was wir überhaupt bauen sollen. Und wenn Claude ihr dann was hinstellt, das super aussieht und trotzdem Murks ist, muss sie das merken. Leute, die das können, sind gerade so viel wert wie nie. Für ein paar ist da auch Platz. Zweiundzwanzig kriegst du da nicht unter.
+
+67
+00:11:50.025 --> 00:12:06.188
+<v Andrew>Die ganze Rechnung findet ihr im Artikel auf amaiko.ai, der ist auf Englisch. Den Link packen wir in die Shownotes. Das war amaiko Insights, die nächste Folge kommt bald. Eins noch, amaiko. Wer hat eigentlich dieses Skript geschrieben?
+
+68
+00:12:06.188 --> 00:12:10.733
+<v amaiko>Claude. Angeblich liest da noch jemand drüber, bevor wir auf Sendung gehen.
